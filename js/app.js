@@ -101,9 +101,11 @@
     const elSec = $("#stat-sections");
     const elQ = $("#stat-questions");
     const elP = $("#stat-progress");
+    const elHomeQuiz = $("#home-quiz-count");
     if (elSec) elSec.textContent = String(studyData.length);
     if (elQ) elQ.textContent = String(quizData.length);
     if (elP) elP.textContent = `${st.pct}%`;
+    if (elHomeQuiz) elHomeQuiz.textContent = String(quizData.length);
   }
 
   /* ---------- Study ---------- */
@@ -204,15 +206,32 @@
     if (state.currentIndex >= list.length) state.currentIndex = list.length - 1;
   }
 
+  function modeCounts() {
+    const all = quizData.length;
+    const unanswered = quizData.filter((q) => !state.answers[q.id]).length;
+    const wrong = state.wrongIds.filter((id) => quizData.some((q) => q.id === id)).length;
+    return { all, unanswered, wrong };
+  }
+
   function renderQuiz() {
     clampIndex();
     const list = currentList();
     const st = progressStats();
+    const counts = modeCounts();
 
-    $("#q-answered-badge").textContent = `Đã làm ${st.answered}`;
+    const totalBadge = $("#q-total-badge");
+    if (totalBadge) totalBadge.textContent = `Tổng ${st.total} câu`;
+    $("#q-answered-badge").textContent = `Đã làm ${st.answered}/${st.total}`;
     $("#q-correct-badge").textContent = `Đúng ${st.correct}`;
     $("#q-wrong-badge").textContent = `Sai ${st.wrong}`;
     $("#quiz-progress-fill").style.width = `${st.pct}%`;
+
+    const modeAll = $("#mode-all");
+    const modeUn = $("#mode-unanswered");
+    const modeWrong = $("#mode-wrong");
+    if (modeAll) modeAll.textContent = `Tất cả câu (${counts.all})`;
+    if (modeUn) modeUn.textContent = `Chưa trả lời (${counts.unanswered})`;
+    if (modeWrong) modeWrong.textContent = `Chỉ câu sai (${counts.wrong})`;
 
     $$(".mode-tabs button").forEach((btn) => {
       btn.classList.toggle("active", btn.dataset.mode === state.mode);
@@ -229,6 +248,8 @@
       $("#q-explain").className = "explain-box";
       $("#q-pos").textContent = "0 / 0";
       $("#q-index-badge").textContent = "—";
+      const qNumEmpty = $("#q-num");
+      if (qNumEmpty) qNumEmpty.textContent = "Câu số —";
       $("#btn-prev").disabled = true;
       $("#btn-next").disabled = true;
       return;
@@ -236,11 +257,22 @@
 
     const q = list[state.currentIndex];
     const answered = state.answers[q.id];
+    const pos = state.currentIndex + 1;
+    const totalInMode = list.length;
+    // Absolute order in full bank (1-based), for stable "số câu" across modes
+    const bankNo = quizData.findIndex((x) => x.id === q.id) + 1;
 
     $("#q-source").textContent = q.source || "bank";
     $("#q-id").textContent = q.id;
-    $("#q-index-badge").textContent = `Câu ${state.currentIndex + 1}`;
-    $("#q-pos").textContent = `${state.currentIndex + 1} / ${list.length}`;
+    $("#q-index-badge").textContent = `Câu ${pos} / ${totalInMode}`;
+    const qNum = $("#q-num");
+    if (qNum) {
+      qNum.textContent =
+        state.mode === "all"
+          ? `Câu số ${bankNo}/${st.total}`
+          : `Câu số ${bankNo}/${st.total} · lọc ${pos}/${totalInMode}`;
+    }
+    $("#q-pos").textContent = `${pos} / ${totalInMode}`;
     $("#q-text").textContent = q.question;
 
     const box = $("#q-options");

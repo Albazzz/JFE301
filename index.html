@@ -61,8 +61,8 @@
           <span class="badge badge-accent">Phần 2</span>
           <h2>Kiểm tra trắc nghiệm</h2>
           <p>
-            Câu hỏi từ ngân hàng ôn + mẫu <code>test.txt</code>. Chọn đáp án → hiện đúng/sai + giải thích.
-            Mũi tên trái/phải chuyển câu. Câu sai được lưu để học lại.
+            <strong id="home-quiz-count">—</strong> câu hỏi từ ngân hàng ôn + mẫu <code>test.txt</code>.
+            Chọn đáp án → hiện đúng/sai + giải thích. Mũi tên trái/phải chuyển câu. Câu sai được lưu để học lại.
           </p>
           <div class="card-actions">
             <a class="btn btn-primary" href="#/quiz" data-nav>Làm bài</a>
@@ -103,14 +103,15 @@
     </section>
     <div class="container quiz-shell">
       <div class="mode-tabs" role="tablist">
-        <button type="button" class="active" data-mode="all">Tất cả câu</button>
-        <button type="button" data-mode="unanswered">Chưa trả lời</button>
-        <button type="button" data-mode="wrong">Chỉ câu sai</button>
+        <button type="button" class="active" data-mode="all" id="mode-all">Tất cả câu</button>
+        <button type="button" data-mode="unanswered" id="mode-unanswered">Chưa trả lời</button>
+        <button type="button" data-mode="wrong" id="mode-wrong">Chỉ câu sai</button>
       </div>
 
       <div class="quiz-toolbar">
         <div class="quiz-stats">
-          <span class="badge" id="q-index-badge">Câu 1</span>
+          <span class="badge badge-accent" id="q-total-badge">Tổng 0 câu</span>
+          <span class="badge" id="q-index-badge">Câu 1 / 1</span>
           <span class="badge badge-done" id="q-answered-badge">Đã làm 0</span>
           <span class="badge" id="q-correct-badge">Đúng 0</span>
           <span class="badge" style="background:var(--wrong-bg);color:var(--wrong);border:0" id="q-wrong-badge">Sai 0</span>
@@ -127,6 +128,7 @@
         <div class="quiz-meta">
           <span class="badge" id="q-source">bank</span>
           <span class="badge badge-accent" id="q-id">—</span>
+          <span class="badge" id="q-num">Câu số —</span>
         </div>
         <h2 class="q-text" id="q-text">Đang tải câu hỏi…</h2>
         <div class="options" id="q-options"></div>
