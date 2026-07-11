@@ -133,8 +133,13 @@
         <h2 class="q-text" id="q-text">Đang tải câu hỏi…</h2>
         <div class="options" id="q-options"></div>
         <div class="explain-box" id="q-explain">
-          <strong id="q-explain-title">Giải thích</strong>
-          <p id="q-explain-body"></p>
+          <div class="explain-header">
+            <strong id="q-explain-title">Giải thích</strong>
+            <button type="button" class="btn btn-ghost btn-sm" id="btn-toggle-explain" hidden>Ẩn giải thích</button>
+          </div>
+          <div class="explain-body-wrap" id="q-explain-body-wrap">
+            <div id="q-explain-body" class="explain-body"></div>
+          </div>
         </div>
         <div class="nav-arrows">
           <button type="button" class="icon-btn" id="btn-prev" aria-label="Câu trước">←</button>

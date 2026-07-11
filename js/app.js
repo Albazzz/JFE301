@@ -24,6 +24,7 @@
       wrongIds: [],
       currentIndex: 0,
       mode: "all",
+      explainHidden: false,
     };
   }
 
@@ -281,7 +282,8 @@
       const btn = document.createElement("button");
       btn.type = "button";
       btn.className = "option-btn";
-      btn.textContent = `${String.fromCharCode(65 + i)}. ${opt}`;
+      const label = splitOption(opt).label;
+      btn.textContent = `${String.fromCharCode(65 + i)}. ${label}`;
       btn.dataset.index = String(i);
       if (answered) {
         btn.disabled = true;
@@ -295,23 +297,107 @@
     });
 
     const exp = $("#q-explain");
+    const toggleBtn = $("#btn-toggle-explain");
+    const bodyWrap = $("#q-explain-body-wrap");
     if (answered) {
       exp.className = `explain-box show ${answered.correct ? "ok" : "bad"}`;
       $("#q-explain-title").textContent = answered.correct ? "Chính xác!" : "Chưa đúng";
-      $("#q-explain-body").textContent =
-        (answered.correct ? "" : `Bạn chọn: ${q.options[answered.choice]}\n`) +
-        `Đáp án đúng: ${q.options[q.correctIndex]}\n\n` +
-        (q.explanation || "");
-      if (q.keywords && q.keywords.length) {
-        $("#q-explain-body").textContent += `\n\nGợi ý ôn: ${q.keywords.join(", ")}`;
+      $("#q-explain-body").innerHTML = buildExplanationHtml(q, answered);
+      if (toggleBtn) {
+        toggleBtn.hidden = false;
+        toggleBtn.textContent = state.explainHidden ? "Hiện giải thích" : "Ẩn giải thích";
       }
+      if (bodyWrap) bodyWrap.classList.toggle("collapsed", !!state.explainHidden);
     } else {
       exp.className = "explain-box";
-      $("#q-explain-body").textContent = "";
+      $("#q-explain-body").innerHTML = "";
+      if (toggleBtn) toggleBtn.hidden = true;
+      if (bodyWrap) bodyWrap.classList.remove("collapsed");
     }
 
     $("#btn-prev").disabled = state.currentIndex <= 0;
     $("#btn-next").disabled = state.currentIndex >= list.length - 1;
+  }
+
+  /** Split "Label (detail...)" option text into short label + detail. */
+  function splitOption(opt) {
+    const s = String(opt || "").trim();
+    const m = s.match(/^(.+?)\s*\(([\s\S]+)\)\s*\.?$/);
+    if (m) return { label: m[1].trim(), detail: m[2].trim().replace(/\.\.+$/, ".") };
+    return { label: s.replace(/\.\.+$/, "."), detail: "" };
+  }
+
+  function stripExplanationPrefix(text) {
+    return String(text || "")
+      .replace(/^Đáp án:\s*/i, "")
+      .replace(/\.\.+$/, ".")
+      .trim();
+  }
+
+  function letterOf(i) {
+    return String.fromCharCode(65 + i);
+  }
+
+  /**
+   * Build structured explanation: why correct + why each wrong option.
+   * Uses q.optionReasons[i] when present; else extracts from option parentheses / explanation.
+   */
+  function buildExplanationHtml(q, answered) {
+    const correct = q.correctIndex;
+    const reasons = Array.isArray(q.optionReasons) ? q.optionReasons : null;
+    const expRaw = stripExplanationPrefix(q.explanation || "");
+    const correctSplit = splitOption(q.options[correct] || "");
+
+    let whyCorrect =
+      (reasons && reasons[correct]) ||
+      correctSplit.detail ||
+      expRaw ||
+      "Đây là đáp án đúng theo định nghĩa/khái niệm trong đề thi FE.";
+
+    // If explanation starts with the answer label, keep the explanatory part
+    if (expRaw && correctSplit.label && expRaw.toLowerCase().startsWith(correctSplit.label.toLowerCase())) {
+      const after = expRaw.slice(correctSplit.label.length).replace(/^[\s:.\-–—]+/, "");
+      const fromParen = after.match(/^\(([\s\S]+)\)\s*\.?$/);
+      if (fromParen) whyCorrect = fromParen[1].trim();
+      else if (after.length > 8) whyCorrect = after;
+    }
+
+    let html = "";
+    if (!answered.correct) {
+      const yours = splitOption(q.options[answered.choice] || "");
+      html += `<p class="exp-yours"><strong>Bạn đã chọn ${letterOf(answered.choice)} — ${escapeHtml(yours.label)}</strong></p>`;
+    }
+
+    html += `<div class="exp-correct">`;
+    html += `<strong>✓ Vì sao chọn ${letterOf(correct)} — ${escapeHtml(correctSplit.label)}</strong>`;
+    html += `<p>${escapeHtml(whyCorrect)}</p>`;
+    html += `</div>`;
+
+    html += `<div class="exp-others"><strong>Vì sao các lựa chọn còn lại sai</strong><ul>`;
+    q.options.forEach((opt, i) => {
+      if (i === correct) return;
+      const sp = splitOption(opt);
+      let whyWrong = (reasons && reasons[i]) || sp.detail || defaultWhyWrong(sp.label, correctSplit.label, q.question);
+      html += `<li><span class="exp-letter">${letterOf(i)}.</span> <strong>${escapeHtml(sp.label)}</strong> — ${escapeHtml(whyWrong)}</li>`;
+    });
+    html += `</ul></div>`;
+
+    if (q.keywords && q.keywords.length) {
+      html += `<p class="exp-hint"><strong>Gợi ý ôn:</strong> ${escapeHtml(q.keywords.join(", "))}</p>`;
+    }
+    return html;
+  }
+
+  function defaultWhyWrong(wrongLabel, correctLabel, question) {
+    const w = String(wrongLabel || "").trim();
+    const c = String(correctLabel || "").trim();
+    if (!w) return "Không phải đáp án đúng cho câu hỏi này.";
+    // Short heuristics for common FE distractors
+    const low = w.toLowerCase();
+    if (/register|cache|ram|cpu|alu|control unit/.test(low) && /peripheral|ngoại vi|input/i.test(question + c)) {
+      return `${w} là thành phần bên trong CPU/máy, không phải thiết bị ngoại vi (peripheral).`;
+    }
+    return `Không đúng: ${w} không phải khái niệm/đáp án phù hợp với câu hỏi (đáp án đúng là ${c}).`;
   }
 
   function selectAnswer(q, choiceIndex, list) {
@@ -433,6 +519,16 @@
     const next = $("#btn-next");
     if (prev) prev.addEventListener("click", goPrev);
     if (next) next.addEventListener("click", goNext);
+
+    const toggleExplain = $("#btn-toggle-explain");
+    if (toggleExplain) {
+      toggleExplain.addEventListener("click", () => {
+        state.explainHidden = !state.explainHidden;
+        const wrap = $("#q-explain-body-wrap");
+        if (wrap) wrap.classList.toggle("collapsed", !!state.explainHidden);
+        toggleExplain.textContent = state.explainHidden ? "Hiện giải thích" : "Ẩn giải thích";
+      });
+    }
 
     $$(".mode-tabs button").forEach((btn) => {
       btn.addEventListener("click", () => setMode(btn.dataset.mode));
