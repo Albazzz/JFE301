@@ -88,10 +88,17 @@ window.QUIZ_DATA = [
       "CPU",
       "RAM"
     ],
-    "correctIndex": 0,
-    "explanation": "Đáp án: Hard disk (Ổ cứng là thiết bị lưu trữ bất biến / non-volatile, nó giữ nguyên dữ liệu ngay cả khi ngắt nguồn điện. Trong khi đó, RAM, CPU, Cache và Register đều mất dữ liệu khi tắt máy)..",
-    "answerText": "Hard disk (Ổ cứng là thiết bị lưu trữ bất biến / non-volatile, nó giữ nguyên dữ liệu ngay cả khi ngắt nguồn điện. Trong khi đó, RAM, CPU, Cache và Register đều mất dữ liệu khi tắt máy).",
-    "keywords": []
+    "correctIndex": 1,
+    "explanation": "Đáp án: Hard disk. Ổ cứng là lưu trữ non-volatile (giữ dữ liệu khi mất điện). Register, Cache, CPU, RAM không phải thiết bị lưu trữ bất biến theo nghĩa đề.",
+    "answerText": "Hard disk",
+    "keywords": [],
+    "optionReasons": [
+      "Register: bộ nhớ tạm trong CPU, volatile — không phải non-volatile storage.",
+      "Hard disk: lưu trữ secondary, non-volatile — giữ dữ liệu khi ngắt điện.",
+      "Cache memory: volatile, mất dữ liệu khi tắt máy.",
+      "CPU: bộ xử lý, không phải thiết bị lưu trữ non-volatile.",
+      "RAM: primary memory volatile, mất dữ liệu khi mất điện."
+    ]
   },
   {
     "id": "t007",
@@ -129,15 +136,23 @@ window.QUIZ_DATA = [
     "source": "test",
     "question": "Which of the following is classified as a peripheral device?",
     "options": [
-      "Performing port number-based filtering of e-mail which is sent from the internal network to an external mail server.",
-      "Input unit (Khối đầu vào - Input unit - ví dụ như chuột, bàn phím, máy quét là thiết bị ngoại vi kết nối từ bên ngoài vào. Các lựa chọn còn lại như Control unit, ALU, CPU, hay Register đều là các thành phần cốt lõi bên trong vi xử lý).",
-      "AB+CDE/-*",
-      "Harder remote control, cheaper labor"
+      "Control unit",
+      "Input unit",
+      "ALU",
+      "Register",
+      "CPU"
     ],
     "correctIndex": 1,
-    "explanation": "Đáp án: Input unit (Khối đầu vào - Input unit - ví dụ như chuột, bàn phím, máy quét là thiết bị ngoại vi kết nối từ bên ngoài vào. Các lựa chọn còn lại như Control unit, ALU, CPU, hay Register đều là các thành phần cốt lõi bên trong vi xử lý)..",
-    "answerText": "Input unit (Khối đầu vào - Input unit - ví dụ như chuột, bàn phím, máy quét là thiết bị ngoại vi kết nối từ bên ngoài vào. Các lựa chọn còn lại như Control unit, ALU, CPU, hay Register đều là các thành phần cốt lõi bên trong vi xử lý).",
-    "keywords": []
+    "explanation": "Đáp án: Input unit. Khối đầu vào (bàn phím, chuột, máy quét...) là thiết bị ngoại vi kết nối từ bên ngoài vào máy tính (peripheral device).",
+    "answerText": "Input unit",
+    "keywords": [],
+    "optionReasons": [
+      "Control unit nằm trong CPU, điều khiển các đơn vị khác — không phải thiết bị ngoại vi.",
+      "Input unit (bàn phím, chuột, máy quét...) kết nối bên ngoài máy, thuộc peripheral devices.",
+      "ALU là khối số học/logic bên trong CPU, không phải thiết bị ngoại vi.",
+      "Register là thanh ghi tốc độ cao bên trong CPU, không phải peripheral.",
+      "CPU là bộ xử lý trung tâm (Control unit + ALU), không phải thiết bị ngoại vi."
+    ]
   },
   {
     "id": "t010",
