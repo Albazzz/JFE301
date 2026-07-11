@@ -16,13 +16,13 @@ window.STUDY_DATA = [
     "paragraphs": [],
     "bullets": [
       "Thế hệ máy tính thường được chia theo linh kiện logic (logic gate) chủ yếu được dùng.",
-      "The 1 (1940s): dùng đèn điện tử (vacuum tube). ENIAC (1946) là máy tính sớm nhất, tiêu thụ điện rất lớn, phát nhiệt mạnh; chủ yếu tính toán đạn đạo. Để đổi wiring theo bài toán nen một số người không coi đó là máy tính theo nghĩa hiện đại.",
+      "The 1 (1940s): dùng đèn điện tử (vacuum tube). ENIAC (1946) là máy tính sớm nhất, tiêu thụ điện rất lớn, phát nhiệt mạnh; chủ yếu tính toán đạn đạo. Để đổi wiring theo bài toán nên một số người không coi đó là máy tính theo nghĩa hiện đại.",
       "EDSAC (1949, M.V. Wilkes) dùng cơ chế stored-program: chương trình lưu trong máy rồi chạy. Máy theo kiến trúc này gọi là Neumann computer (theo von Neumann).",
       "The 2 (1950s): dùng transistor (bán dẫn). UNIVAC I là máy thương mại sớm. Transistor nhỏ, ít hỏng hơn đèn điện tử -> máy gọn và tin cậy hơn.",
       "The 3 (1960s): dung IC (Integrated Circuit) - tích hợp hàng trăm transistor trên chip silicon. Ví dụ IBM/360: máy general-purpose dùng được nhiều loại xử lý.",
       "The 3.5 (1970s): LSI (Large Scale Integration) mật độ cao hơn. Xuất hiện máy điều khiển công nghiệp, microprocessor cho thiết bị gia dụng, supercomputer cho tính khoa học, microcomputer cá nhân.",
-      "The 4 (1980s): VLSI (Very Large Scale Integration). Chủyển từ '1 may/cong ty' sang '1 may/nguoi' -> PC. Manh nha cung co server + terminal, workstation, PDA, smartphone, tablet; SoC va one-chip microcomputer đóng gói cả hệ thống vào 1 chip.",
-      "Xu hướng hiện đại: FPGA (có thể lập trình logic sau khi sản xuất), tiết kiệm năng lượng (don vi Watt), máy dễ dùng hơn, có khả năng suy luận/gần con người hơn.",
+      "The 4 (1980s): VLSI (Very Large Scale Integration). Chuyển từ '1 may/cong ty' sang '1 may/nguoi' -> PC. Mạnh nha cũng có server + terminal, workstation, PDA, smartphone, tablet; SoC va one-chip microcomputer đóng gói cả hệ thống vào 1 chip.",
+      "Xu hướng hiện đại: FPGA (có thể lập trình logic sau khi sản xuất), tiết kiệm năng lượng (đơn vị Watt), máy dễ dùng hơn, có khả năng suy luận/gần con người hơn.",
       "ĐIỂM THI: nhớ thứ tự vacuum tube -> transistor -> IC -> LSI -> VLSI va ten ENIAC/EDSAC/stored-program/Neumann."
     ]
   },
@@ -41,7 +41,7 @@ window.STUDY_DATA = [
       "CPU (Central Processing Unit / processor) = Control unit + ALU. Thiết bị ngoài CPU (I/O, ổ đĩa) gọi là peripheral devices.",
       "MPU/microprocessor: chức năng CPU đóng gói vào 1 LSI. SoC (System on a Chip): tích hợp cả hệ thống (kể cả bộ nhớ) vào 1 chip -> nhanh, ít điện nhưng rủi ro phát triển cao. SiP: nhiều chip trong 1 package. One-chip microcomputer còn tích hợp cả I/O.",
       "Co-processor / dedicated processor: hỗ trợ hoặc chỉ làm 1 loại xử lý chủyên biệt (khác general-purpose).",
-      "VÍ DỤ dong chay '3+6': input đưa vào memory -> control unit hiểu '+' là cộng -> ALU lấy 3 và 6, tính 9, ghi vào memory -> output hiện 9."
+      "VÍ DỤ dòng chảy '3+6': input đưa vào memory -> control unit hiểu '+' là cộng -> ALU lấy 3 và 6, tính 9, ghi vào memory -> output hiện 9."
     ]
   },
   {
@@ -53,7 +53,7 @@ window.STUDY_DATA = [
       "Dữ liệu trong máy được biểu diễn bằng tín hiệu điện chỉ có 2 trạng thái -> gán 0 và 1. Đơn vị nhỏ nhất: bit.",
       "8 bit = 1 byte. Word là đơn vị xử lý của máy (16/32/64 bit tùy kiến trúc). Word càng nhiều bit, 1 lần xử lý càng nhiều thông tin -> thường nhanh hơn.",
       "Lượng thông tin: n bit biểu diễn được 2^n trạng thái/loại. 1 byte = 2^8 = 256 loai; 16 bit = 65,536 loai.",
-      "Lý thủyết thông tin: sự kiện càng ít xác suất xảy ra, lượng thông tin mang lại càng lớn (mức 'bất ngờ'). Xác suất 1/2 tương ứng 1 bit.",
+      "Lý thuyết thông tin: sự kiện càng ít xác suất xảy ra, lượng thông tin mang lại càng lớn (mức 'bất ngờ'). Xác suất 1/2 tương ứng 1 bit.",
       "Prefix lớn: Kilo 10^3 / 2^10, Mega 10^6 / 2^20, Giga 10^9 / 2^30, Tera 10^12 / 2^40, Peta 10^15 / 2^50.",
       "Prefix nhỏ: milli 10^-3, micro 10^-6, nano 10^-9, pico 10^-12.",
       "Lưu ý: '1k calo' = 1000; nhung '1 KB' trong máy tính thường = 1024 byte (2^10). Đề bài hay hỏi dùng 1024 hay 1000."
@@ -69,9 +69,9 @@ window.STUDY_DATA = [
       "Thap phan (10): (362.9)_10 = 3*10^2 + 6*10^1 + 2*10^0 + 9*10^-1.",
       "Nhi phan (2): chỉ 0 và 1. Ví dụ (101.1)_2 = 1*2^2 + 0*2^1 + 1*2^0 + 1*2^-1 = 5.5 thập phân.",
       "Bát phân (8) và thập lục phân (16) để viết gọn nhị phân: 1 chữ số oct = 3 bit; 1 chữ số hex = 4 bit. Hex dùng 0-9 và A-F.",
-      "Chủyển thập phân -> nhi phan (phần nguyên): chia liên tiếp cho 2, lấy dư từ dưới lên. Phần thập phân: nhân 2, lấy phần nguyên lần lượt.",
+      "Chuyển thập phân -> nhi phan (phần nguyên): chia liên tiếp cho 2, lấy dư từ dưới lên. Phần thập phân: nhân 2, lấy phần nguyên lần lượt.",
       "BCD (Binary Coded Decimal): mỗi chữ số thập phân mã bằng 4 bit riêng (không phải nhị phân thuần của cả số).",
-      "ĐIỂM THI: bài tính chủyển cơ số, đổi hex <-> binary bằng nhóm 4 bit xuất hiện rất nhiều."
+      "ĐIỂM THI: bài tính chuyển cơ số, đổi hex <-> binary bằng nhóm 4 bit xuất hiện rất nhiều."
     ]
   },
   {
@@ -81,7 +81,7 @@ window.STUDY_DATA = [
     "paragraphs": [],
     "bullets": [
       "Số nguyên có dấu thường dùng: sign-magnitude, 1's complement, 2's complement. Phổ biến nhất: 2's complement.",
-      "2's complement của số âm: đảo tất cả bit rồi +1. Ưu điểm: phép cộng/trừ dùng chững mạch cộng; chỉ có 1 số 0.",
+      "2's complement của số âm: đảo tất cả bit rồi +1. Ưu điểm: phép cộng/trừ dùng chung mạch cộng; chỉ có 1 số 0.",
       "Phạm vi số nguyên n bit (2's complement): tu -2^(n-1) den 2^(n-1)-1. Ví dụ 8 bit: -128 .. +127.",
       "Fixed-point: dấu phẩy cố định. Floating-point: gồm dấu (sign), phần mũ (exponent), phần định trị (mantissa/significand) -> biểu diễn số rất lớn/nhỏ; có thể bị overflow/underflow và sai số làm tròn.",
       "Ky tu: ASCII (7/8 bit, phổ biến quốc tế), EBCDIC (máy mainframe IBM), Unicode (UTF-8, UTF-16) hỗ trợ đa ngôn ngữ, JIS cho tiếng Nhật.",
@@ -97,7 +97,7 @@ window.STUDY_DATA = [
       "CPU gồm control unit, ALU, tập thanh ghi (registers), kết nối qua bus (data bus, address bus, control bus).",
       "Register quan trọng: PC (Program Counter) - địa chỉ lệnh kế; IR (Instruction Register) - lệnh đang xử lý; ACC/general registers - toán hạng; SP (Stack Pointer); flag/status register - kết quả so sánh, carry, zero, overflow...",
       "Chu kỳ lệnh (instruction cycle) cơ bản: Fetch (đọc lệnh) -> Decode (giải mã) -> Execute (thực thi) [-> Write back].",
-      "Tần số đồng hồ (clock) cao hơn thường xử lý nhiều chữ kỳ hơn/giây, nhưng hiệu năng thực tế còn phụ thuộc CPI, cache, kien truc."
+      "Tần số đồng hồ (clock) cao hơn thường xử lý nhiều chu kỳ hơn/giây, nhưng hiệu năng thực tế còn phụ thuộc CPI, cache, kiến trúc."
     ]
   },
   {
@@ -173,7 +173,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-14",
-    "title": "5-1 den 5-5",
+    "title": "5-1 đến 5-5",
     "level": 2,
     "paragraphs": [
       "CHAPTER 2 - INFORMATION PROCESSING SYSTEM",
@@ -183,7 +183,7 @@ window.STUDY_DATA = [
       "Input: keyboard, mouse/pointing, scanner, OCR (nhận chữ), OMR (tô trám), barcode/QR, MICR (séc ngân hàng), sensor, touch panel, microphone, camera.",
       "Output: man hinh (LCD, OLED...), printer (kim, phun, laser - impact/non-impact), plotter, loa/headphone, projector.",
       "Dieu khien I/O: Programmed I/O (CPU chờ/polling - đơn giản nhưng tốn CPU); Interrupt-driven (thiết bị ngắt khi xong); DMA; Channel (máy lớn).",
-      "Interface: USB (phổ biến, hot-plug), SATA (ổ đĩa), SCSI, PCIe (card mở rộng tốc độ cao), HDMI/DisplayPort (hình ảnh), Bluetooth/Wi-Fi (không dây), serial/parallel (cu).",
+      "Interface: USB (phổ biến, hot-plug), SATA (ổ đĩa), SCSI, PCIe (card mở rộng tốc độ cao), HDMI/DisplayPort (hình ảnh), Bluetooth/Wi-Fi (không dây), serial/parallel (cũ).",
       "Interrupt: tín hiệu yêu cầu CPU tạm dừng việc hiện tại để xử lý sự kiện; có mức ưu tiên và vector ngắt."
     ]
   },
@@ -276,7 +276,7 @@ window.STUDY_DATA = [
     "bullets": [
       "HCI: thiết kế để người dùng hiểu và thao tác dễ, ít lỗi. Usability: hiệu quả, hiệu suất, hài lòng.",
       "GUI (đồ họa) vs CUI (dòng lệnh). Nguyên tắc: consistency, feedback, error prevention, undo, visibility, least surprise.",
-      "Ergonomics: màu sắc, font, độ tương phản, bố cục màn hình, giảm mỏi mắt. Accessibility / universal design: hỗ trợ người khủyết tật (WCAG web).",
+      "Ergonomics: màu sắc, font, độ tương phản, bố cục màn hình, giảm mỏi mắt. Accessibility / universal design: hỗ trợ người khuyết tật (WCAG web).",
       "Screen/form/dialog design: nhóm thông tin hợp lý, default an toàn, thông báo lỗi rõ ràng."
     ]
   },
@@ -303,7 +303,7 @@ window.STUDY_DATA = [
       "System software: quản lý/hiệu quả hóa hardware. Application software: phục vụ mục tiêu người dùng (kế toán, văn phòng...).",
       "OS (hep): control program / kernel - quản lý tài nguyên, cung cấp môi trường chạy chương trình. OS (rong): kernel + utility + language processor + mot phan middleware.",
       "Kernel: microkernel (tối thiểu: memory, process) vs monolithic (nhiều chức năng gồm I/O, file...).",
-      "User mode (hạn chế quyền) vs kernel/supervisor mode (toàn quyền). Interrupt/syscall chủyển vào kernel mode.",
+      "User mode (hạn chế quyền) vs kernel/supervisor mode (toàn quyền). Interrupt/syscall chuyển vào kernel mode.",
       "Boot: bật nguồn -> IPL/bootstrap (bootloader) nạp OS. Multiboot chọn OS; network boot nạp qua mạng. Bootloader thường nằm flash/ROM.",
       "Utility: nén/giải nén, defrag, backup... Language processor: dịch chương trình. Middleware: nằm giữa OS và ứng dụng (DBMS, TP monitor, communication, dev tools)."
     ]
@@ -325,7 +325,7 @@ window.STUDY_DATA = [
     "level": 2,
     "paragraphs": [],
     "bullets": [
-      "OS quản lý: process/task, memory, file, I/O, job, bảo mật, giao điện.",
+      "OS quản lý: process/task, memory, file, I/O, job, bảo mật, giao diện.",
       "Multiprogramming/multitasking: nhiều tiến trình dùng CPU xen kẽ. Multithreading: nhiều luồng trong 1 process.",
       "Scheduling: FCFS, SJF, Round-Robin (time quantum), Priority, multilevel queue. Mục tiêu: công bằng, throughput, response.",
       "Đồng bộ: semaphore, mutex; deadlock xảy ra khi đủ 4 điều kiện (mutual exclusion, hold&wait, no preemption, circular wait). Xử lý: prevention / avoidance (banker) / detection+recovery.",
@@ -343,7 +343,7 @@ window.STUDY_DATA = [
       "Machine language: mã 0/1 máy hiểu trực tiếp. Assembly: mnemonic gần với lệnh máy. High-level: gần ngôn ngữ người (C, Java, Python...).",
       "Paradigm: procedural, OOP, functional, logic, scripting. 4GL (SQL...) hướng khai báo. Markup: HTML/XML.",
       "Compiler: dịch cả source -> object, rồi link thành load module (chạy nhanh). Interpreter: dịch và chạy từng phần (linh hoạt, dễ debug). JIT: kết hợp. Assembler: dịch assembly.",
-      "Thuộc tính chương trình: reentrant (nhiều user chạy chững code an toàn), reusable, recursive, relocatable (đổi được địa chỉ nạp)."
+      "Thuộc tính chương trình: reentrant (nhiều user chạy chung code an toàn), reusable, recursive, relocatable (đổi được địa chỉ nạp)."
     ]
   },
   {
@@ -464,7 +464,7 @@ window.STUDY_DATA = [
       "Phát hiện lỗi: parity, checksum, CRC; sửa lỗi: Hamming (overview).",
       "Điều khiển truyền: đồng bộ hóa, khung, flow control, error control; stop-and-wait, sliding window; HDLC, PPP.",
       "Truy cập đường truyền: CSMA/CD (Ethernet cổ điển), CSMA/CA (Wi-Fi), token, polling.",
-      "Dịch vụ: leased line, VPN, ISDN (cu), di động 3G/4G/5G, Wi-Fi; QoS ưu tiên lưu lượng."
+      "Dịch vụ: leased line, VPN, ISDN (cũ), di động 3G/4G/5G, Wi-Fi; QoS ưu tiên lưu lượng."
     ]
   },
   {
@@ -474,10 +474,10 @@ window.STUDY_DATA = [
     "paragraphs": [],
     "bullets": [
       "7 Application: dịch vụ ứng dụng cho chương trình (truyền file, truy vấn DB từ xa...).",
-      "6 Presentation: mã hóa, nén, chủyển đổi cú pháp dữ liệu (abstract syntax -> transfer syntax).",
+      "6 Presentation: mã hóa, nén, chuyển đổi cú pháp dữ liệu (abstract syntax -> transfer syntax).",
       "5 Session: quản lý phiên, điểm đồng bộ, quyền nói (token).",
       "4 Transport: truyền end-to-end tin cậy, flow/error control (tương ứng TCP/UDP).",
-      "3 Network: địa chỉ logic, routing, chủyển tiếp gói (IP, router).",
+      "3 Network: địa chỉ logic, routing, chuyển tiếp gói (IP, router).",
       "2 Data link: frame, dia chi MAC, tin cậy giữa 2 nút kề (switch, Ethernet).",
       "1 Physical: bit, điện áp, dây, connector, tốc độ xung.",
       "Entity lop N dùng dịch vụ lớp N-1; protocol giữa 2 entity cùng lớp 2 đầu mút."
@@ -532,7 +532,7 @@ window.STUDY_DATA = [
     "level": 2,
     "paragraphs": [],
     "bullets": [
-      "Mã hóa đối xứng (symmetric): 1 khóa chững - nhanh (AES, DES/3DES cu). Mã hóa bất đối xứng (asymmetric): cặp public/private - phân phối khóa, chữ ký số (RSA...).",
+      "Mã hóa đối xứng (symmetric): 1 khóa chung - nhanh (AES, DES/3DES cũ). Mã hóa bất đối xứng (asymmetric): cặp public/private - phân phối khóa, chữ ký số (RSA...).",
       "Hash 1 chiều (SHA family): vân tay dữ liệu; đổi 1 bit → hash khác; dùng toàn vẹn và lưu mật khẩu (kèm salt).",
       "Chữ ký số: băm + mã hóa bằng private key -> xác thực + toàn vẹn + không chối bỏ. PKI + digital certificate + CA (Certificate Authority) xác nhận chủ public key.",
       "Kênh an toàn: TLS/SSL (HTTPS), VPN, IPsec. Xác thực: mật khẩu, token/OTP, sinh trắc học, MFA (nhiều yếu tố).",
@@ -542,14 +542,14 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-42",
-    "title": "1-3 ~ 1-4 Quản trị an ninh và tiêu chữẩn",
+    "title": "1-3 ~ 1-4 Quản trị an ninh và tiêu chuẩn",
     "level": 2,
     "paragraphs": [],
     "bullets": [
-      "ISMS (ISO/IEC 27001): hệ thống quản lý an ninh thông tin theo chữ trình PDCA.",
-      "Quy trình rủi ro: xác định tài sản -> đe dọa/điểm yếu -> đánh giá -> xử lý (tránh, giảm, chủyển giao bảo hiểm, chấp nhận) -> giám sát.",
+      "ISMS (ISO/IEC 27001): hệ thống quản lý an ninh thông tin theo chu trình PDCA.",
+      "Quy trình rủi ro: xác định tài sản -> đe dọa/điểm yếu -> đánh giá -> xử lý (tránh, giảm, chuyển giao bảo hiểm, chấp nhận) -> giám sát.",
       "Security policy (chính sách) -> standards/procedures. Đào tạo nhân sự. Phân loại thông tin (public/internal/confidential...). CSIRT/SOC xử lý sự cố.",
-      "Common Criteria (ISO/IEC 15408) đánh giá an ninh sản phẩm theo mức EAL. Có các cơ quan/tiêu chữẩn quốc gia bổ sung."
+      "Common Criteria (ISO/IEC 15408) đánh giá an ninh sản phẩm theo mức EAL. Có các cơ quan/tiêu chuẩn quốc gia bổ sung."
     ]
   },
   {
@@ -670,12 +670,12 @@ window.STUDY_DATA = [
     "bullets": [
       "Hoạt động doanh nghiệp bám theo corporate philosophy (triết lý quản trị): quan điểm, lý do tồn tại, giá trị cốt lõi.",
       "Mục tiêu cốt lõi: tạo lợi nhuận và tồn tại lâu dài trong quản trị lành mạnh (going concern). Đồng thời đóng góp xã hội - nếu mất lòng tin xã hội sẽ khó tồn tại.",
-      "Chu trình cơ bản: hủy động vốn -> sản xuất/dịch vụ -> bán hàng thu tiền -> trả chi phí (lương, giá vốn...) -> lãi/lỗ -> chia cổ tức + giữ lại tái đầu tư.",
+      "Chu trình cơ bản: huy động vốn -> sản xuất/dịch vụ -> bán hàng thu tiền -> trả chi phí (lương, giá vốn...) -> lãi/lỗ -> chia cổ tức + giữ lại tái đầu tư.",
       "Đặc điểm tổ chức: chức năng kinh tế; tách sở hữu và quản lý; độc lập quyết định; hệ thống hợp tác nhiều người. Vận hành theo PDCA (Plan-Do-Check-Act).",
       "CSR: trách nhiệm xã hội của doanh nghiệp với cộng đồng, môi trường. Green IT: giảm tiêu thụ điện thiết bị IT, dùng tài nguyên hiệu quả.",
       "CI (Corporate Identity): định hình giá trị/thương hiệu. Corporate governance: giám sát quản trị để đáng tin với thị trường/khách hàng; accountability.",
       "Disclosure / IR: công bố thông tin tài chính/kinh doanh (bắt buộc hoặc tự nguyện cho nhà đầu tư).",
-      "BCP (Business Continuity Plan): kế hoạch duy trì/khôi phục nghiệp vụ khi thất bại/thiên tai; kem business impact analysis (thời gian dừng chấp nhận được)."
+      "BCP (Business Continuity Plan): kế hoạch duy trì/khôi phục nghiệp vụ khi thất bại/thiên tai; kèm business impact analysis (thời gian dừng chấp nhận được)."
     ]
   },
   {
@@ -685,7 +685,7 @@ window.STUDY_DATA = [
     "paragraphs": [],
     "bullets": [
       "Hình thức vốn: Public enterprise (nhà nước), Private (tư nhân/công ty), Mixed (third sector), Foundation (fourth - không chia lãi).",
-      "Công ty cổ phần (stock company): hủy động vốn bằng cổ phần; stockholder chịu trách nhiệm hữu hạn; có thể IPO lên sàn.",
+      "Công ty cổ phần (stock company): huy động vốn bằng cổ phần; stockholder chịu trách nhiệm hữu hạn; có thể IPO lên sàn.",
       "Cơ quan: Shareholders' meeting (quyết định cao nhất), Board of directors (điều hành quan trọng, có thể có outside director), Auditor (kiểm toán giám sát).",
       "Cơ cấu: functional, divisional, matrix, project, network... Ảnh hưởng quyền hạn và giao tiếp. Vai trò C-level: CEO, CIO (thong tin), CFO, COO..."
     ]
@@ -729,7 +729,7 @@ window.STUDY_DATA = [
     "level": 2,
     "paragraphs": [],
     "bullets": [
-      "Xác suất, kỳ vọng, phương sai, phân phối chữẩn - nền cho quyết định rủi ro. Tổ hợp/chỉnh hợp, tập hợp.",
+      "Xác suất, kỳ vọng, phương sai, phân phối chuẩn - nền cho quyết định rủi ro. Tổ hợp/chỉnh hợp, tập hợp.",
       "Sai số tính toán máy: làm tròn, cắt bớt, tràn số - liên hệ chương hardware."
     ]
   },
@@ -758,18 +758,18 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-60",
-    "title": "4-1 ~ 4-6 Pháp lý, compliance, tiêu chữẩn",
+    "title": "4-1 ~ 4-6 Pháp lý, compliance, tiêu chuẩn",
     "level": 2,
     "paragraphs": [
       "CHAPTER 2 - BUSINESS STRATEGY",
       "Chiến lược kinh doanh, marketing, chiến lược công nghệ và mô hình ngành / e-business."
     ],
     "bullets": [
-      "Sở hữu trí tuệ: copyright (bản quyền phần mềm/tài liệu), patent (sáng chế), utility model, design, trademark; trade secret; chống cạnh tránh không lành mạnh.",
+      "Sở hữu trí tuệ: copyright (bản quyền phần mềm/tài liệu), patent (sáng chế), utility model, design, trademark; trade secret; chống cạnh tranh không lành mạnh.",
       "Luật liên quan bảo mật: truy cập máy tính trái phép, bảo vệ dữ liệu cá nhân, chữ ký điện tử, tội phạm mạng (theo khung quốc gia).",
       "Lao động và giao dịch: hợp đồng lao động, khoán thầu phụ, thương mại điện tử, bảo vệ người tiêu dùng.",
       "Compliance: tuân thủ pháp luật + quy chế nội bộ + đạo đức; có kênh tố giác nội bộ; chống hối lộ.",
-      "Tiêu chữẩn: de jure (ISO/IEC/ITU/JIS...) vs de facto (thực tế thị trường, vd TCP/IP). Chứng nhận ISO 9001 (CL), 14001 (MT), 27001 (ISMS), 20000 (ITSM)..."
+      "Tiêu chuẩn: de jure (ISO/IEC/ITU/JIS...) vs de facto (thực tế thị trường, vd TCP/IP). Chứng nhận ISO 9001 (CL), 14001 (MT), 27001 (ISMS), 20000 (ITSM)..."
     ]
   },
   {
@@ -781,8 +781,8 @@ window.STUDY_DATA = [
       "Business strategy: cách đạt mục tiêu kinh doanh dựa trên triết lý công ty; xây dựng vị thế thị trường. Liên hệ Michael Porter (1980s).",
       "Management innovation: thay đổi hướng đi. Benchmarking: so với best practice/đối thủ mạnh. Diversification: thâm lĩnh vực mới, tạo synergy (bán hàng, sản xuất, đầu tư, quản trị).",
       "Competitive positioning theo chất/lượng nguồn lực: Leader (thị phần #1, chiến lược toàn diện), Challenger (#2-4, tấn công khác biệt), Nicher (chủyên biệt ngách), Follower (bắt chước, giảm giá).",
-      "Core competence: tập trung vào năng lực cốt lõi khó sao chép -> CS (hài lòng KH) và lợi thế cạnh tránh.",
-      "Alliance: weak (liên kết không vốn) / strong (có vốn, group management). M&A, TOB, MBO. Vertical integration (chữỗi giá trị) vs horizontal (đối thủ cùng công đoạn). Experience curve, scale economy.",
+      "Core competence: tập trung vào năng lực cốt lõi khó sao chép -> CS (hài lòng KH) và lợi thế cạnh tranh.",
+      "Alliance: weak (liên kết không vốn) / strong (có vốn, group management). M&A, TOB, MBO. Vertical integration (chuỗi giá trị) vs horizontal (đối thủ cùng công đoạn). Experience curve, scale economy.",
       "Outsourcing: fabless (thiết kế, thuê SX), OEM, offshore (nước rẻ nhân công) - giảm chi phí nhưng khó kiểm soát từ xa."
     ]
   },
@@ -804,7 +804,7 @@ window.STUDY_DATA = [
     "paragraphs": [],
     "bullets": [
       "Đặt mục tiêu đo được (KPI/KGI); Balanced Scorecard nhiều chiều (tài chính, KH, quy trình, học hỏi).",
-      "Hệ thống hỗ trợ: ERP (tổng thể tài nguyên), CRM, SCM (chữỗi cung ứng), KM (tri thức)."
+      "Hệ thống hỗ trợ: ERP (tổng thể tài nguyên), CRM, SCM (chuỗi cung ứng), KM (tri thức)."
     ]
   },
   {
@@ -814,7 +814,7 @@ window.STUDY_DATA = [
     "paragraphs": [],
     "bullets": [
       "Technology strategy phải thẳng hàng business strategy. Roadmap cong nghe, portfolio R&D, đường cong S của công nghệ.",
-      "Open innovation, quản lý bằng sáng chế, chủyển giao công nghệ, đánh giá công nghệ (technology assessment)."
+      "Open innovation, quản lý bằng sáng chế, chuyển giao công nghệ, đánh giá công nghệ (technology assessment)."
     ]
   },
   {
@@ -826,7 +826,7 @@ window.STUDY_DATA = [
       "Chiến lược hệ thống thông tin khớp với chiến lược kinh doanh; CIO phê duyệt; kế hoạch tin học hóa tổng thể."
     ],
     "bullets": [
-      "Value chain (Porter): các hoạt động tạo giá trị. Five forces: cạnh tránh ngành, đối thủ mới, thay thế, quyền bán/mua.",
+      "Value chain (Porter): các hoạt động tạo giá trị. Five forces: cạnh tranh ngành, đối thủ mới, thay thế, quyền bán/mua.",
       "BPR: tái thiết kế quy trình để nhảy vọt hiệu quả (khác cải tiến nhỏ kaizen).",
       "e-business: B2B, B2C, C2C, B2G; EDI; sàn thương mại; thanh toán điện tử. Cloud: SaaS (phần mềm), PaaS (nền tảng), IaaS (hạ tầng), DaaS (desktop ảo).",
       "Thiết bị tiêu dùng & công nghiệp: embedded, IoT, FA/CAD-CAM - IT nhúng vào sản phẩm vật lý."
@@ -841,7 +841,7 @@ window.STUDY_DATA = [
       "IS strategy: dùng CNTT thế nào để thực thi business/enterprise strategy hiệu quả.",
       "Quy trình: xác nhận business strategy -> khảo sát môi trường & hiện trạng nghiệp vụ/IS/IT -> chiến lược cơ bản -> hình ảnh nghiệp vụ mới -> phạm vi & mục tiêu đầu tư -> đề xuất -> phê duyệt (CIO) -> triển khai/giám sát/đánh giá -> feedback.",
       "Total computerization plan = chính sách tối ưu tổng thể + kế hoạch. Cần: chính sách IT governance, nguyên tắc đầu tư, mục tiêu tối ưu gắn business, tầm nhìn to-be, chính sách đổi tổ chức/quy trình, chính sách an ninh.",
-      "IT governance: khả năng tổ chức định hướng IT strategy để tạo lợi thế cạnh tránh và kiểm soát rủi ro IT.",
+      "IT governance: khả năng tổ chức định hướng IT strategy để tạo lợi thế cạnh tranh và kiểm soát rủi ro IT.",
       "COBIT: best practice quan tri IT, KGI/KPI, mức độ chín muồi quy trình. ITIL: best practice ITSM. SLCP: khung vòng đời phần mềm/giao dịch phát triển."
     ]
   },
@@ -922,7 +922,7 @@ window.STUDY_DATA = [
     "paragraphs": [],
     "bullets": [
       "Quản lý bản quyền/thư viện/OSS dùng trong dự án (tránh vi phạm license).",
-      "Tách môi trường dev / test / staging / production; chữẩn hóa công cụ.",
+      "Tách môi trường dev / test / staging / production; chuẩn hóa công cụ.",
       "Configuration management: xác định CI, baseline, version. Change control: yêu cầu thay đổi -> đánh giá tác động -> phê duyệt (CCB) -> thực hiện -> audit."
     ]
   },
@@ -993,7 +993,7 @@ window.STUDY_DATA = [
     "paragraphs": [],
     "bullets": [
       "Service: phương thức tạo giá trị cho KH bằng kết quả KH muốn đạt (thường vô hình). IT service = dịch vụ dựa trên IT.",
-      "Service management: năng lực + quy trình để thiết kế, chủyển giao, vận hành, cải tiến dịch vụ đúng nhu cầu KH.",
+      "Service management: năng lực + quy trình để thiết kế, chuyển giao, vận hành, cải tiến dịch vụ đúng nhu cầu KH.",
       "SLA (Service Level Agreement): thỏa thuận ghi nhận mức dịch vụ giữa nhà cung cấp và KH (có thể nằm trong hợp đồng).",
       "Nội dung SLA thường gồm: bên tham gia, phạm vi/tên dịch vụ, review/change, mô tả dịch vụ, thời gian cung cấp, tổ chức liên lạc & ưu tiên, bảo mật, mục tiêu & cách đánh giá, tính phí, loại trừ trách nhiệm.",
       "SLR (Service Level Requirement): yêu cầu mức dịch vụ (availability, reliability, service hours, response time, performance, security...)."
@@ -1083,7 +1083,7 @@ window.STUDY_DATA = [
     "level": 2,
     "paragraphs": [],
     "bullets": [
-      "2's complement + chủyển cơ sở + 2^n bit",
+      "2's complement + chuyển cơ sở + 2^n bit",
       "Pipeline/cache/RAID/DMA",
       "MTBF, MTTR, Availability = MTBF/(MTBF+MTTR)",
       "OSI 7 lop + TCP vs UDP + DNS/DHCP/HTTP/SMTP",
@@ -1136,7 +1136,7 @@ window.STUDY_DATA = [
       "Mutual exclusion: tài nguyên không chia sẻ đồng thời.",
       "Hold and wait: giữ tài nguyên này vừa đợi tài nguyên khác.",
       "No preemption: không tước đoạt được tài nguyên đang giữ.",
-      "Circular wait: chữỗi vòng đợi tài nguyên A->B->C->A.",
+      "Circular wait: chuỗi vòng đợi tài nguyên A->B->C->A.",
       "Phòng ngừa (prevention): phá 1 trong 4 điều kiện. Phổ biến: loại Circular wait (đánh số tài nguyên, cấp theo thứ tự) hoac loại Hold and wait (xin hết tài nguyên 1 lúc - lãng phí).",
       "Avoidance: Banker's algorithm. Detection + recovery: đồ thị chờ, giết process / lấy lại TN."
     ]
@@ -1294,7 +1294,7 @@ window.STUDY_DATA = [
       "Trung tố: A+B*C. Tiền tố (prefix): +A*BC. Hậu tố (postfix/RPN): ABC*+  (vì * ưu tiên hơn +, nhân B*C trước rồi cộng A).",
       "Quy tắc hậu tố: toán hạng trước, toán tử sau; dùng stack: gặp số thì PUSH, gặp phép thì POP 2 toán hạng, tính, PUSH kết quả.",
       "Ví dụ (A+B)*(C-D/E):",
-      "Đề thi hay cho biểu thức, chọn đúng chữỗi postfix."
+      "Đề thi hay cho biểu thức, chọn đúng chuỗi postfix."
     ]
   },
   {
@@ -1359,7 +1359,7 @@ window.STUDY_DATA = [
     "bullets": [
       "Chia bài toán thành bài con giống nhau, giải rồi kết hợp.",
       "Ví dụ: Quick Sort, Merge Sort, Binary Search (mot goc nhin), tính lũy thừa nhanh...",
-      "Selection/Bubble/Insertion: brute force / đơn giản, không xếp nhóm DnC chữẩn trong đề."
+      "Selection/Bubble/Insertion: brute force / đơn giản, không xếp nhóm DnC chuẩn trong đề."
     ]
   },
   {
@@ -1414,7 +1414,7 @@ window.STUDY_DATA = [
     "level": 2,
     "paragraphs": [],
     "bullets": [
-      "Common key (symmetric): 1 khóa chững; nhanh; khó chia khóa an toàn cho nhiều người nếu dùng chững 1 key.",
+      "Common key (symmetric): 1 khóa chung; nhanh; khó chia khóa an toàn cho nhiều người nếu dùng chung 1 key.",
       "Public key (asymmetric): public mã hóa / private giải mã (hoặc ngược cho chữ ký); CHẬM hơn symmetric; public key được công khai, KHÔNG cần phân phối bí mật khóa mã hóa public.",
       "Hybrid thực dụng: dùng public key để mã hóa/gửi common key phiên, rồi dùng common key mã hóa dữ liệu (TLS). Đây là mô tả \"appropriate\" hay chọn.",
       "Email encryption: ngăn lộ hổng NỘI DUNG (confidentiality). Không ngăn DoS mail; không tự động bảo vệ log server; mất key vẫn là vấn đề quản lý key."
@@ -1551,7 +1551,7 @@ window.STUDY_DATA = [
     "level": 2,
     "paragraphs": [],
     "bullets": [
-      "Video: nội dung hình ảnh chủyển động. Audio: âm thanh. Graphics/image: tĩnh. Text: chữ. Binary: dữ liệu nhị phân chững."
+      "Video: nội dung hình ảnh chuyển động. Audio: âm thanh. Graphics/image: tĩnh. Text: chữ. Binary: dữ liệu nhị phân chung."
     ]
   },
   {
@@ -1560,7 +1560,7 @@ window.STUDY_DATA = [
     "level": 2,
     "paragraphs": [],
     "bullets": [
-      "Semiconductor (SSD/flash/RAM): truy cập nhanh hơn, ít chủyển động cơ. Magnetic disk: rẻ / dung lượng lớn, chậm hơn do seek+quay.",
+      "Semiconductor (SSD/flash/RAM): truy cập nhanh hơn, ít chuyển động cơ. Magnetic disk: rẻ / dung lượng lớn, chậm hơn do seek+quay.",
       "RAM volatile; SSD/flash/HDD non-volatile."
     ]
   },

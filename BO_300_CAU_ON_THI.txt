@@ -5,1203 +5,1203 @@ Tong so: 300 cau
 ================================================================================
 
 Cau 001. How many bits are in one byte?
-Dap an: 8
+Đáp án: 8
 (Tu khoa tom tat: 8 bit, 1 byte)
 
 Cau 002. What is the smallest unit of data in a computer?
-Dap an: Bit
+Đáp án: Bit
 (Tu khoa tom tat: bit, 0 va 1)
 
 Cau 003. Which generation introduced VLSI?
-Dap an: 4th generation
+Đáp án: 4th generation
 (Tu khoa tom tat: VLSI, The 4)
 
 Cau 004. First-generation logic device?
-Dap an: Vacuum tube
+Đáp án: Vacuum tube
 (Tu khoa tom tat: vacuum tube, The 1)
 
 Cau 005. Non-volatile storage example?
-Dap an: Hard disk / SSD / ROM / flash
+Đáp án: Hard disk / SSD / ROM / flash
 (Tu khoa tom tat: non-volatile, HDD)
 
 Cau 006. Which memory loses data when power is off?
-Dap an: RAM (also cache, register)
+Đáp án: RAM (also cache, register)
 (Tu khoa tom tat: volatile, RAM)
 
 Cau 007. Main memory is typically which type?
-Dap an: RAM (DRAM), volatile
+Đáp án: RAM (DRAM), volatile
 (Tu khoa tom tat: DRAM, volatile)
 
 Cau 008. Cache is usually implemented with?
-Dap an: SRAM
+Đáp án: SRAM
 (Tu khoa tom tat: SRAM, cache)
 
 Cau 009. Hexadecimal digit A in decimal?
-Dap an: 10
+Đáp án: 10
 (Tu khoa tom tat: A=10, Hex)
 
 Cau 010. Number system using digits 0-7?
-Dap an: Octal
+Đáp án: Octal
 (Tu khoa tom tat: Octal, 0-7)
 
 Cau 011. 8-bit two's complement 11101010 equals?
-Dap an: -22
+Đáp án: -22
 (Tu khoa tom tat: -22, 2's complement)
 
 Cau 012. Two's complement of negative: method?
-Dap an: Invert bits then +1
+Đáp án: Invert bits then +1
 (Tu khoa tom tat: dao bit, +1)
 
 Cau 013. Range of n-bit 2's complement?
-Dap an: -2^(n-1) .. 2^(n-1)-1
+Đáp án: -2^(n-1) .. 2^(n-1)-1
 (Tu khoa tom tat: 2^(n-1))
 
 Cau 014. International multilingual character code?
-Dap an: Unicode
+Đáp án: Unicode
 (Tu khoa tom tat: Unicode)
 
 Cau 015. CPU = which units?
-Dap an: Control unit + ALU
+Đáp án: Control unit + ALU
 (Tu khoa tom tat: CPU, ALU, Control unit)
 
 Cau 016. Which is a peripheral device?
-Dap an: Input unit (keyboard, mouse...)
+Đáp án: Input unit (keyboard, mouse...)
 (Tu khoa tom tat: Peripheral, Input unit)
 
 Cau 017. Register is inside CPU: peripheral?
-Dap an: No
+Đáp án: No
 (Tu khoa tom tat: register, CPU)
 
 Cau 018. Auxiliary storage characteristic?
-Dap an: Non-volatile
+Đáp án: Non-volatile
 (Tu khoa tom tat: Auxiliary, non-volatile)
 
 Cau 019. Advantage of semiconductor memory vs magnetic disk?
-Dap an: Faster access
+Đáp án: Faster access
 (Tu khoa tom tat: nhanh hon, Semiconductor)
 
 Cau 020. Access time of disk includes?
-Dap an: Seek + rotational latency + transfer
+Đáp án: Seek + rotational latency + transfer
 (Tu khoa tom tat: seek time, rotational)
 
 Cau 021. RAID 1 main feature?
-Dap an: Mirroring
+Đáp án: Mirroring
 (Tu khoa tom tat: RAID 1, mirror)
 
 Cau 022. RAID 0 main feature?
-Dap an: Striping, no redundancy
+Đáp án: Striping, no redundancy
 (Tu khoa tom tat: RAID 0, stripe)
 
 Cau 023. Instruction cycle order?
-Dap an: Fetch -> Decode -> Execute
+Đáp án: Fetch -> Decode -> Execute
 (Tu khoa tom tat: Fetch, Decode, Execute)
 
 Cau 024. PC register holds?
-Dap an: Address of next instruction
+Đáp án: Address of next instruction
 (Tu khoa tom tat: Program Counter, PC)
 
 Cau 025. Pipeline hazard types?
-Dap an: Structural, data, control
+Đáp án: Structural, data, control
 (Tu khoa tom tat: Hazard, pipeline)
 
 Cau 026. DMA purpose?
-Dap an: I/O transfers without CPU per-byte involvement
+Đáp án: I/O transfers without CPU per-byte involvement
 (Tu khoa tom tat: DMA)
 
 Cau 027. 1 KB in traditional binary memory?
-Dap an: 1024 bytes
+Đáp án: 1024 bytes
 (Tu khoa tom tat: 1024, 2^10)
 
 Cau 028. Information amount with n bits?
-Dap an: 2^n types
+Đáp án: 2^n types
 (Tu khoa tom tat: 2^n)
 
 Cau 029. BCD means?
-Dap an: Each decimal digit coded in 4 bits
+Đáp án: Each decimal digit coded in 4 bits
 (Tu khoa tom tat: BCD)
 
 Cau 030. FPGA characteristic?
-Dap an: Programmable after manufacture
+Đáp án: Programmable after manufacture
 (Tu khoa tom tat: FPGA)
 
 Cau 031. Jobs executed collectively without user interaction?
-Dap an: Batch processing
+Đáp án: Batch processing
 (Tu khoa tom tat: Batch)
 
 Cau 032. Payroll once a month best system?
-Dap an: Batch processing
+Đáp án: Batch processing
 (Tu khoa tom tat: Batch, luong)
 
 Cau 033. Airline reservation immediate response?
-Dap an: Real-time processing
+Đáp án: Real-time processing
 (Tu khoa tom tat: Real-time)
 
 Cau 034. Hard real-time example idea?
-Dap an: Airbag / life-critical control
+Đáp án: Airbag / life-critical control
 (Tu khoa tom tat: Hard real-time)
 
 Cau 035. All processing on one central computer?
-Dap an: Centralized processing
+Đáp án: Centralized processing
 (Tu khoa tom tat: Centralized)
 
 Cau 036. Reliability series R=0.95 and 0.90?
-Dap an: 0.855
+Đáp án: 0.855
 (Tu khoa tom tat: 0.855, Series)
 
 Cau 037. Parallel reliability formula idea?
-Dap an: 1-(1-R1)(1-R2)...
+Đáp án: 1-(1-R1)(1-R2)...
 (Tu khoa tom tat: Parallel, 1 -)
 
 Cau 038. Availability formula?
-Dap an: MTBF/(MTBF+MTTR)
+Đáp án: MTBF/(MTBF+MTTR)
 (Tu khoa tom tat: MTBF, MTTR, Availability)
 
 Cau 039. What is response time?
-Dap an: Time from request to response
+Đáp án: Time from request to response
 (Tu khoa tom tat: Response time)
 
 Cau 040. What is throughput?
-Dap an: Work completed per unit time
+Đáp án: Work completed per unit time
 (Tu khoa tom tat: Throughput)
 
 Cau 041. ACID: A means?
-Dap an: Atomicity
+Đáp án: Atomicity
 (Tu khoa tom tat: Atomicity, ACID)
 
 Cau 042. Purpose of interface design?
-Dap an: Improve usability and accessibility
+Đáp án: Improve usability and accessibility
 (Tu khoa tom tat: usability, accessibility)
 
 Cau 043. Why user-friendly UI?
-Dap an: Reduce user errors, improve usability
+Đáp án: Reduce user errors, improve usability
 (Tu khoa tom tat: giam loi, usability)
 
 Cau 044. Purpose of human interface technology?
-Dap an: Improve human-computer interaction
+Đáp án: Improve human-computer interaction
 (Tu khoa tom tat: tuong tac nguoi-may, HCI)
 
 Cau 045. Video multimedia means?
-Dap an: Moving visual content
+Đáp án: Moving visual content
 (Tu khoa tom tat: Video, chuyen dong)
 
 Cau 046. Fail-safe means?
-Dap an: Go to safe state on failure
+Đáp án: Go to safe state on failure
 (Tu khoa tom tat: Fail-safe)
 
 Cau 047. Hot standby means?
-Dap an: Backup system already running
+Đáp án: Backup system already running
 (Tu khoa tom tat: hot standby)
 
 Cau 048. Intermediary between apps and OS?
-Dap an: Middleware
+Đáp án: Middleware
 (Tu khoa tom tat: Middleware)
 
 Cau 049. Compiler translates how?
-Dap an: Entire source before execution
+Đáp án: Entire source before execution
 (Tu khoa tom tat: Compiler, TOAN BO)
 
 Cau 050. Interpreter advantage vs compiler?
-Dap an: Immediate execution and debugging
+Đáp án: Immediate execution and debugging
 (Tu khoa tom tat: Interpreter, debug)
 
 Cau 051. Language closest to machine with mnemonics?
-Dap an: Assembly
+Đáp án: Assembly
 (Tu khoa tom tat: Assembly, mnemonic)
 
 Cau 052. Assembler does what?
-Dap an: Assembly -> machine language
+Đáp án: Assembly -> machine language
 (Tu khoa tom tat: Assembler)
 
 Cau 053. Combines object modules into executable?
-Dap an: Linker
+Đáp án: Linker
 (Tu khoa tom tat: Linker, KET HOP)
 
 Cau 054. Loads program into memory?
-Dap an: Loader
+Đáp án: Loader
 (Tu khoa tom tat: Loader)
 
 Cau 055. Software in ROM after power off?
-Dap an: Firmware
+Đáp án: Firmware
 (Tu khoa tom tat: Firmware, ROM)
 
 Cau 056. Allow view/modify/redistribute source?
-Dap an: Open-source license
+Đáp án: Open-source license
 (Tu khoa tom tat: Open-source)
 
 Cau 057. Free use without fee legally for OSS category?
-Dap an: Open-source software (if license allows)
+Đáp án: Open-source software (if license allows)
 (Tu khoa tom tat: Open-source)
 
 Cau 058. OS function deciding CPU time for process?
-Dap an: Process management / scheduling
+Đáp án: Process management / scheduling
 (Tu khoa tom tat: Process Management, scheduling)
 
 Cau 059. Process waiting for disk I/O state?
-Dap an: Waiting / Blocked
+Đáp án: Waiting / Blocked
 (Tu khoa tom tat: Waiting, Blocked)
 
 Cau 060. Process runnable waiting CPU?
-Dap an: Ready
+Đáp án: Ready
 (Tu khoa tom tat: Ready)
 
 Cau 061. Scheduling that may starve long jobs?
-Dap an: SJF / priority without aging
+Đáp án: SJF / priority without aging
 (Tu khoa tom tat: starvation, SJF)
 
 Cau 062. Round Robin reduces?
-Dap an: Starvation / unfair long wait (improves fairness)
+Đáp án: Starvation / unfair long wait (improves fairness)
 (Tu khoa tom tat: Round Robin)
 
 Cau 063. Coffman conditions count?
-Dap an: 4
+Đáp án: 4
 (Tu khoa tom tat: Coffman, 4 dieu kien)
 
 Cau 064. Eliminate which condition to prevent deadlock (common)?
-Dap an: Circular wait (or Hold and wait)
+Đáp án: Circular wait (or Hold and wait)
 (Tu khoa tom tat: Circular wait, Hold and wait)
 
 Cau 065. Kernel modes?
-Dap an: User mode vs kernel/supervisor mode
+Đáp án: User mode vs kernel/supervisor mode
 (Tu khoa tom tat: User mode, kernel)
 
 Cau 066. Microkernel vs monolithic?
-Dap an: Minimal vs many services in kernel
+Đáp án: Minimal vs many services in kernel
 (Tu khoa tom tat: microkernel, monolithic)
 
 Cau 067. Virtual memory page fault?
-Dap an: Needed page not in RAM
+Đáp án: Needed page not in RAM
 (Tu khoa tom tat: page fault, Virtual memory)
 
 Cau 068. Thrashing?
-Dap an: Too many page faults, low progress
+Đáp án: Too many page faults, low progress
 (Tu khoa tom tat: thrashing)
 
 Cau 069. Reentrant program?
-Dap an: Safe concurrent shared code
+Đáp án: Safe concurrent shared code
 (Tu khoa tom tat: reentrant)
 
 Cau 070. File organization fastest by unique ID?
-Dap an: Direct file (hash/relative)
+Đáp án: Direct file (hash/relative)
 (Tu khoa tom tat: Direct, nhanh)
 
 Cau 071. File stores in arrival order unsorted?
-Dap an: Heap file
+Đáp án: Heap file
 (Tu khoa tom tat: Heap file)
 
 Cau 072. Sequential file good for?
-Dap an: Batch sequential processing
+Đáp án: Batch sequential processing
 (Tu khoa tom tat: Sequential)
 
 Cau 073. Backup types?
-Dap an: Full, differential, incremental
+Đáp án: Full, differential, incremental
 (Tu khoa tom tat: Full, incremental, differential)
 
 Cau 074. OS multi-user concurrent files function?
-Dap an: File management
+Đáp án: File management
 (Tu khoa tom tat: File Management)
 
 Cau 075. SQL remove table definition and data?
-Dap an: DROP TABLE
+Đáp án: DROP TABLE
 (Tu khoa tom tat: DROP TABLE)
 
 Cau 076. DELETE vs DROP?
-Dap an: DELETE rows; DROP structure+data
+Đáp án: DELETE rows; DROP structure+data
 (Tu khoa tom tat: DELETE, DROP)
 
 Cau 077. 1NF means?
-Dap an: Atomic values, no repeating groups
+Đáp án: Atomic values, no repeating groups
 (Tu khoa tom tat: 1NF)
 
 Cau 078. 2NF means?
-Dap an: No partial dependency on key
+Đáp án: No partial dependency on key
 (Tu khoa tom tat: 2NF)
 
 Cau 079. 3NF means?
-Dap an: No transitive dependency
+Đáp án: No transitive dependency
 (Tu khoa tom tat: 3NF)
 
 Cau 080. Primary key ensures?
-Dap an: Entity integrity / unique row id
+Đáp án: Entity integrity / unique row id
 (Tu khoa tom tat: PRIMARY KEY, entity)
 
 Cau 081. Foreign key ensures?
-Dap an: Referential integrity
+Đáp án: Referential integrity
 (Tu khoa tom tat: FOREIGN KEY, referential)
 
 Cau 082. ACID D means?
-Dap an: Durability
+Đáp án: Durability
 (Tu khoa tom tat: Durability)
 
 Cau 083. Selection relational op?
-Dap an: Choose rows by condition
+Đáp án: Choose rows by condition
 (Tu khoa tom tat: selection, chon hang)
 
 Cau 084. Projection relational op?
-Dap an: Choose columns
+Đáp án: Choose columns
 (Tu khoa tom tat: projection, chon cot)
 
 Cau 085. JOIN does?
-Dap an: Combine tables
+Đáp án: Combine tables
 (Tu khoa tom tat: join)
 
 Cau 086. Data warehouse vs OLTP?
-Dap an: Analytical, historical, non-volatile integrated store
+Đáp án: Analytical, historical, non-volatile integrated store
 (Tu khoa tom tat: Data Warehouse, OLAP)
 
 Cau 087. 2PC used for?
-Dap an: Distributed transaction atomic commit
+Đáp án: Distributed transaction atomic commit
 (Tu khoa tom tat: 2PC, 2-phase commit)
 
 Cau 088. OSI layer for routing?
-Dap an: Network layer (3)
+Đáp án: Network layer (3)
 (Tu khoa tom tat: Network, routing)
 
 Cau 089. OSI layer for end-to-end reliability?
-Dap an: Transport (4)
+Đáp án: Transport (4)
 (Tu khoa tom tat: Transport, end-to-end)
 
 Cau 090. OSI layer frames/MAC?
-Dap an: Data link (2)
+Đáp án: Data link (2)
 (Tu khoa tom tat: Data link, MAC)
 
 Cau 091. DNS role?
-Dap an: Name <-> IP
+Đáp án: Name <-> IP
 (Tu khoa tom tat: DNS)
 
 Cau 092. DHCP role?
-Dap an: Dynamic IP assignment
+Đáp án: Dynamic IP assignment
 (Tu khoa tom tat: DHCP)
 
 Cau 093. TCP vs UDP?
-Dap an: Reliable connection-oriented vs lightweight connectionless
+Đáp án: Reliable connection-oriented vs lightweight connectionless
 (Tu khoa tom tat: TCP, UDP)
 
 Cau 094. HTTP port commonly?
-Dap an: 80 (HTTPS 443)
+Đáp án: 80 (HTTPS 443)
 (Tu khoa tom tat: HTTP)
 
 Cau 095. TDM explanation?
-Dap an: Multiplex by time slots
+Đáp án: Multiplex by time slots
 (Tu khoa tom tat: TDM, time slots)
 
 Cau 096. FDM explanation?
-Dap an: Split frequency bands
+Đáp án: Split frequency bands
 (Tu khoa tom tat: FDM, tan so)
 
 Cau 097. WDM explanation?
-Dap an: Optical wavelengths
+Đáp án: Optical wavelengths
 (Tu khoa tom tat: WDM, buoc song)
 
 Cau 098. CDMA/CDM idea?
-Dap an: Assign codes to users
+Đáp án: Assign codes to users
 (Tu khoa tom tat: CDM, ma)
 
 Cau 099. CSMA/CD used in?
-Dap an: Classic Ethernet
+Đáp án: Classic Ethernet
 (Tu khoa tom tat: CSMA/CD)
 
 Cau 100. CSMA/CA used in?
-Dap an: Wi-Fi
+Đáp án: Wi-Fi
 (Tu khoa tom tat: CSMA/CA)
 
 Cau 101. File 10^6 bytes on 64kbps 80% util time?
-Dap an: ~157 seconds
+Đáp án: ~157 seconds
 (Tu khoa tom tat: 157, 51200)
 
 Cau 102. Transfer time formula?
-Dap an: bits / (bandwidth * utilization)
+Đáp án: bits / (bandwidth * utilization)
 (Tu khoa tom tat: utilization, bit)
 
 Cau 103. CCU role?
-Dap an: Assemble/disassemble data, error control for transmission
+Đáp án: Assemble/disassemble data, error control for transmission
 (Tu khoa tom tat: CCU, error control)
 
 Cau 104. Modem role?
-Dap an: Digital <-> analog conversion
+Đáp án: Digital <-> analog conversion
 (Tu khoa tom tat: Modem, analog)
 
 Cau 105. Switch vs hub?
-Dap an: Switch reduces collision domain per port
+Đáp án: Switch reduces collision domain per port
 (Tu khoa tom tat: switch, collision)
 
 Cau 106. Router works at?
-Dap an: Network layer, interconnects networks
+Đáp án: Network layer, interconnects networks
 (Tu khoa tom tat: router, Network)
 
 Cau 107. IPv4 bits?
-Dap an: 32
+Đáp án: 32
 (Tu khoa tom tat: IPv4, 32)
 
 Cau 108. IPv6 bits?
-Dap an: 128
+Đáp án: 128
 (Tu khoa tom tat: IPv6, 128)
 
 Cau 109. NAT purpose?
-Dap an: Map private/internal to external addresses
+Đáp án: Map private/internal to external addresses
 (Tu khoa tom tat: NAT)
 
 Cau 110. CIA Availability definition?
-Dap an: Accessible when required
+Đáp án: Accessible when required
 (Tu khoa tom tat: Availability, truy cap)
 
 Cau 111. CIA Confidentiality?
-Dap an: Not disclosed to unauthorized
+Đáp án: Not disclosed to unauthorized
 (Tu khoa tom tat: Confidentiality)
 
 Cau 112. CIA Integrity?
-Dap an: Accurate and complete
+Đáp án: Accurate and complete
 (Tu khoa tom tat: Integrity, chinh xac)
 
 Cau 113. ISMS Plan phase includes?
-Dap an: Risk assessment of assets
+Đáp án: Risk assessment of assets
 (Tu khoa tom tat: Plan, Risk assessment)
 
 Cau 114. ISMS Act phase?
-Dap an: Improvement measures
+Đáp án: Improvement measures
 (Tu khoa tom tat: Act, cai tien)
 
 Cau 115. Risk assessment proper approach?
-Dap an: Estimate loss & frequency, rank risks
+Đáp án: Estimate loss & frequency, rank risks
 (Tu khoa tom tat: tan suat, xep hang)
 
 Cau 116. Security policy should?
-Dap an: State org behavior/judgment criteria for security
+Đáp án: State org behavior/judgment criteria for security
 (Tu khoa tom tat: security policy, tieu chi)
 
 Cau 117. Hybrid crypto practical method?
-Dap an: Encrypt session common key with public key, then symmetric encrypt data
+Đáp án: Encrypt session common key with public key, then symmetric encrypt data
 (Tu khoa tom tat: Hybrid, common key, public key)
 
 Cau 118. Public key crypto speed vs symmetric?
-Dap an: Slower
+Đáp án: Slower
 (Tu khoa tom tat: CHAM hon, symmetric)
 
 Cau 119. Public encryption key distribution?
-Dap an: Can be public, not privately required
+Đáp án: Can be public, not privately required
 (Tu khoa tom tat: public key, cong khai)
 
 Cau 120. Digital signature on released software aims?
-Dap an: Detect illegal modification / integrity
+Đáp án: Detect illegal modification / integrity
 (Tu khoa tom tat: Digital signature, sua trai phep)
 
 Cau 121. Email encryption effect?
-Dap an: Prevent content leakage
+Đáp án: Prevent content leakage
 (Tu khoa tom tat: Email encryption, NOI DUNG)
 
 Cau 122. Iris authentication type?
-Dap an: Biometric from eye
+Đáp án: Biometric from eye
 (Tu khoa tom tat: Iris, mat)
 
 Cau 123. WPA is?
-Dap an: Wireless LAN encryption/security method
+Đáp án: Wireless LAN encryption/security method
 (Tu khoa tom tat: WPA, Wireless)
 
 Cau 124. WAF is?
-Dap an: Protects web apps from attacks
+Đáp án: Protects web apps from attacks
 (Tu khoa tom tat: WAF, Web)
 
 Cau 125. Reverse proxy does?
-Dap an: Receives client requests on behalf of server
+Đáp án: Receives client requests on behalf of server
 (Tu khoa tom tat: Reverse proxy, thay server)
 
 Cau 126. Forward proxy does?
-Dap an: Sends requests on behalf of client
+Đáp án: Sends requests on behalf of client
 (Tu khoa tom tat: Forward proxy, thay client)
 
 Cau 127. OP25B is?
-Dap an: Block outbound SMTP port 25 from internal hosts
+Đáp án: Block outbound SMTP port 25 from internal hosts
 (Tu khoa tom tat: OP25B, port 25)
 
 Cau 128. JPCERT/CC role?
-Dap an: Coordinating body for Information Security Early Warning Partnership
+Đáp án: Coordinating body for Information Security Early Warning Partnership
 (Tu khoa tom tat: JPCERT, Early Warning)
 
 Cau 129. Social engineering example?
-Dap an: Impersonate authorized person asking password by phone
+Đáp án: Impersonate authorized person asking password by phone
 (Tu khoa tom tat: Social engineering, dien)
 
 Cau 130. SSL provides?
-Dap an: Auth + encryption for communications
+Đáp án: Auth + encryption for communications
 (Tu khoa tom tat: SSL, ma hoa)
 
 Cau 131. Antivirus signature method good for?
-Dap an: Known viruses with names
+Đáp án: Known viruses with names
 (Tu khoa tom tat: Signature, virus BIET)
 
 Cau 132. Admin action forgotten password after verify?
-Dap an: Reset password; user sets new one
+Đáp án: Reset password; user sets new one
 (Tu khoa tom tat: RESET, mat khau moi)
 
 Cau 133. Symmetric crypto other name?
-Dap an: Common key cryptography
+Đáp án: Common key cryptography
 (Tu khoa tom tat: Common key, symmetric)
 
 Cau 134. Hash property?
-Dap an: One-way fingerprint; integrity check
+Đáp án: One-way fingerprint; integrity check
 (Tu khoa tom tat: Hash, 1 chieu)
 
 Cau 135. Non-repudiation means?
-Dap an: Cannot deny performed action
+Đáp án: Cannot deny performed action
 (Tu khoa tom tat: Non-repudiation, choi bo)
 
 Cau 136. Least privilege?
-Dap an: Only rights needed for role
+Đáp án: Only rights needed for role
 (Tu khoa tom tat: least privilege)
 
 Cau 137. Phishing is related to?
-Dap an: Social engineering / fraud
+Đáp án: Social engineering / fraud
 (Tu khoa tom tat: Social engineering)
 
 Cau 138. FIFO structure?
-Dap an: Queue
+Đáp án: Queue
 (Tu khoa tom tat: Queue, FIFO)
 
 Cau 139. LIFO structure?
-Dap an: Stack
+Đáp án: Stack
 (Tu khoa tom tat: Stack, LIFO)
 
 Cau 140. Best for recursion call handling?
-Dap an: Stack
+Đáp án: Stack
 (Tu khoa tom tat: Stack, de quy)
 
 Cau 141. Stack: PUSH3 PUSH7 POP PUSH5 PUSH9 POP top?
-Dap an: 5
+Đáp án: 5
 (Tu khoa tom tat: dinh con lai = 5, PUSH)
 
 Cau 142. Queue: ENQA ENQB DEQ ENQC ENQD DEQ front?
-Dap an: C
+Đáp án: C
 (Tu khoa tom tat: dau hang = C, ENQ)
 
 Cau 143. Singly list traverse from?
-Dap an: Head
+Đáp án: Head
 (Tu khoa tom tat: Head, duyet)
 
 Cau 144. Insert X between B and C?
-Dap an: B.next=X; X.next=C
+Đáp án: B.next=X; X.next=C
 (Tu khoa tom tat: B.next = X, X.next = C)
 
 Cau 145. Postfix of A+B*C?
-Dap an: ABC*+
+Đáp án: ABC*+
 (Tu khoa tom tat: ABC*+, postfix)
 
 Cau 146. RPN of (A+B)*(C-D/E)?
-Dap an: AB+CDE/-*
+Đáp án: AB+CDE/-*
 (Tu khoa tom tat: AB+CDE/-*)
 
 Cau 147. BST inorder of 50,30,70,20,40,60,80?
-Dap an: 20 30 40 50 60 70 80
+Đáp án: 20 30 40 50 60 70 80
 (Tu khoa tom tat: inorder, TANG DAN)
 
 Cau 148. BST left subtree values?
-Dap an: Less than node
+Đáp án: Less than node
 (Tu khoa tom tat: trai <, BST)
 
 Cau 149. Divide and Conquer sort example?
-Dap an: Quick Sort / Merge Sort
+Đáp án: Quick Sort / Merge Sort
 (Tu khoa tom tat: Divide and Conquer, Quick)
 
 Cau 150. Bubble sort idea?
-Dap an: Largest bubbles to end each pass
+Đáp án: Largest bubbles to end each pass
 (Tu khoa tom tat: Bubble, cuoi)
 
 Cau 151. Selection sort first pass on 84 73 28 16 51?
-Dap an: 16 73 28 84 51
+Đáp án: 16 73 28 84 51
 (Tu khoa tom tat: 16 73 28 84 51)
 
 Cau 152. Linear search needs sorted data?
-Dap an: No
+Đáp án: No
 (Tu khoa tom tat: Linear search, khong can)
 
 Cau 153. Binary search needs sorted data?
-Dap an: Yes
+Đáp án: Yes
 (Tu khoa tom tat: Binary search, CAN mang da sort)
 
 Cau 154. Linear search best comparisons?
-Dap an: 1
+Đáp án: 1
 (Tu khoa tom tat: best case, 1)
 
 Cau 155. Linear search worst complexity?
-Dap an: O(N)
+Đáp án: O(N)
 (Tu khoa tom tat: O(N), Linear)
 
 Cau 156. Binary search complexity?
-Dap an: O(log N)
+Đáp án: O(log N)
 (Tu khoa tom tat: O(log n), Binary)
 
 Cau 157. Array access time complexity?
-Dap an: O(1) by index
+Đáp án: O(1) by index
 (Tu khoa tom tat: O(1), index)
 
 Cau 158. Linked list insert advantage?
-Dap an: Pointer updates, no full shift
+Đáp án: Pointer updates, no full shift
 (Tu khoa tom tat: pointer, chen)
 
 Cau 159. Full binary tree 31 nodes min height (edges)?
-Dap an: 4
+Đáp án: 4
 (Tu khoa tom tat: 31, height, 4)
 
 Cau 160. Preorder order?
-Dap an: Node-Left-Right
+Đáp án: Node-Left-Right
 (Tu khoa tom tat: Preorder, nut-trai-phai)
 
 Cau 161. Postorder order?
-Dap an: Left-Right-Node
+Đáp án: Left-Right-Node
 (Tu khoa tom tat: Postorder, trai-phai-nut)
 
 Cau 162. Hash average search?
-Dap an: O(1)
+Đáp án: O(1)
 (Tu khoa tom tat: Hash, O(1))
 
 Cau 163. Merge sort complexity?
-Dap an: O(n log n)
+Đáp án: O(n log n)
 (Tu khoa tom tat: Mergesort, O(n log n))
 
 Cau 164. Quicksort worst case?
-Dap an: O(n^2)
+Đáp án: O(n^2)
 (Tu khoa tom tat: Quicksort, O(n^2))
 
 Cau 165. CSR means?
-Dap an: Corporate Social Responsibility
+Đáp án: Corporate Social Responsibility
 (Tu khoa tom tat: CSR)
 
 Cau 166. BCP means?
-Dap an: Business Continuity Plan
+Đáp án: Business Continuity Plan
 (Tu khoa tom tat: BCP)
 
 Cau 167. PDCA letters?
-Dap an: Plan Do Check Act
+Đáp án: Plan Do Check Act
 (Tu khoa tom tat: PDCA)
 
 Cau 168. Assets = ?
-Dap an: Liabilities + Equity
+Đáp án: Liabilities + Equity
 (Tu khoa tom tat: Assets, Liabilities, Equity)
 
 Cau 169. Break-even idea?
-Dap an: Fixed cost / (price - variable unit cost)
+Đáp án: Fixed cost / (price - variable unit cost)
 (Tu khoa tom tat: BEP, hoa von)
 
 Cau 170. QC Pareto idea?
-Dap an: Prioritize vital few (80/20)
+Đáp án: Prioritize vital few (80/20)
 (Tu khoa tom tat: Pareto, 80/20)
 
 Cau 171. Ishikawa diagram?
-Dap an: Cause-effect / fishbone
+Đáp án: Cause-effect / fishbone
 (Tu khoa tom tat: Ishikawa, nhan qua)
 
 Cau 172. PERT critical path float?
-Dap an: 0
+Đáp án: 0
 (Tu khoa tom tat: critical path, float)
 
 Cau 173. Competitive leader strategy?
-Dap an: Omnidirectional / full market
+Đáp án: Omnidirectional / full market
 (Tu khoa tom tat: Leader)
 
 Cau 174. Nicher strategy?
-Dap an: Specialization / niche
+Đáp án: Specialization / niche
 (Tu khoa tom tat: Nicher, chuyen biet)
 
 Cau 175. 4P marketing?
-Dap an: Product Price Place Promotion
+Đáp án: Product Price Place Promotion
 (Tu khoa tom tat: 4P)
 
 Cau 176. Product life cycle stages?
-Dap an: Intro Growth Maturity Decline
+Đáp án: Intro Growth Maturity Decline
 (Tu khoa tom tat: Product life cycle)
 
 Cau 177. CIO approves?
-Dap an: Information systems strategy
+Đáp án: Information systems strategy
 (Tu khoa tom tat: CIO, IS strategy)
 
 Cau 178. ITIL de facto for?
-Dap an: IT service management
+Đáp án: IT service management
 (Tu khoa tom tat: ITIL, ITSM)
 
 Cau 179. SLA is?
-Dap an: Service Level Agreement with customer
+Đáp án: Service Level Agreement with customer
 (Tu khoa tom tat: SLA)
 
 Cau 180. Incident vs Problem?
-Dap an: Restore ASAP vs find root cause
+Đáp án: Restore ASAP vs find root cause
 (Tu khoa tom tat: Incident, Problem)
 
 Cau 181. Service desk is?
-Dap an: SPOC for users
+Đáp án: SPOC for users
 (Tu khoa tom tat: Service desk, SPOC)
 
 Cau 182. ISO 20000 about?
-Dap an: IT service management system
+Đáp án: IT service management system
 (Tu khoa tom tat: ISO/IEC 20000, SMS)
 
 Cau 183. Waterfall model?
-Dap an: Sequential phases
+Đáp án: Sequential phases
 (Tu khoa tom tat: Waterfall)
 
 Cau 184. V-model links?
-Dap an: Each design stage to a test level
+Đáp án: Each design stage to a test level
 (Tu khoa tom tat: V-model)
 
 Cau 185. Unit test tests?
-Dap an: Smallest module/unit
+Đáp án: Smallest module/unit
 (Tu khoa tom tat: unit)
 
 Cau 186. Black-box testing?
-Dap an: Based on spec, not code
+Đáp án: Based on spec, not code
 (Tu khoa tom tat: Black-box)
 
 Cau 187. White-box testing?
-Dap an: Based on code structure
+Đáp án: Based on code structure
 (Tu khoa tom tat: White-box)
 
 Cau 188. High cohesion good?
-Dap an: Yes
+Đáp án: Yes
 (Tu khoa tom tat: cohesion cao)
 
 Cau 189. Low coupling good?
-Dap an: Yes
+Đáp án: Yes
 (Tu khoa tom tat: coupling thap)
 
 Cau 190. Configuration baseline?
-Dap an: Approved reference version of CIs
+Đáp án: Approved reference version of CIs
 (Tu khoa tom tat: baseline, Configuration)
 
 Cau 191. WBS is?
-Dap an: Work Breakdown Structure hierarchy of work
+Đáp án: Work Breakdown Structure hierarchy of work
 (Tu khoa tom tat: WBS)
 
 Cau 192. Project constraints QCD?
-Dap an: Quality Cost Delivery
+Đáp án: Quality Cost Delivery
 (Tu khoa tom tat: Quality, Cost, Delivery)
 
 Cau 193. SPI = ?
-Dap an: EV/PV
+Đáp án: EV/PV
 (Tu khoa tom tat: SPI, EV/PV)
 
 Cau 194. CPI = ?
-Dap an: EV/AC
+Đáp án: EV/AC
 (Tu khoa tom tat: CPI, EV/AC)
 
 Cau 195. SPI<1 means?
-Dap an: Behind schedule
+Đáp án: Behind schedule
 (Tu khoa tom tat: SPI, cham)
 
 Cau 196. Risk responses?
-Dap an: Avoid mitigate transfer accept
+Đáp án: Avoid mitigate transfer accept
 (Tu khoa tom tat: avoid, mitigate, transfer, accept)
 
 Cau 197. Internal control SoD?
-Dap an: Segregation of duties
+Đáp án: Segregation of duties
 (Tu khoa tom tat: Segregation of duties, SoD)
 
 Cau 198. System audit is?
-Dap an: Independent evaluation of IS controls
+Đáp án: Independent evaluation of IS controls
 (Tu khoa tom tat: System audit)
 
 Cau 199. IT governance aims?
-Dap an: Align IT with business, manage IT risk/value
+Đáp án: Align IT with business, manage IT risk/value
 (Tu khoa tom tat: IT governance)
 
 Cau 200. COBIT is?
-Dap an: IT governance best practices framework
+Đáp án: IT governance best practices framework
 (Tu khoa tom tat: COBIT)
 
 Cau 201. SaaS means?
-Dap an: Software as a Service
+Đáp án: Software as a Service
 (Tu khoa tom tat: SaaS)
 
 Cau 202. PaaS means?
-Dap an: Platform as a Service
+Đáp án: Platform as a Service
 (Tu khoa tom tat: PaaS)
 
 Cau 203. IaaS means?
-Dap an: Infrastructure as a Service
+Đáp án: Infrastructure as a Service
 (Tu khoa tom tat: IaaS)
 
 Cau 204. B2C e-business?
-Dap an: Business to Consumer
+Đáp án: Business to Consumer
 (Tu khoa tom tat: B2C)
 
 Cau 205. Benchmarking?
-Dap an: Compare with best practice/competitors
+Đáp án: Compare with best practice/competitors
 (Tu khoa tom tat: Benchmarking)
 
 Cau 206. Outsourcing offshore risk?
-Dap an: Harder remote control, cheaper labor
+Đáp án: Harder remote control, cheaper labor
 (Tu khoa tom tat: offshore)
 
 Cau 207. Copyright protects?
-Dap an: Expression of work / software code as work
+Đáp án: Expression of work / software code as work
 (Tu khoa tom tat: Copyright, ban quyen)
 
 Cau 208. Patent protects?
-Dap an: Invention
+Đáp án: Invention
 (Tu khoa tom tat: patent, sang che)
 
 Cau 209. Going concern?
-Dap an: Assume company continues indefinitely
+Đáp án: Assume company continues indefinitely
 (Tu khoa tom tat: going concern)
 
 Cau 210. Disclosure/IR?
-Dap an: Publish business/financial info for stakeholders
+Đáp án: Publish business/financial info for stakeholders
 (Tu khoa tom tat: Disclosure, IR)
 
 Cau 211. Green IT?
-Dap an: Energy-efficient IT / reduce environmental impact
+Đáp án: Energy-efficient IT / reduce environmental impact
 (Tu khoa tom tat: Green IT)
 
 Cau 212. MBO?
-Dap an: Management by Objectives
+Đáp án: Management by Objectives
 (Tu khoa tom tat: MBO)
 
 Cau 213. ERP supports?
-Dap an: Integrated enterprise resource management
+Đáp án: Integrated enterprise resource management
 (Tu khoa tom tat: ERP)
 
 Cau 214. CRM supports?
-Dap an: Customer relationship management
+Đáp án: Customer relationship management
 (Tu khoa tom tat: CRM)
 
 Cau 215. SCM supports?
-Dap an: Supply chain management
+Đáp án: Supply chain management
 (Tu khoa tom tat: SCM)
 
 Cau 216. Requirements: functional vs non-functional?
-Dap an: What system does vs quality attributes
+Đáp án: What system does vs quality attributes
 (Tu khoa tom tat: functional, non-functional)
 
 Cau 217. Walk-through review?
-Dap an: Creator + peers find errors early
+Đáp án: Creator + peers find errors early
 (Tu khoa tom tat: walk-through)
 
 Cau 218. Inspection review?
-Dap an: Moderator-led formal review
+Đáp án: Moderator-led formal review
 (Tu khoa tom tat: inspection, moderator)
 
 Cau 219. Corrective maintenance?
-Dap an: Fix defects
+Đáp án: Fix defects
 (Tu khoa tom tat: Corrective)
 
 Cau 220. Adaptive maintenance?
-Dap an: Adapt to environment changes
+Đáp án: Adapt to environment changes
 (Tu khoa tom tat: Adaptive)
 
 Cau 221. Perfective maintenance?
-Dap an: Improve features/performance
+Đáp án: Improve features/performance
 (Tu khoa tom tat: Perfective)
 
 Cau 222. Verification vs Validation?
-Dap an: Meet spec vs meet real needs
+Đáp án: Meet spec vs meet real needs
 (Tu khoa tom tat: Verification, Validation)
 
 Cau 223. Project temporary means?
-Dap an: Defined start and end
+Đáp án: Defined start and end
 (Tu khoa tom tat: temporary, Temporariness)
 
 Cau 224. Stakeholder is?
-Dap an: Anyone interested/affected by project
+Đáp án: Anyone interested/affected by project
 (Tu khoa tom tat: Stakeholder)
 
 Cau 225. PMO role?
-Dap an: Support/control multiple projects
+Đáp án: Support/control multiple projects
 (Tu khoa tom tat: PMO)
 
 Cau 226. Matrix organization?
-Dap an: Members from multiple departments
+Đáp án: Members from multiple departments
 (Tu khoa tom tat: Matrix)
 
 Cau 227. Critical path activities have?
-Dap an: Zero float/slack
+Đáp án: Zero float/slack
 (Tu khoa tom tat: critical path, 0)
 
 Cau 228. Crashing a schedule?
-Dap an: Add resources to shorten duration (cost↑)
+Đáp án: Add resources to shorten duration (cost↑)
 (Tu khoa tom tat: crashing)
 
 Cau 229. Fast-tracking?
-Dap an: Overlap phases/activities
+Đáp án: Overlap phases/activities
 (Tu khoa tom tat: fast-tracking)
 
 Cau 230. Known error in ITIL?
-Dap an: Problem with documented root cause/workaround
+Đáp án: Problem with documented root cause/workaround
 (Tu khoa tom tat: known error)
 
 Cau 231. CMDB?
-Dap an: Configuration management database
+Đáp án: Configuration management database
 (Tu khoa tom tat: CMDB, Configuration)
 
 Cau 232. Availability management goal?
-Dap an: Meet agreed availability in SLA
+Đáp án: Meet agreed availability in SLA
 (Tu khoa tom tat: availability, SLA)
 
 Cau 233. IT service continuity related to?
-Dap an: BCP for IT services
+Đáp án: BCP for IT services
 (Tu khoa tom tat: continuity, BCP)
 
 Cau 234. Preventive control example?
-Dap an: Authorization before action
+Đáp án: Authorization before action
 (Tu khoa tom tat: preventive)
 
 Cau 235. Detective control example?
-Dap an: Logs, audits, alerts
+Đáp án: Logs, audits, alerts
 (Tu khoa tom tat: detective)
 
 Cau 236. External audit vs internal?
-Dap an: Outside independent party vs inside org
+Đáp án: Outside independent party vs inside org
 (Tu khoa tom tat: External, Internal)
 
 Cau 237. General IT controls vs application controls?
-Dap an: Environment-wide vs app-specific
+Đáp án: Environment-wide vs app-specific
 (Tu khoa tom tat: General controls, application controls)
 
 Cau 238. Series reliabilities 0.9 and 0.9?
-Dap an: 0.81
+Đáp án: 0.81
 (Tu khoa tom tat: Series, R1 * R2)
 
 Cau 239. Series 0.99 * 0.99?
-Dap an: 0.9801
+Đáp án: 0.9801
 (Tu khoa tom tat: Series)
 
 Cau 240. Parallel two 0.9 modules approx R?
-Dap an: 0.99
+Đáp án: 0.99
 (Tu khoa tom tat: Parallel, 1 -)
 
 Cau 241. MTBF=99 MTTR=1 availability?
-Dap an: 0.99 / 99%
+Đáp án: 0.99 / 99%
 (Tu khoa tom tat: Availability, MTBF)
 
 Cau 242. 2^10 equals?
-Dap an: 1024
+Đáp án: 1024
 (Tu khoa tom tat: 1024, 2^10)
 
 Cau 243. 2^8 equals?
-Dap an: 256
+Đáp án: 256
 (Tu khoa tom tat: 256, 2^8)
 
 Cau 244. 16-bit patterns count?
-Dap an: 65536
+Đáp án: 65536
 (Tu khoa tom tat: 2^16, 65536)
 
 Cau 245. Hex F decimal?
-Dap an: 15
+Đáp án: 15
 (Tu khoa tom tat: F=15, Hex)
 
 Cau 246. Hex 10 decimal?
-Dap an: 16
+Đáp án: 16
 (Tu khoa tom tat: Hex)
 
 Cau 247. Binary 1010 decimal?
-Dap an: 10
+Đáp án: 10
 (Tu khoa tom tat: Binary, thap phan)
 
 Cau 248. Postfix of A*B+C?
-Dap an: AB*C+
+Đáp án: AB*C+
 (Tu khoa tom tat: postfix, stack)
 
 Cau 249. Stack empty PUSH1 PUSH2 POP result top?
-Dap an: 1
+Đáp án: 1
 (Tu khoa tom tat: Stack, POP)
 
 Cau 250. Queue empty ENQ1 ENQ2 DEQ front?
-Dap an: 2
+Đáp án: 2
 (Tu khoa tom tat: Queue, DEQ)
 
 Cau 251. Best OS for many short interactive jobs fairness?
-Dap an: Round Robin
+Đáp án: Round Robin
 (Tu khoa tom tat: Round Robin)
 
 Cau 252. Starvation risk algorithm?
-Dap an: SJF
+Đáp án: SJF
 (Tu khoa tom tat: SJF, starvation)
 
 Cau 253. Process blocked on keyboard input state?
-Dap an: Waiting/Blocked
+Đáp án: Waiting/Blocked
 (Tu khoa tom tat: Waiting)
 
 Cau 254. Which layer HTTP belongs TCP/IP?
-Dap an: Application
+Đáp án: Application
 (Tu khoa tom tat: Application, HTTP)
 
 Cau 255. Which layer IP?
-Dap an: Internet layer
+Đáp án: Internet layer
 (Tu khoa tom tat: Internet, IP)
 
 Cau 256. Protocol for secure web?
-Dap an: HTTPS/TLS
+Đáp án: HTTPS/TLS
 (Tu khoa tom tat: HTTPS, TLS)
 
 Cau 257. Mail send protocol?
-Dap an: SMTP
+Đáp án: SMTP
 (Tu khoa tom tat: SMTP)
 
 Cau 258. Mail receive protocols?
-Dap an: POP/IMAP
+Đáp án: POP/IMAP
 (Tu khoa tom tat: POP, IMAP)
 
 Cau 259. RAID with parity single disk?
-Dap an: RAID 5
+Đáp án: RAID 5
 (Tu khoa tom tat: RAID 5, parity)
 
 Cau 260. Hot swap related often to?
-Dap an: High availability hardware
+Đáp án: High availability hardware
 (Tu khoa tom tat: availability)
 
 Cau 261. UPS supports which security aspect mainly?
-Dap an: Availability (power)
+Đáp án: Availability (power)
 (Tu khoa tom tat: UPS, Availability)
 
 Cau 262. Clean desk policy is which measure type?
-Dap an: Human/organizational
+Đáp án: Human/organizational
 (Tu khoa tom tat: Human, clean desk)
 
 Cau 263. Lock on server room door?
-Dap an: Physical security
+Đáp án: Physical security
 (Tu khoa tom tat: Physical)
 
 Cau 264. Patch management is?
-Dap an: Technical security measure
+Đáp án: Technical security measure
 (Tu khoa tom tat: patch, Technical)
 
 Cau 265. SQL injection defense?
-Dap an: Parameterized queries / validate input
+Đáp án: Parameterized queries / validate input
 (Tu khoa tom tat: SQL injection, parameterized)
 
 Cau 266. XSS related to?
-Dap an: Web security / input output encoding
+Đáp án: Web security / input output encoding
 (Tu khoa tom tat: XSS)
 
 Cau 267. Digital certificate issued by?
-Dap an: CA (Certificate Authority)
+Đáp án: CA (Certificate Authority)
 (Tu khoa tom tat: CA, certificate)
 
 Cau 268. Symmetric algorithm example?
-Dap an: AES
+Đáp án: AES
 (Tu khoa tom tat: AES)
 
 Cau 269. Asymmetric example?
-Dap an: RSA
+Đáp án: RSA
 (Tu khoa tom tat: RSA)
 
 Cau 270. Hash example family?
-Dap an: SHA
+Đáp án: SHA
 (Tu khoa tom tat: SHA)
 
 Cau 271. MFA means?
-Dap an: Multi-factor authentication
+Đáp án: Multi-factor authentication
 (Tu khoa tom tat: MFA)
 
 Cau 272. RBAC means?
-Dap an: Role-Based Access Control
+Đáp án: Role-Based Access Control
 (Tu khoa tom tat: RBAC)
 
 Cau 273. DMZ purpose?
-Dap an: Segment public services from internal LAN
+Đáp án: Segment public services from internal LAN
 (Tu khoa tom tat: DMZ)
 
 Cau 274. IDS vs IPS?
-Dap an: Detect vs detect+block
+Đáp án: Detect vs detect+block
 (Tu khoa tom tat: IDS, IPS)
 
 Cau 275. VPN purpose?
-Dap an: Secure remote communication tunnel
+Đáp án: Secure remote communication tunnel
 (Tu khoa tom tat: VPN)
 
 Cau 276. Throughput high means?
-Dap an: More jobs/transactions per time
+Đáp án: More jobs/transactions per time
 (Tu khoa tom tat: Throughput)
 
 Cau 277. Turnaround time used in?
-Dap an: Batch job completion latency
+Đáp án: Batch job completion latency
 (Tu khoa tom tat: Turnaround)
 
 Cau 278. Soft real-time miss deadline?
-Dap an: Degraded quality, not necessarily fatal
+Đáp án: Degraded quality, not necessarily fatal
 (Tu khoa tom tat: Soft real-time)
 
 Cau 279. Client-server model?
-Dap an: Client requests, server responds
+Đáp án: Client requests, server responds
 (Tu khoa tom tat: Client-server)
 
 Cau 280. 3-tier layers?
-Dap an: Presentation, application, data
+Đáp án: Presentation, application, data
 (Tu khoa tom tat: 3-tier, presentation)
 
 Cau 281. Normalization goal?
-Dap an: Reduce redundancy and anomalies
+Đáp án: Reduce redundancy and anomalies
 (Tu khoa tom tat: Chuan hoa, redundancy)
 
 Cau 282. E-R entity drawn as?
-Dap an: Rectangle
+Đáp án: Rectangle
 (Tu khoa tom tat: Entity, chu nhat)
 
 Cau 283. Relationship cardinality M:N?
-Dap an: Many-to-many
+Đáp án: Many-to-many
 (Tu khoa tom tat: M:N)
 
 Cau 284. COMMIT does?
-Dap an: Make transaction durable
+Đáp án: Make transaction durable
 (Tu khoa tom tat: COMMIT)
 
 Cau 285. ROLLBACK does?
-Dap an: Undo uncommitted transaction
+Đáp án: Undo uncommitted transaction
 (Tu khoa tom tat: ROLLBACK)
 
 Cau 286. Index purpose?
-Dap an: Speed up search
+Đáp án: Speed up search
 (Tu khoa tom tat: Index, tang toc)
 
 Cau 287. View in DB?
-Dap an: Virtual table from query
+Đáp án: Virtual table from query
 (Tu khoa tom tat: View)
 
 Cau 288. GRANT/REVOKE?
-Dap an: Privilege control DCL
+Đáp án: Privilege control DCL
 (Tu khoa tom tat: GRANT, REVOKE)
 
 Cau 289. OLTP means?
-Dap an: Online transaction processing
+Đáp án: Online transaction processing
 (Tu khoa tom tat: OLTP)
 
 Cau 290. ETL means?
-Dap an: Extract Transform Load
+Đáp án: Extract Transform Load
 (Tu khoa tom tat: ETL)
 
 Cau 291. Bus topology weakness?
-Dap an: Shared medium / collision / cable fault impact
+Đáp án: Shared medium / collision / cable fault impact
 (Tu khoa tom tat: bus)
 
 Cau 292. Star topology center device often?
-Dap an: Switch/hub
+Đáp án: Switch/hub
 (Tu khoa tom tat: star, switch)
 
 Cau 293. Optical fiber advantage?
-Dap an: High bandwidth, low noise, long distance
+Đáp án: High bandwidth, low noise, long distance
 (Tu khoa tom tat: optical fiber)
 
 Cau 294. Twisted pair common use?
-Dap an: LAN Ethernet cabling
+Đáp án: LAN Ethernet cabling
 (Tu khoa tom tat: twisted pair)
 
 Cau 295. CRC used for?
-Dap an: Error detection
+Đáp án: Error detection
 (Tu khoa tom tat: CRC)
 
 Cau 296. Parity bit used for?
-Dap an: Simple error detection
+Đáp án: Simple error detection
 (Tu khoa tom tat: Parity)
 
 Cau 297. Sliding window improves?
-Dap an: Throughput via pipelined frames
+Đáp án: Throughput via pipelined frames
 (Tu khoa tom tat: sliding window)
 
 Cau 298. ARP resolves?
-Dap an: IP to MAC
+Đáp án: IP to MAC
 (Tu khoa tom tat: ARP)
 
 Cau 299. ICMP used by?
-Dap an: Ping / error reporting
+Đáp án: Ping / error reporting
 (Tu khoa tom tat: ICMP)
 
 Cau 300. Private IP example?
-Dap an: 192.168.x.x or 10.x.x.x
+Đáp án: 192.168.x.x or 10.x.x.x
 (Tu khoa tom tat: private, 192.168)
 
 ================================================================================

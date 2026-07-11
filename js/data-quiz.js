@@ -12,7 +12,7 @@ window.QUIZ_DATA = [
       "Ready"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Waiting (Khi một tiến trình đang phải chờ một sự kiện nào đó hoàn thành, ví dụ như chờ đọc/ghi dữ liệu từ ổ đĩa (I/O), nó sẽ tạm rời khỏi CPU và chuyển sang trạng thái chờ - Waiting hoặc Blocked - để nhường tài nguyên cho các tiến trình khác)..",
+    "explanation": "Đáp án: Waiting (Khi một tiến trình đang phải chờ một sự kiện nào đó hoàn thành, ví dụ như chờ đọc/ghi dữ liệu từ ổ đĩa (I/O), nó sẽ tạm rời khỏi CPU và chuyển sang trạng thái chờ - Waiting hoặc Blocked - để nhường tài nguyên cho các tiến trình khác)..",
     "answerText": "Waiting (Khi một tiến trình đang phải chờ một sự kiện nào đó hoàn thành, ví dụ như chờ đọc/ghi dữ liệu từ ổ đĩa (I/O), nó sẽ tạm rời khỏi CPU và chuyển sang trạng thái chờ - Waiting hoặc Blocked - để nhường tài nguyên cho các tiến trình khác).",
     "keywords": []
   },
@@ -27,7 +27,7 @@ window.QUIZ_DATA = [
       "Prevent content leakage"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Open-source License (Giấy phép mã nguồn mở - Open-source License - là loại giấy phép đặc trưng cho phép cộng đồng người dùng có quyền tự do truy cập, xem, chỉnh sửa và phân phối lại mã nguồn của phần mềm đó)..",
+    "explanation": "Đáp án: Open-source License (Giấy phép mã nguồn mở - Open-source License - là loại giấy phép đặc trưng cho phép cộng đồng người dùng có quyền tự do truy cập, xem, chỉnh sửa và phân phối lại mã nguồn của phần mềm đó)..",
     "answerText": "Open-source License (Giấy phép mã nguồn mở - Open-source License - là loại giấy phép đặc trưng cho phép cộng đồng người dùng có quyền tự do truy cập, xem, chỉnh sửa và phân phối lại mã nguồn của phần mềm đó).",
     "keywords": []
   },
@@ -43,7 +43,7 @@ window.QUIZ_DATA = [
       "To increase CPU temperature"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: To improve user usability and accessibility (Mục đích chính của thiết kế giao diện là cải thiện trải nghiệm người dùng, giúp phần mềm/hệ thống trở nên dễ sử dụng và dễ tiếp cận hơn đối với người dùng)..",
+    "explanation": "Đáp án: To improve user usability and accessibility (Mục đích chính của thiết kế giao diện là cải thiện trải nghiệm người dùng, giúp phần mềm/hệ thống trở nên dễ sử dụng và dễ tiếp cận hơn đối với người dùng)..",
     "answerText": "To improve user usability and accessibility (Mục đích chính của thiết kế giao diện là cải thiện trải nghiệm người dùng, giúp phần mềm/hệ thống trở nên dễ sử dụng và dễ tiếp cận hơn đối với người dùng).",
     "keywords": []
   },
@@ -58,7 +58,7 @@ window.QUIZ_DATA = [
       "Liabilities + Equity"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: 8 (Theo quy ước chuẩn, 1 byte bao gồm 8 bits)..",
+    "explanation": "Đáp án: 8 (Theo quy ước chuẩn, 1 byte bao gồm 8 bits)..",
     "answerText": "8 (Theo quy ước chuẩn, 1 byte bao gồm 8 bits).",
     "keywords": []
   },
@@ -73,7 +73,7 @@ window.QUIZ_DATA = [
       "The entire source program is translated before execution (Đặc trưng của trình biên dịch - compiler - là nó đọc và dịch toàn bộ mã nguồn của chương trình sang mã máy trước khi thực thi, khác với trình thông dịch - interpreter - dịch và chạy từng dòng lệnh)."
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: The entire source program is translated before execution (Đặc trưng của trình biên dịch - compiler - là nó đọc và dịch toàn bộ mã nguồn của chương trình sang mã máy trước khi thực thi, khác với trình thông dịch - interpreter - dịch và chạy từng dòng lệnh)..",
+    "explanation": "Đáp án: The entire source program is translated before execution (Đặc trưng của trình biên dịch - compiler - là nó đọc và dịch toàn bộ mã nguồn của chương trình sang mã máy trước khi thực thi, khác với trình thông dịch - interpreter - dịch và chạy từng dòng lệnh)..",
     "answerText": "The entire source program is translated before execution (Đặc trưng của trình biên dịch - compiler - là nó đọc và dịch toàn bộ mã nguồn của chương trình sang mã máy trước khi thực thi, khác với trình thông dịch - interpreter - dịch và chạy từng dòng lệnh).",
     "keywords": []
   },
@@ -89,7 +89,7 @@ window.QUIZ_DATA = [
       "RAM"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Hard disk (Ổ cứng là thiết bị lưu trữ bất biến / non-volatile, nó giữ nguyên dữ liệu ngay cả khi ngắt nguồn điện. Trong khi đó, RAM, CPU, Cache và Register đều mất dữ liệu khi tắt máy)..",
+    "explanation": "Đáp án: Hard disk (Ổ cứng là thiết bị lưu trữ bất biến / non-volatile, nó giữ nguyên dữ liệu ngay cả khi ngắt nguồn điện. Trong khi đó, RAM, CPU, Cache và Register đều mất dữ liệu khi tắt máy)..",
     "answerText": "Hard disk (Ổ cứng là thiết bị lưu trữ bất biến / non-volatile, nó giữ nguyên dữ liệu ngay cả khi ngắt nguồn điện. Trong khi đó, RAM, CPU, Cache và Register đều mất dữ liệu khi tắt máy).",
     "keywords": []
   },
@@ -105,7 +105,7 @@ window.QUIZ_DATA = [
       "ERASE"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: DROP TABLE (Lệnh DROP TABLE trong SQL được sử dụng để xóa hoàn toàn cả cấu trúc (định nghĩa) của một bảng lẫn mọi dữ liệu được lưu bên trong bảng đó khỏi cơ sở dữ liệu)..",
+    "explanation": "Đáp án: DROP TABLE (Lệnh DROP TABLE trong SQL được sử dụng để xóa hoàn toàn cả cấu trúc (định nghĩa) của một bảng lẫn mọi dữ liệu được lưu bên trong bảng đó khỏi cơ sở dữ liệu)..",
     "answerText": "DROP TABLE (Lệnh DROP TABLE trong SQL được sử dụng để xóa hoàn toàn cả cấu trúc (định nghĩa) của một bảng lẫn mọi dữ liệu được lưu bên trong bảng đó khỏi cơ sở dữ liệu).",
     "keywords": []
   },
@@ -120,7 +120,7 @@ window.QUIZ_DATA = [
       "Service Level Agreement with customer"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Process Management (Quản lý tiến trình là chức năng cốt lõi của Hệ điều hành chịu trách nhiệm lên lịch (scheduling) và quyết định tiến trình nào sẽ được cấp phát thời gian sử dụng CPU)..",
+    "explanation": "Đáp án: Process Management (Quản lý tiến trình là chức năng cốt lõi của Hệ điều hành chịu trách nhiệm lên lịch (scheduling) và quyết định tiến trình nào sẽ được cấp phát thời gian sử dụng CPU)..",
     "answerText": "Process Management (Quản lý tiến trình là chức năng cốt lõi của Hệ điều hành chịu trách nhiệm lên lịch (scheduling) và quyết định tiến trình nào sẽ được cấp phát thời gian sử dụng CPU).",
     "keywords": []
   },
@@ -135,7 +135,7 @@ window.QUIZ_DATA = [
       "Harder remote control, cheaper labor"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Input unit (Khối đầu vào - Input unit - ví dụ như chuột, bàn phím, máy quét là thiết bị ngoại vi kết nối từ bên ngoài vào. Các lựa chọn còn lại như Control unit, ALU, CPU, hay Register đều là các thành phần cốt lõi bên trong vi xử lý)..",
+    "explanation": "Đáp án: Input unit (Khối đầu vào - Input unit - ví dụ như chuột, bàn phím, máy quét là thiết bị ngoại vi kết nối từ bên ngoài vào. Các lựa chọn còn lại như Control unit, ALU, CPU, hay Register đều là các thành phần cốt lõi bên trong vi xử lý)..",
     "answerText": "Input unit (Khối đầu vào - Input unit - ví dụ như chuột, bàn phím, máy quét là thiết bị ngoại vi kết nối từ bên ngoài vào. Các lựa chọn còn lại như Control unit, ALU, CPU, hay Register đều là các thành phần cốt lõi bên trong vi xử lý).",
     "keywords": []
   },
@@ -150,7 +150,7 @@ window.QUIZ_DATA = [
       "Batch processing"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: 4th generation (Máy tính thế hệ thứ 4 đánh dấu sự ra đời của công nghệ vi mạch tích hợp mật độ rất cao - VLSI, cho phép thu nhỏ hàng ngàn transistor vào một chip vi xử lý duy nhất)..",
+    "explanation": "Đáp án: 4th generation (Máy tính thế hệ thứ 4 đánh dấu sự ra đời của công nghệ vi mạch tích hợp mật độ rất cao - VLSI, cho phép thu nhỏ hàng ngàn transistor vào một chip vi xử lý duy nhất)..",
     "answerText": "4th generation (Máy tính thế hệ thứ 4 đánh dấu sự ra đời của công nghệ vi mạch tích hợp mật độ rất cao - VLSI, cho phép thu nhỏ hàng ngàn transistor vào một chip vi xử lý duy nhất).",
     "keywords": []
   },
@@ -165,7 +165,7 @@ window.QUIZ_DATA = [
       "It reduces user errors and improves usability (Một thiết kế giao diện thân thiện, trực quan sẽ giúp người dùng thao tác dễ dàng hơn, từ đó làm giảm thiểu các sai sót do con người gây ra và tăng tính khả dụng)."
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: It reduces user errors and improves usability (Một thiết kế giao diện thân thiện, trực quan sẽ giúp người dùng thao tác dễ dàng hơn, từ đó làm giảm thiểu các sai sót do con người gây ra và tăng tính khả dụng)..",
+    "explanation": "Đáp án: It reduces user errors and improves usability (Một thiết kế giao diện thân thiện, trực quan sẽ giúp người dùng thao tác dễ dàng hơn, từ đó làm giảm thiểu các sai sót do con người gây ra và tăng tính khả dụng)..",
     "answerText": "It reduces user errors and improves usability (Một thiết kế giao diện thân thiện, trực quan sẽ giúp người dùng thao tác dễ dàng hơn, từ đó làm giảm thiểu các sai sót do con người gây ra và tăng tính khả dụng).",
     "keywords": []
   },
@@ -180,7 +180,7 @@ window.QUIZ_DATA = [
       "128"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Vacuum tube (Máy tính thế hệ đầu tiên sử dụng các ống/đèn chân không - Vacuum tubes - làm các cổng logic và bộ khuếch đại điện tử để xử lý tín hiệu)..",
+    "explanation": "Đáp án: Vacuum tube (Máy tính thế hệ đầu tiên sử dụng các ống/đèn chân không - Vacuum tubes - làm các cổng logic và bộ khuếch đại điện tử để xử lý tín hiệu)..",
     "answerText": "Vacuum tube (Máy tính thế hệ đầu tiên sử dụng các ống/đèn chân không - Vacuum tubes - làm các cổng logic và bộ khuếch đại điện tử để xử lý tín hiệu).",
     "keywords": []
   },
@@ -195,7 +195,7 @@ window.QUIZ_DATA = [
       "Safe concurrent shared code"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Middleware (Phần mềm trung gian - Middleware - hoạt động như một cầu nối/trung gian giữa các ứng dụng và hệ điều hành hoặc giữa các ứng dụng với nhau)..",
+    "explanation": "Đáp án: Middleware (Phần mềm trung gian - Middleware - hoạt động như một cầu nối/trung gian giữa các ứng dụng và hệ điều hành hoặc giữa các ứng dụng với nhau)..",
     "answerText": "Middleware (Phần mềm trung gian - Middleware - hoạt động như một cầu nối/trung gian giữa các ứng dụng và hệ điều hành hoặc giữa các ứng dụng với nhau).",
     "keywords": []
   },
@@ -211,7 +211,7 @@ window.QUIZ_DATA = [
       "It requires less memory during execution"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: It allows immediate execution and debugging of statements (Trình thông dịch - interpreter - dịch và thực thi từng dòng lệnh một ngay lập tức, điều này giúp việc phát hiện và gỡ lỗi (debugging) dễ dàng hơn so với trình biên dịch)..",
+    "explanation": "Đáp án: It allows immediate execution and debugging of statements (Trình thông dịch - interpreter - dịch và thực thi từng dòng lệnh một ngay lập tức, điều này giúp việc phát hiện và gỡ lỗi (debugging) dễ dàng hơn so với trình biên dịch)..",
     "answerText": "It allows immediate execution and debugging of statements (Trình thông dịch - interpreter - dịch và thực thi từng dòng lệnh một ngay lập tức, điều này giúp việc phát hiện và gỡ lỗi (debugging) dễ dàng hơn so với trình biên dịch).",
     "keywords": []
   },
@@ -227,7 +227,7 @@ window.QUIZ_DATA = [
       "Parallel processing"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Batch processing (Hệ thống xử lý theo lô - Batch processing - gom các công việc (jobs) lại thành từng nhóm và tự động thực thi tuần tự mà không cần sự tương tác của người dùng)..",
+    "explanation": "Đáp án: Batch processing (Hệ thống xử lý theo lô - Batch processing - gom các công việc (jobs) lại thành từng nhóm và tự động thực thi tuần tự mà không cần sự tương tác của người dùng)..",
     "answerText": "Batch processing (Hệ thống xử lý theo lô - Batch processing - gom các công việc (jobs) lại thành từng nhóm và tự động thực thi tuần tự mà không cần sự tương tác của người dùng).",
     "keywords": []
   },
@@ -243,7 +243,7 @@ window.QUIZ_DATA = [
       "0.995"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: 0.855 (Độ tin cậy của một hệ thống mắc nối tiếp bằng tích độ tin cậy của các thành phần bên trong nó: $0.95 \\times 0.90 = 0.855$)..",
+    "explanation": "Đáp án: 0.855 (Độ tin cậy của một hệ thống mắc nối tiếp bằng tích độ tin cậy của các thành phần bên trong nó: $0.95 \\times 0.90 = 0.855$)..",
     "answerText": "0.855 (Độ tin cậy của một hệ thống mắc nối tiếp bằng tích độ tin cậy của các thành phần bên trong nó: $0.95 \\times 0.90 = 0.855$).",
     "keywords": []
   },
@@ -258,7 +258,7 @@ window.QUIZ_DATA = [
       "Assembly Language (Hợp ngữ - Assembly Language - là ngôn ngữ lập trình bậc thấp, rất gần với ngôn ngữ máy và sử dụng các từ gợi nhớ (mnemonics) thay vì các chuỗi nhị phân)."
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Assembly Language (Hợp ngữ - Assembly Language - là ngôn ngữ lập trình bậc thấp, rất gần với ngôn ngữ máy và sử dụng các từ gợi nhớ (mnemonics) thay vì các chuỗi nhị phân)..",
+    "explanation": "Đáp án: Assembly Language (Hợp ngữ - Assembly Language - là ngôn ngữ lập trình bậc thấp, rất gần với ngôn ngữ máy và sử dụng các từ gợi nhớ (mnemonics) thay vì các chuỗi nhị phân)..",
     "answerText": "Assembly Language (Hợp ngữ - Assembly Language - là ngôn ngữ lập trình bậc thấp, rất gần với ngôn ngữ máy và sử dụng các từ gợi nhớ (mnemonics) thay vì các chuỗi nhị phân).",
     "keywords": []
   },
@@ -274,7 +274,7 @@ window.QUIZ_DATA = [
       "Word"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Bit (Bit là đơn vị lưu trữ thông tin nhỏ nhất trong máy tính, chỉ có thể nhận giá trị 0 hoặc 1)..",
+    "explanation": "Đáp án: Bit (Bit là đơn vị lưu trữ thông tin nhỏ nhất trong máy tính, chỉ có thể nhận giá trị 0 hoặc 1)..",
     "answerText": "Bit (Bit là đơn vị lưu trữ thông tin nhỏ nhất trong máy tính, chỉ có thể nhận giá trị 0 hoặc 1).",
     "keywords": []
   },
@@ -289,7 +289,7 @@ window.QUIZ_DATA = [
       "Common key cryptography is safe for communication with multiple parties, even when the same encryption key is used."
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: It has non-volatile characteristics (Bộ nhớ phụ / lưu trữ ngoài như ổ cứng HDD, SSD có đặc tính \"non-volatile\", tức là bộ nhớ bất biến, không bị mất dữ liệu khi tắt nguồn điện)..",
+    "explanation": "Đáp án: It has non-volatile characteristics (Bộ nhớ phụ / lưu trữ ngoài như ổ cứng HDD, SSD có đặc tính \"non-volatile\", tức là bộ nhớ bất biến, không bị mất dữ liệu khi tắt nguồn điện)..",
     "answerText": "It has non-volatile characteristics (Bộ nhớ phụ / lưu trữ ngoài như ổ cứng HDD, SSD có đặc tính \"non-volatile\", tức là bộ nhớ bất biến, không bị mất dữ liệu khi tắt nguồn điện).",
     "keywords": []
   },
@@ -304,7 +304,7 @@ window.QUIZ_DATA = [
       "Compare with best practice/competitors"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Unicode (Unicode là bộ mã chuẩn quốc tế được thiết kế để có thể biểu diễn văn bản của hầu hết các ngôn ngữ trên thế giới)..",
+    "explanation": "Đáp án: Unicode (Unicode là bộ mã chuẩn quốc tế được thiết kế để có thể biểu diễn văn bản của hầu hết các ngôn ngữ trên thế giới)..",
     "answerText": "Unicode (Unicode là bộ mã chuẩn quốc tế được thiết kế để có thể biểu diễn văn bản của hầu hết các ngôn ngữ trên thế giới).",
     "keywords": []
   },
@@ -319,7 +319,7 @@ window.QUIZ_DATA = [
       "Batch sequential processing"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Circular Wait hoặc Hold and Wait (Lưu ý: Về mặt lý thuyết, để ngăn bế tắc (deadlock), hệ điều hành có thể phá vỡ điều kiện Hold and Wait hoặc Circular Wait. Tuy nhiên, trong thực tế và các giáo trình Khoa học Máy tính cơ bản, phá vỡ Circular Wait (bằng cách đánh số thứ tự tài nguyên) là cách khả thi và được sử dụng làm đáp án chuẩn phổ biến nhất vì loại bỏ \"Hold and Wait\" gây lãng phí tài nguyên rất lớn. Tùy thuộc vào tài liệu học của bạn, hãy cân nhắc chọn một trong hai)..",
+    "explanation": "Đáp án: Circular Wait hoặc Hold and Wait (Lưu ý: Về mặt lý thuyết, để ngăn bế tắc (deadlock), hệ điều hành có thể phá vỡ điều kiện Hold and Wait hoặc Circular Wait. Tuy nhiên, trong thực tế và các giáo trình Khoa học Máy tính cơ bản, phá vỡ Circular Wait (bằng cách đánh số thứ tự tài nguyên) là cách khả thi và được sử dụng làm đáp án chuẩn phổ biến nhất vì loại bỏ \"Hold and Wait\" gây lãng phí tài nguyên rất lớn. Tùy thuộc vào tài liệu học của bạn, hãy cân nhắc chọn một trong hai)..",
     "answerText": "Circular Wait hoặc Hold and Wait (Lưu ý: Về mặt lý thuyết, để ngăn bế tắc (deadlock), hệ điều hành có thể phá vỡ điều kiện Hold and Wait hoặc Circular Wait. Tuy nhiên, trong thực tế và các giáo trình Khoa học Máy tính cơ bản, phá vỡ Circular Wait (bằng cách đánh số thứ tự tài nguyên) là cách khả thi và được sử dụng làm đáp án chuẩn phổ biến nhất vì loại bỏ \"Hold and Wait\" gây lãng phí tài nguyên rất lớn. Tùy thuộc vào tài liệu học của bạn, hãy cân nhắc chọn một trong hai).",
     "keywords": []
   },
@@ -334,9 +334,9 @@ window.QUIZ_DATA = [
       "Firmware",
       "Middleware"
     ],
-    "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Utility software",
+    "correctIndex": 3,
+    "explanation": "Đáp án: Firmware",
+    "answerText": "Firmware",
     "keywords": []
   },
   {
@@ -350,7 +350,7 @@ window.QUIZ_DATA = [
       "Review of implementation status"
     ],
     "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "Risk assessment of information assets",
     "keywords": []
   },
@@ -364,9 +364,9 @@ window.QUIZ_DATA = [
       "100",
       "19.6"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "100",
+    "correctIndex": 0,
+    "explanation": "Đáp án: 157",
+    "answerText": "157",
     "keywords": []
   },
   {
@@ -380,9 +380,9 @@ window.QUIZ_DATA = [
       "Shortest Job First",
       "FIFO"
     ],
-    "correctIndex": 4,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "FIFO",
+    "correctIndex": 3,
+    "explanation": "Đáp án: Shortest Job First",
+    "answerText": "Shortest Job First",
     "keywords": []
   },
   {
@@ -395,9 +395,9 @@ window.QUIZ_DATA = [
       "Public key cryptography offers simpler and faster decryption than common key cryptography does.",
       "Common key cryptography is safe for communication with multiple parties, even when the same encryption key is used."
     ],
-    "correctIndex": 3,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Common key cryptography is safe for communication with multiple parties, even when the same encryption key is used.",
+    "correctIndex": 1,
+    "explanation": "Đáp án: A method is made practical by which at the start of communication a common key is encrypted by public key cryptography and sent to the... *(phần cuối bị khuất, tiếp tục là)* encryption of data is performed by common key cryptography.",
+    "answerText": "A method is made practical by which at the start of communication a common key is encrypted by public key cryptography and sent to the... *(phần cuối bị khuất, tiếp tục là)* encryption of data is performed by common key cryptography.",
     "keywords": []
   },
   {
@@ -412,7 +412,7 @@ window.QUIZ_DATA = [
       "None of the above"
     ],
     "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "234",
     "keywords": []
   },
@@ -426,9 +426,9 @@ window.QUIZ_DATA = [
       "To restrict use of the software to specified users",
       "To assure that the software developer bears responsibility for maintenance"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "To restrict use of the software to specified users",
+    "correctIndex": 0,
+    "explanation": "Đáp án: To assure that the content of the software is not changed illegally",
+    "answerText": "To assure that the content of the software is not changed illegally",
     "keywords": []
   },
   {
@@ -442,7 +442,7 @@ window.QUIZ_DATA = [
       "Quick Sort"
     ],
     "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "Selection Sort",
     "keywords": []
   },
@@ -456,9 +456,9 @@ window.QUIZ_DATA = [
       "Iris authentication",
       "Voice authentication"
     ],
-    "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Palm authentication",
+    "correctIndex": 2,
+    "explanation": "Đáp án: Iris authentication",
+    "answerText": "Iris authentication",
     "keywords": []
   },
   {
@@ -472,9 +472,9 @@ window.QUIZ_DATA = [
       "Commercial software",
       "Proprietary software"
     ],
-    "correctIndex": 4,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Proprietary software",
+    "correctIndex": 2,
+    "explanation": "Đáp án: Open-source software",
+    "answerText": "Open-source software",
     "keywords": []
   },
   {
@@ -488,7 +488,7 @@ window.QUIZ_DATA = [
       "It is a coordinating body for the Information Security Early Warning Partnership."
     ],
     "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "It is a security center under the jurisdiction of the Information-technology Promotion Agency, Japan.",
     "keywords": []
   },
@@ -503,9 +503,9 @@ window.QUIZ_DATA = [
       "The amount of multimedia content",
       "The number of network users"
     ],
-    "correctIndex": 4,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "The number of network users",
+    "correctIndex": 2,
+    "explanation": "Đáp án: The probability that a system is usable when needed",
+    "answerText": "The probability that a system is usable when needed",
     "keywords": []
   },
   {
@@ -519,9 +519,9 @@ window.QUIZ_DATA = [
       "Interpreter",
       "Compiler"
     ],
-    "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Loader",
+    "correctIndex": 2,
+    "explanation": "Đáp án: Linker",
+    "answerText": "Linker",
     "keywords": []
   },
   {
@@ -534,9 +534,9 @@ window.QUIZ_DATA = [
       "It is an encryption method for a wireless LAN",
       "It is a method that integrates and centrally manages multiple different security functions."
     ],
-    "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "It is a method for one-to-one conversion of an internal address to an external address.",
+    "correctIndex": 2,
+    "explanation": "Đáp án: It is an encryption method for a wireless LAN",
+    "answerText": "It is an encryption method for a wireless LAN",
     "keywords": []
   },
   {
@@ -551,7 +551,7 @@ window.QUIZ_DATA = [
       "Query C"
     ],
     "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "All are correct",
     "keywords": []
   },
@@ -566,7 +566,7 @@ window.QUIZ_DATA = [
       "Queue"
     ],
     "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "Heap",
     "keywords": []
   },
@@ -581,9 +581,9 @@ window.QUIZ_DATA = [
       "Real-time processing system",
       "Parallel system"
     ],
-    "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Interactive processing system",
+    "correctIndex": 2,
+    "explanation": "Đáp án: Batch processing system",
+    "answerText": "Batch processing system",
     "keywords": []
   },
   {
@@ -597,7 +597,7 @@ window.QUIZ_DATA = [
       "The sending log of the mail server can be protected from falsification."
     ],
     "correctIndex": 3,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "The sending log of the mail server can be protected from falsification.",
     "keywords": []
   },
@@ -612,7 +612,7 @@ window.QUIZ_DATA = [
       "Since it requires too much time and expense to address all conceivable risks, an organization should forecast the loss values and frequency of occurrence, and rank risks in order of size."
     ],
     "correctIndex": 3,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "Since it requires too much time and expense to address all conceivable risks, an organization should forecast the loss values and frequency of occurrence, and rank risks in order of size.",
     "keywords": []
   },
@@ -627,9 +627,9 @@ window.QUIZ_DATA = [
       "Batch processing system",
       "Offline processing system"
     ],
-    "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Manual processing system",
+    "correctIndex": 1,
+    "explanation": "Đáp án: Real-time processing system",
+    "answerText": "Real-time processing system",
     "keywords": []
   },
   {
@@ -642,9 +642,9 @@ window.QUIZ_DATA = [
       "Linked List",
       "Queue"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Linked List",
+    "correctIndex": 0,
+    "explanation": "Đáp án: Stack",
+    "answerText": "Stack",
     "keywords": []
   },
   {
@@ -659,7 +659,7 @@ window.QUIZ_DATA = [
       "Direct file"
     ],
     "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "Sequential file",
     "keywords": []
   },
@@ -674,9 +674,9 @@ window.QUIZ_DATA = [
       "Parallel processing system",
       "Interactive processing system"
     ],
-    "correctIndex": 4,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Interactive processing system",
+    "correctIndex": 0,
+    "explanation": "Đáp án: Centralized processing system",
+    "answerText": "Centralized processing system",
     "keywords": []
   },
   {
@@ -689,9 +689,9 @@ window.QUIZ_DATA = [
       "It receives an access request, in place of a server, from a client.",
       "It ensures the security of a PC that connects to a network."
     ],
-    "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "It sends an access request, in place of a client, to a server.",
+    "correctIndex": 2,
+    "explanation": "Đáp án: It receives an access request, in place of a server, from a client.",
+    "answerText": "It receives an access request, in place of a server, from a client.",
     "keywords": []
   },
   {
@@ -705,7 +705,7 @@ window.QUIZ_DATA = [
       "Setting up a server on the Internet which appears to have vulnerabilities, and collecting information about a method and pathway of unauthorized intrusion."
     ],
     "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "Performing port number-based filtering of e-mail which is sent from the internal network to an external mail server.",
     "keywords": []
   },
@@ -720,9 +720,9 @@ window.QUIZ_DATA = [
       "Video",
       "Binary"
     ],
-    "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Audio",
+    "correctIndex": 3,
+    "explanation": "Đáp án: Video",
+    "answerText": "Video",
     "keywords": []
   },
   {
@@ -735,9 +735,9 @@ window.QUIZ_DATA = [
       "Merge Sort",
       "Quick Sort"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Merge Sort",
+    "correctIndex": 1,
+    "explanation": "Đáp án: Bubble Sort",
+    "answerText": "Bubble Sort",
     "keywords": []
   },
   {
@@ -749,9 +749,9 @@ window.QUIZ_DATA = [
       "11",
       "12"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "12",
+    "correctIndex": 0,
+    "explanation": "Đáp án: 10",
+    "answerText": "10",
     "keywords": []
   },
   {
@@ -765,9 +765,9 @@ window.QUIZ_DATA = [
       "The number of users in a network",
       "The time required to respond to a request"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "The amount of electricity consumed",
+    "correctIndex": 4,
+    "explanation": "Đáp án: The time required to respond to a request",
+    "answerText": "The time required to respond to a request",
     "keywords": []
   },
   {
@@ -780,9 +780,9 @@ window.QUIZ_DATA = [
       "SSL",
       "APOP"
     ],
-    "correctIndex": 3,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "APOP",
+    "correctIndex": 2,
+    "explanation": "Đáp án: SSL",
+    "answerText": "SSL",
     "keywords": []
   },
   {
@@ -796,7 +796,7 @@ window.QUIZ_DATA = [
       "Virus detection using the signature files of antivirus software is an effective method for detecting known viruses and identifying virus names."
     ],
     "correctIndex": 3,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "Virus detection using the signature files of antivirus software is an effective method for detecting known viruses and identifying virus names.",
     "keywords": []
   },
@@ -811,9 +811,9 @@ window.QUIZ_DATA = [
       "Larger physical size",
       "Lower speed"
     ],
-    "correctIndex": 4,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Lower speed",
+    "correctIndex": 0,
+    "explanation": "Đáp án: Faster access speed",
+    "answerText": "Faster access speed",
     "keywords": []
   },
   {
@@ -826,9 +826,9 @@ window.QUIZ_DATA = [
       "Binary Search",
       "Linear Search"
     ],
-    "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Merge Sort",
+    "correctIndex": 3,
+    "explanation": "Đáp án: Linear Search",
+    "answerText": "Linear Search",
     "keywords": []
   },
   {
@@ -841,9 +841,9 @@ window.QUIZ_DATA = [
       "A company's security policy consists of behavior and judgment criteria to be followed, and does not include stance and direction concerning the security activities.",
       "A company's security policy is for the purpose of defining the content that should be set within each security system, and therefore, its content differs according to the security-related product to be installed."
     ],
-    "correctIndex": 3,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "A company's security policy is for the purpose of defining the content that should be set within each security system, and therefore, its content differs according to the security-related product to be installed.",
+    "correctIndex": 0,
+    "explanation": "Đáp án: In order to achieve the targeted security level, it is necessary to clearly indicate the organization's thinking concerning behavior and judgment to be followed.",
+    "answerText": "In order to achieve the targeted security level, it is necessary to clearly indicate the organization's thinking concerning behavior and judgment to be followed.",
     "keywords": []
   },
   {
@@ -857,9 +857,9 @@ window.QUIZ_DATA = [
       "Converts machine code into source code",
       "Links object modules"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Executes source code line by line",
+    "correctIndex": 0,
+    "explanation": "Đáp án: Translates assembly language into machine language",
+    "answerText": "Translates assembly language into machine language",
     "keywords": []
   },
   {
@@ -872,9 +872,9 @@ window.QUIZ_DATA = [
       "Decrypting the encrypted password that is managed by the security administrator, and informing the user by telephone",
       "Converting the password that is managed on the security administrator's own PC into a hash value, and informing the user by using a classified internal document"
     ],
-    "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Decrypting the encrypted password that is managed by the security administrator, and informing the user by e-mail",
+    "correctIndex": 0,
+    "explanation": "Đáp án: Resetting the password, and having the user set a new password",
+    "answerText": "Resetting the password, and having the user set a new password",
     "keywords": []
   },
   {
@@ -888,9 +888,9 @@ window.QUIZ_DATA = [
       "BCD",
       "Octal"
     ],
-    "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Decimal",
+    "correctIndex": 4,
+    "explanation": "Đáp án: Octal",
+    "answerText": "Octal",
     "keywords": []
   },
   {
@@ -904,9 +904,9 @@ window.QUIZ_DATA = [
       "Tape file",
       "Stream file"
     ],
-    "correctIndex": 3,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Tape file",
+    "correctIndex": 0,
+    "explanation": "Đáp án: Direct file",
+    "answerText": "Direct file",
     "keywords": []
   },
   {
@@ -919,9 +919,9 @@ window.QUIZ_DATA = [
       "Ensuring that a user of an information system is the correctly authorized user",
       "Ensuring that information and a processing method are accurate and complete"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Ensuring that a user of an information system is the correctly authorized user",
+    "correctIndex": 1,
+    "explanation": "Đáp án: Ensuring that a user can access information assets at the required time",
+    "answerText": "Ensuring that a user can access information assets at the required time",
     "keywords": []
   },
   {
@@ -935,7 +935,7 @@ window.QUIZ_DATA = [
       "It is a multiplexing technique that is used to change the wavelength of the light in use."
     ],
     "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
+    "explanation": "Xem giải thích trong ngân hàng đề.",
     "answerText": "It is a multiplexing technique that is used to change the connection destination in units of time slots.",
     "keywords": []
   },
@@ -949,9 +949,9 @@ window.QUIZ_DATA = [
       "It assembles or disassembles the data to be transmitted, or performs error control of the data.",
       "It converts the digital signals in a computer to a format that is suitable for transmission."
     ],
-    "correctIndex": 1,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "It dials the telephone number of the terminal in order to call the terminal.",
+    "correctIndex": 2,
+    "explanation": "Đáp án: It assembles or disassembles the data to be transmitted, or performs error control of the data.",
+    "answerText": "It assembles or disassembles the data to be transmitted, or performs error control of the data.",
     "keywords": []
   },
   {
@@ -964,9 +964,9 @@ window.QUIZ_DATA = [
       "It is a method that integrates and centrally manages multiple different security functions.",
       "It is an encryption method for a wireless LAN"
     ],
-    "correctIndex": 0,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "It is a method for one-to-one conversion of an internal address to an external address.",
+    "correctIndex": 3,
+    "explanation": "Đáp án: It is an encryption method for a wireless LAN",
+    "answerText": "It is an encryption method for a wireless LAN",
     "keywords": []
   },
   {
@@ -979,9 +979,9 @@ window.QUIZ_DATA = [
       "Performing an attack that exploits the security hole in an OS",
       "Intruding into a computer room by using a PIN that is analyzed by a program"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Performing an attack that exploits the security hole in an OS",
+    "correctIndex": 1,
+    "explanation": "Đáp án: Impersonating an authorized person to request the password via telephone",
+    "answerText": "Impersonating an authorized person to request the password via telephone",
     "keywords": []
   },
   {
@@ -995,9 +995,9 @@ window.QUIZ_DATA = [
       "To compress multimedia files",
       "To improve interaction between humans and computers"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "To increase electricity usage",
+    "correctIndex": 4,
+    "explanation": "Đáp án: To improve interaction between humans and computers",
+    "answerText": "To improve interaction between humans and computers",
     "keywords": []
   },
   {
@@ -1011,9 +1011,9 @@ window.QUIZ_DATA = [
       "Flash Memory",
       "SSD"
     ],
-    "correctIndex": 2,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "ROM",
+    "correctIndex": 0,
+    "explanation": "Đáp án: RAM",
+    "answerText": "RAM",
     "keywords": []
   },
   {
@@ -1027,9 +1027,9 @@ window.QUIZ_DATA = [
       "File Management",
       "Device Management"
     ],
-    "correctIndex": 4,
-    "explanation": "Xem giai thich trong ngan hang de.",
-    "answerText": "Device Management",
+    "correctIndex": 3,
+    "explanation": "Đáp án: File Management",
+    "answerText": "File Management",
     "keywords": []
   },
   {
@@ -1043,7 +1043,7 @@ window.QUIZ_DATA = [
       "Align IT with business, manage IT risk/value"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: 8. On lai: 8 bit, 1 byte.",
+    "explanation": "Đáp án: 8. Ôn lại: 8 bit, 1 byte.",
     "answerText": "8",
     "keywords": [
       "8 bit",
@@ -1061,7 +1061,7 @@ window.QUIZ_DATA = [
       "0.99 / 99%"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Bit. On lai: bit, 0 va 1.",
+    "explanation": "Đáp án: Bit. Ôn lại: bit, 0 va 1.",
     "answerText": "Bit",
     "keywords": [
       "bit",
@@ -1079,7 +1079,7 @@ window.QUIZ_DATA = [
       "Airbag / life-critical control"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: 4th generation. On lai: VLSI, The 4.",
+    "explanation": "Đáp án: 4th generation. Ôn lại: VLSI, The 4.",
     "answerText": "4th generation",
     "keywords": [
       "VLSI",
@@ -1097,7 +1097,7 @@ window.QUIZ_DATA = [
       "Vacuum tube"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Vacuum tube. On lai: vacuum tube, The 1.",
+    "explanation": "Đáp án: Vacuum tube. Ôn lại: vacuum tube, The 1.",
     "answerText": "Vacuum tube",
     "keywords": [
       "vacuum tube",
@@ -1115,7 +1115,7 @@ window.QUIZ_DATA = [
       "Meet spec vs meet real needs"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Hard disk / SSD / ROM / flash. On lai: non-volatile, HDD.",
+    "explanation": "Đáp án: Hard disk / SSD / ROM / flash. Ôn lại: non-volatile, HDD.",
     "answerText": "Hard disk / SSD / ROM / flash",
     "keywords": [
       "non-volatile",
@@ -1133,7 +1133,7 @@ window.QUIZ_DATA = [
       "Address of next instruction"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: RAM (also cache, register). On lai: volatile, RAM.",
+    "explanation": "Đáp án: RAM (also cache, register). Ôn lại: volatile, RAM.",
     "answerText": "RAM (also cache, register)",
     "keywords": [
       "volatile",
@@ -1151,7 +1151,7 @@ window.QUIZ_DATA = [
       "RAM (DRAM), volatile"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: RAM (DRAM), volatile. On lai: DRAM, volatile.",
+    "explanation": "Đáp án: RAM (DRAM), volatile. Ôn lại: DRAM, volatile.",
     "answerText": "RAM (DRAM), volatile",
     "keywords": [
       "DRAM",
@@ -1169,7 +1169,7 @@ window.QUIZ_DATA = [
       "SRAM"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: SRAM. On lai: SRAM, cache.",
+    "explanation": "Đáp án: SRAM. Ôn lại: SRAM, cache.",
     "answerText": "SRAM",
     "keywords": [
       "SRAM",
@@ -1187,7 +1187,7 @@ window.QUIZ_DATA = [
       "10"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 10. On lai: A=10, Hex.",
+    "explanation": "Đáp án: 10. Ôn lại: A=10, Hex.",
     "answerText": "10",
     "keywords": [
       "A=10",
@@ -1205,7 +1205,7 @@ window.QUIZ_DATA = [
       "~157 seconds"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Octal. On lai: Octal, 0-7.",
+    "explanation": "Đáp án: Octal. Ôn lại: Octal, 0-7.",
     "answerText": "Octal",
     "keywords": [
       "Octal",
@@ -1223,7 +1223,7 @@ window.QUIZ_DATA = [
       "-22"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: -22. On lai: -22, 2's complement.",
+    "explanation": "Đáp án: -22. Ôn lại: -22, 2's complement.",
     "answerText": "-22",
     "keywords": [
       "-22",
@@ -1241,7 +1241,7 @@ window.QUIZ_DATA = [
       "Work completed per unit time"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Invert bits then +1. On lai: dao bit, +1.",
+    "explanation": "Đáp án: Invert bits then +1. Ôn lại: dao bit, +1.",
     "answerText": "Invert bits then +1",
     "keywords": [
       "dao bit",
@@ -1259,7 +1259,7 @@ window.QUIZ_DATA = [
       "-2^(n-1) .. 2^(n-1)-1"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: -2^(n-1) .. 2^(n-1)-1. On lai: 2^(n-1.",
+    "explanation": "Đáp án: -2^(n-1) .. 2^(n-1)-1. Ôn lại: 2^(n-1.",
     "answerText": "-2^(n-1) .. 2^(n-1)-1",
     "keywords": [
       "2^(n-1"
@@ -1276,7 +1276,7 @@ window.QUIZ_DATA = [
       "Full, differential, incremental"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Unicode. On lai: Unicode.",
+    "explanation": "Đáp án: Unicode. Ôn lại: Unicode.",
     "answerText": "Unicode",
     "keywords": [
       "Unicode"
@@ -1293,7 +1293,7 @@ window.QUIZ_DATA = [
       "Moving visual content"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Control unit + ALU. On lai: CPU, ALU, Control unit.",
+    "explanation": "Đáp án: Control unit + ALU. Ôn lại: CPU, ALU, Control unit.",
     "answerText": "Control unit + ALU",
     "keywords": [
       "CPU",
@@ -1312,7 +1312,7 @@ window.QUIZ_DATA = [
       "Network layer (3)"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Input unit (keyboard, mouse...). On lai: Peripheral, Input unit.",
+    "explanation": "Đáp án: Input unit (keyboard, mouse...). Ôn lại: Peripheral, Input unit.",
     "answerText": "Input unit (keyboard, mouse...)",
     "keywords": [
       "Peripheral",
@@ -1330,7 +1330,7 @@ window.QUIZ_DATA = [
       "File management"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: No. On lai: register, CPU.",
+    "explanation": "Đáp án: No. Ôn lại: register, CPU.",
     "answerText": "No",
     "keywords": [
       "register",
@@ -1348,7 +1348,7 @@ window.QUIZ_DATA = [
       "Infrastructure as a Service"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Non-volatile. On lai: Auxiliary, non-volatile.",
+    "explanation": "Đáp án: Non-volatile. Ôn lại: Auxiliary, non-volatile.",
     "answerText": "Non-volatile",
     "keywords": [
       "Auxiliary",
@@ -1366,7 +1366,7 @@ window.QUIZ_DATA = [
       "Analytical, historical, non-volatile integrated store"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Faster access. On lai: nhanh hon, Semiconductor.",
+    "explanation": "Đáp án: Faster access. Ôn lại: nhanh hon, Semiconductor.",
     "answerText": "Faster access",
     "keywords": [
       "nhanh hon",
@@ -1384,7 +1384,7 @@ window.QUIZ_DATA = [
       "Seek + rotational latency + transfer"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Seek + rotational latency + transfer. On lai: seek time, rotational.",
+    "explanation": "Đáp án: Seek + rotational latency + transfer. Ôn lại: seek time, rotational.",
     "answerText": "Seek + rotational latency + transfer",
     "keywords": [
       "seek time",
@@ -1402,7 +1402,7 @@ window.QUIZ_DATA = [
       "File management"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Mirroring. On lai: RAID 1, mirror.",
+    "explanation": "Đáp án: Mirroring. Ôn lại: RAID 1, mirror.",
     "answerText": "Mirroring",
     "keywords": [
       "RAID 1",
@@ -1420,7 +1420,7 @@ window.QUIZ_DATA = [
       "Non-volatile"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Striping, no redundancy. On lai: RAID 0, stripe.",
+    "explanation": "Đáp án: Striping, no redundancy. Ôn lại: RAID 0, stripe.",
     "answerText": "Striping, no redundancy",
     "keywords": [
       "RAID 0",
@@ -1438,7 +1438,7 @@ window.QUIZ_DATA = [
       "Meet agreed availability in SLA"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Fetch -> Decode -> Execute. On lai: Fetch, Decode, Execute.",
+    "explanation": "Đáp án: Fetch -> Decode -> Execute. Ôn lại: Fetch, Decode, Execute.",
     "answerText": "Fetch -> Decode -> Execute",
     "keywords": [
       "Fetch",
@@ -1457,7 +1457,7 @@ window.QUIZ_DATA = [
       "Address of next instruction"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Address of next instruction. On lai: Program Counter, PC.",
+    "explanation": "Đáp án: Address of next instruction. Ôn lại: Program Counter, PC.",
     "answerText": "Address of next instruction",
     "keywords": [
       "Program Counter",
@@ -1475,7 +1475,7 @@ window.QUIZ_DATA = [
       "Improve human-computer interaction"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Structural, data, control. On lai: Hazard, pipeline.",
+    "explanation": "Đáp án: Structural, data, control. Ôn lại: Hazard, pipeline.",
     "answerText": "Structural, data, control",
     "keywords": [
       "Hazard",
@@ -1493,7 +1493,7 @@ window.QUIZ_DATA = [
       "Information systems strategy"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: I/O transfers without CPU per-byte involvement. On lai: DMA.",
+    "explanation": "Đáp án: I/O transfers without CPU per-byte involvement. Ôn lại: DMA.",
     "answerText": "I/O transfers without CPU per-byte involvement",
     "keywords": [
       "DMA"
@@ -1510,7 +1510,7 @@ window.QUIZ_DATA = [
       "1024 bytes"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 1024 bytes. On lai: 1024, 2^10.",
+    "explanation": "Đáp án: 1024 bytes. Ôn lại: 1024, 2^10.",
     "answerText": "1024 bytes",
     "keywords": [
       "1024",
@@ -1528,7 +1528,7 @@ window.QUIZ_DATA = [
       "2^n types"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 2^n types. On lai: 2^n.",
+    "explanation": "Đáp án: 2^n types. Ôn lại: 2^n.",
     "answerText": "2^n types",
     "keywords": [
       "2^n"
@@ -1545,7 +1545,7 @@ window.QUIZ_DATA = [
       "Each decimal digit coded in 4 bits"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Each decimal digit coded in 4 bits. On lai: BCD.",
+    "explanation": "Đáp án: Each decimal digit coded in 4 bits. Ôn lại: BCD.",
     "answerText": "Each decimal digit coded in 4 bits",
     "keywords": [
       "BCD"
@@ -1562,7 +1562,7 @@ window.QUIZ_DATA = [
       "Linked List"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Programmable after manufacture. On lai: FPGA.",
+    "explanation": "Đáp án: Programmable after manufacture. Ôn lại: FPGA.",
     "answerText": "Programmable after manufacture",
     "keywords": [
       "FPGA"
@@ -1579,7 +1579,7 @@ window.QUIZ_DATA = [
       "Intro Growth Maturity Decline"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Batch processing. On lai: Batch.",
+    "explanation": "Đáp án: Batch processing. Ôn lại: Batch.",
     "answerText": "Batch processing",
     "keywords": [
       "Batch"
@@ -1596,7 +1596,7 @@ window.QUIZ_DATA = [
       "Real-time processing"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Batch processing. On lai: Batch, luong.",
+    "explanation": "Đáp án: Batch processing. Ôn lại: Batch, luong.",
     "answerText": "Batch processing",
     "keywords": [
       "Batch",
@@ -1614,7 +1614,7 @@ window.QUIZ_DATA = [
       "0.9801"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Real-time processing. On lai: Real-time.",
+    "explanation": "Đáp án: Real-time processing. Ôn lại: Real-time.",
     "answerText": "Real-time processing",
     "keywords": [
       "Real-time"
@@ -1631,7 +1631,7 @@ window.QUIZ_DATA = [
       "Data link (2)"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Airbag / life-critical control. On lai: Hard real-time.",
+    "explanation": "Đáp án: Airbag / life-critical control. Ôn lại: Hard real-time.",
     "answerText": "Airbag / life-critical control",
     "keywords": [
       "Hard real-time"
@@ -1648,7 +1648,7 @@ window.QUIZ_DATA = [
       "Centralized processing"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Centralized processing. On lai: Centralized.",
+    "explanation": "Đáp án: Centralized processing. Ôn lại: Centralized.",
     "answerText": "Centralized processing",
     "keywords": [
       "Centralized"
@@ -1665,7 +1665,7 @@ window.QUIZ_DATA = [
       "Direct file (hash/relative)"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: 0.855. On lai: 0.855, Series.",
+    "explanation": "Đáp án: 0.855. Ôn lại: 0.855, Series.",
     "answerText": "0.855",
     "keywords": [
       "0.855",
@@ -1683,7 +1683,7 @@ window.QUIZ_DATA = [
       "Utility software"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: 1-(1-R1)(1-R2).... On lai: Parallel, 1 -.",
+    "explanation": "Đáp án: 1-(1-R1)(1-R2).... Ôn lại: Parallel, 1 -.",
     "answerText": "1-(1-R1)(1-R2)...",
     "keywords": [
       "Parallel",
@@ -1701,7 +1701,7 @@ window.QUIZ_DATA = [
       "Corporate Social Responsibility"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: MTBF/(MTBF+MTTR). On lai: MTBF, MTTR, Availability.",
+    "explanation": "Đáp án: MTBF/(MTBF+MTTR). Ôn lại: MTBF, MTTR, Availability.",
     "answerText": "MTBF/(MTBF+MTTR)",
     "keywords": [
       "MTBF",
@@ -1720,7 +1720,7 @@ window.QUIZ_DATA = [
       "Time from request to response"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Time from request to response. On lai: Response time.",
+    "explanation": "Đáp án: Time from request to response. Ôn lại: Response time.",
     "answerText": "Time from request to response",
     "keywords": [
       "Response time"
@@ -1737,7 +1737,7 @@ window.QUIZ_DATA = [
       "Work completed per unit time"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Work completed per unit time. On lai: Throughput.",
+    "explanation": "Đáp án: Work completed per unit time. Ôn lại: Throughput.",
     "answerText": "Work completed per unit time",
     "keywords": [
       "Throughput"
@@ -1754,7 +1754,7 @@ window.QUIZ_DATA = [
       "Atomicity"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Atomicity. On lai: Atomicity, ACID.",
+    "explanation": "Đáp án: Atomicity. Ôn lại: Atomicity, ACID.",
     "answerText": "Atomicity",
     "keywords": [
       "Atomicity",
@@ -1772,7 +1772,7 @@ window.QUIZ_DATA = [
       "Improve usability and accessibility"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Improve usability and accessibility. On lai: usability, accessibility.",
+    "explanation": "Đáp án: Improve usability and accessibility. Ôn lại: usability, accessibility.",
     "answerText": "Improve usability and accessibility",
     "keywords": [
       "usability",
@@ -1790,7 +1790,7 @@ window.QUIZ_DATA = [
       "State org behavior/judgment criteria for security"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Reduce user errors, improve usability. On lai: giam loi, usability.",
+    "explanation": "Đáp án: Reduce user errors, improve usability. Ôn lại: giam loi, usability.",
     "answerText": "Reduce user errors, improve usability",
     "keywords": [
       "giam loi",
@@ -1808,7 +1808,7 @@ window.QUIZ_DATA = [
       "Referential integrity"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Improve human-computer interaction. On lai: tuong tac nguoi-may, HCI.",
+    "explanation": "Đáp án: Improve human-computer interaction. Ôn lại: tuong tac nguoi-may, HCI.",
     "answerText": "Improve human-computer interaction",
     "keywords": [
       "tuong tac nguoi-may",
@@ -1826,7 +1826,7 @@ window.QUIZ_DATA = [
       "Yes"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Moving visual content. On lai: Video, chuyen dong.",
+    "explanation": "Đáp án: Moving visual content. Ôn lại: Video, chuyen dong.",
     "answerText": "Moving visual content",
     "keywords": [
       "Video",
@@ -1844,7 +1844,7 @@ window.QUIZ_DATA = [
       "Prioritize vital few (80/20)"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Go to safe state on failure. On lai: Fail-safe.",
+    "explanation": "Đáp án: Go to safe state on failure. Ôn lại: Fail-safe.",
     "answerText": "Go to safe state on failure",
     "keywords": [
       "Fail-safe"
@@ -1861,7 +1861,7 @@ window.QUIZ_DATA = [
       "Ensuring that a user of an information system is the correctly authorized user"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Backup system already running. On lai: hot standby.",
+    "explanation": "Đáp án: Backup system already running. Ôn lại: hot standby.",
     "answerText": "Backup system already running",
     "keywords": [
       "hot standby"
@@ -1878,7 +1878,7 @@ window.QUIZ_DATA = [
       "Middleware"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Middleware. On lai: Middleware.",
+    "explanation": "Đáp án: Middleware. Ôn lại: Middleware.",
     "answerText": "Middleware",
     "keywords": [
       "Middleware"
@@ -1895,7 +1895,7 @@ window.QUIZ_DATA = [
       "Entire source before execution"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Entire source before execution. On lai: Compiler, TOAN BO.",
+    "explanation": "Đáp án: Entire source before execution. Ôn lại: Compiler, TOAN BO.",
     "answerText": "Entire source before execution",
     "keywords": [
       "Compiler",
@@ -1913,7 +1913,7 @@ window.QUIZ_DATA = [
       "Immediate execution and debugging"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Immediate execution and debugging. On lai: Interpreter, debug.",
+    "explanation": "Đáp án: Immediate execution and debugging. Ôn lại: Interpreter, debug.",
     "answerText": "Immediate execution and debugging",
     "keywords": [
       "Interpreter",
@@ -1931,7 +1931,7 @@ window.QUIZ_DATA = [
       "Assembly"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Assembly. On lai: Assembly, mnemonic.",
+    "explanation": "Đáp án: Assembly. Ôn lại: Assembly, mnemonic.",
     "answerText": "Assembly",
     "keywords": [
       "Assembly",
@@ -1949,7 +1949,7 @@ window.QUIZ_DATA = [
       "10"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Assembly -> machine language. On lai: Assembler.",
+    "explanation": "Đáp án: Assembly -> machine language. Ôn lại: Assembler.",
     "answerText": "Assembly -> machine language",
     "keywords": [
       "Assembler"
@@ -1966,7 +1966,7 @@ window.QUIZ_DATA = [
       "Only rights needed for role"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Linker. On lai: Linker, KET HOP.",
+    "explanation": "Đáp án: Linker. Ôn lại: Linker, KET HOP.",
     "answerText": "Linker",
     "keywords": [
       "Linker",
@@ -1984,7 +1984,7 @@ window.QUIZ_DATA = [
       "Choose rows by condition"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Loader. On lai: Loader.",
+    "explanation": "Đáp án: Loader. Ôn lại: Loader.",
     "answerText": "Loader",
     "keywords": [
       "Loader"
@@ -2001,7 +2001,7 @@ window.QUIZ_DATA = [
       "SJF"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Firmware. On lai: Firmware, ROM.",
+    "explanation": "Đáp án: Firmware. Ôn lại: Firmware, ROM.",
     "answerText": "Firmware",
     "keywords": [
       "Firmware",
@@ -2019,7 +2019,7 @@ window.QUIZ_DATA = [
       "EV/AC"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Open-source license. On lai: Open-source.",
+    "explanation": "Đáp án: Open-source license. Ôn lại: Open-source.",
     "answerText": "Open-source license",
     "keywords": [
       "Open-source"
@@ -2036,7 +2036,7 @@ window.QUIZ_DATA = [
       "The number of network users"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Open-source software (if license allows). On lai: Open-source.",
+    "explanation": "Đáp án: Open-source software (if license allows). Ôn lại: Open-source.",
     "answerText": "Open-source software (if license allows)",
     "keywords": [
       "Open-source"
@@ -2053,7 +2053,7 @@ window.QUIZ_DATA = [
       "192.168.x.x or 10.x.x.x"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Process management / scheduling. On lai: Process Management, scheduling.",
+    "explanation": "Đáp án: Process management / scheduling. Ôn lại: Process Management, scheduling.",
     "answerText": "Process management / scheduling",
     "keywords": [
       "Process Management",
@@ -2071,7 +2071,7 @@ window.QUIZ_DATA = [
       "Transport (4)"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Waiting / Blocked. On lai: Waiting, Blocked.",
+    "explanation": "Đáp án: Waiting / Blocked. Ôn lại: Waiting, Blocked.",
     "answerText": "Waiting / Blocked",
     "keywords": [
       "Waiting",
@@ -2089,7 +2089,7 @@ window.QUIZ_DATA = [
       "Decrypting the encrypted password that is managed by the security administrator, and informing the user by e-mail"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Ready. On lai: Ready.",
+    "explanation": "Đáp án: Ready. Ôn lại: Ready.",
     "answerText": "Ready",
     "keywords": [
       "Ready"
@@ -2106,7 +2106,7 @@ window.QUIZ_DATA = [
       "Intro Growth Maturity Decline"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: SJF / priority without aging. On lai: starvation, SJF.",
+    "explanation": "Đáp án: SJF / priority without aging. Ôn lại: starvation, SJF.",
     "answerText": "SJF / priority without aging",
     "keywords": [
       "starvation",
@@ -2124,7 +2124,7 @@ window.QUIZ_DATA = [
       "RAID 5"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Starvation / unfair long wait (improves fairness). On lai: Round Robin.",
+    "explanation": "Đáp án: Starvation / unfair long wait (improves fairness). Ôn lại: Round Robin.",
     "answerText": "Starvation / unfair long wait (improves fairness)",
     "keywords": [
       "Round Robin"
@@ -2141,7 +2141,7 @@ window.QUIZ_DATA = [
       "Structural, data, control"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: 4. On lai: Coffman, 4 dieu kien.",
+    "explanation": "Đáp án: 4. Ôn lại: Coffman, 4 dieu kien.",
     "answerText": "4",
     "keywords": [
       "Coffman",
@@ -2159,7 +2159,7 @@ window.QUIZ_DATA = [
       "Circular wait (or Hold and wait)"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Circular wait (or Hold and wait). On lai: Circular wait, Hold and wait.",
+    "explanation": "Đáp án: Circular wait (or Hold and wait). Ôn lại: Circular wait, Hold and wait.",
     "answerText": "Circular wait (or Hold and wait)",
     "keywords": [
       "Circular wait",
@@ -2177,7 +2177,7 @@ window.QUIZ_DATA = [
       "Cannot deny performed action"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: User mode vs kernel/supervisor mode. On lai: User mode, kernel.",
+    "explanation": "Đáp án: User mode vs kernel/supervisor mode. Ôn lại: User mode, kernel.",
     "answerText": "User mode vs kernel/supervisor mode",
     "keywords": [
       "User mode",
@@ -2195,7 +2195,7 @@ window.QUIZ_DATA = [
       "Minimal vs many services in kernel"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Minimal vs many services in kernel. On lai: microkernel, monolithic.",
+    "explanation": "Đáp án: Minimal vs many services in kernel. Ôn lại: microkernel, monolithic.",
     "answerText": "Minimal vs many services in kernel",
     "keywords": [
       "microkernel",
@@ -2213,7 +2213,7 @@ window.QUIZ_DATA = [
       "bits / (bandwidth * utilization)"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Needed page not in RAM. On lai: page fault, Virtual memory.",
+    "explanation": "Đáp án: Needed page not in RAM. Ôn lại: page fault, Virtual memory.",
     "answerText": "Needed page not in RAM",
     "keywords": [
       "page fault",
@@ -2231,7 +2231,7 @@ window.QUIZ_DATA = [
       "Web security / input output encoding"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Too many page faults, low progress. On lai: thrashing.",
+    "explanation": "Đáp án: Too many page faults, low progress. Ôn lại: thrashing.",
     "answerText": "Too many page faults, low progress",
     "keywords": [
       "thrashing"
@@ -2248,7 +2248,7 @@ window.QUIZ_DATA = [
       "Needed page not in RAM"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Safe concurrent shared code. On lai: reentrant.",
+    "explanation": "Đáp án: Safe concurrent shared code. Ôn lại: reentrant.",
     "answerText": "Safe concurrent shared code",
     "keywords": [
       "reentrant"
@@ -2265,7 +2265,7 @@ window.QUIZ_DATA = [
       "Direct file (hash/relative)"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Direct file (hash/relative). On lai: Direct, nhanh.",
+    "explanation": "Đáp án: Direct file (hash/relative). Ôn lại: Direct, nhanh.",
     "answerText": "Direct file (hash/relative)",
     "keywords": [
       "Direct",
@@ -2283,7 +2283,7 @@ window.QUIZ_DATA = [
       "Sequential phases"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Heap file. On lai: Heap file.",
+    "explanation": "Đáp án: Heap file. Ôn lại: Heap file.",
     "answerText": "Heap file",
     "keywords": [
       "Heap file"
@@ -2300,7 +2300,7 @@ window.QUIZ_DATA = [
       "Batch sequential processing"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Batch sequential processing. On lai: Sequential.",
+    "explanation": "Đáp án: Batch sequential processing. Ôn lại: Sequential.",
     "answerText": "Batch sequential processing",
     "keywords": [
       "Sequential"
@@ -2317,7 +2317,7 @@ window.QUIZ_DATA = [
       "High availability hardware"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Full, differential, incremental. On lai: Full, incremental, differential.",
+    "explanation": "Đáp án: Full, differential, incremental. Ôn lại: Full, incremental, differential.",
     "answerText": "Full, differential, incremental",
     "keywords": [
       "Full",
@@ -2336,7 +2336,7 @@ window.QUIZ_DATA = [
       "File management"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: File management. On lai: File Management.",
+    "explanation": "Đáp án: File management. Ôn lại: File Management.",
     "answerText": "File management",
     "keywords": [
       "File Management"
@@ -2353,7 +2353,7 @@ window.QUIZ_DATA = [
       "Human/organizational"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: DROP TABLE. On lai: DROP TABLE.",
+    "explanation": "Đáp án: DROP TABLE. Ôn lại: DROP TABLE.",
     "answerText": "DROP TABLE",
     "keywords": [
       "DROP TABLE"
@@ -2370,7 +2370,7 @@ window.QUIZ_DATA = [
       "Mirroring"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: DELETE rows; DROP structure+data. On lai: DELETE, DROP.",
+    "explanation": "Đáp án: DELETE rows; DROP structure+data. Ôn lại: DELETE, DROP.",
     "answerText": "DELETE rows; DROP structure+data",
     "keywords": [
       "DELETE",
@@ -2388,7 +2388,7 @@ window.QUIZ_DATA = [
       "RSA"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Atomic values, no repeating groups. On lai: 1NF.",
+    "explanation": "Đáp án: Atomic values, no repeating groups. Ôn lại: 1NF.",
     "answerText": "Atomic values, no repeating groups",
     "keywords": [
       "1NF"
@@ -2405,7 +2405,7 @@ window.QUIZ_DATA = [
       "Behind schedule"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: No partial dependency on key. On lai: 2NF.",
+    "explanation": "Đáp án: No partial dependency on key. Ôn lại: 2NF.",
     "answerText": "No partial dependency on key",
     "keywords": [
       "2NF"
@@ -2422,7 +2422,7 @@ window.QUIZ_DATA = [
       "No transitive dependency"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: No transitive dependency. On lai: 3NF.",
+    "explanation": "Đáp án: No transitive dependency. Ôn lại: 3NF.",
     "answerText": "No transitive dependency",
     "keywords": [
       "3NF"
@@ -2439,7 +2439,7 @@ window.QUIZ_DATA = [
       "Block outbound SMTP port 25 from internal hosts"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Entity integrity / unique row id. On lai: PRIMARY KEY, entity.",
+    "explanation": "Đáp án: Entity integrity / unique row id. Ôn lại: PRIMARY KEY, entity.",
     "answerText": "Entity integrity / unique row id",
     "keywords": [
       "PRIMARY KEY",
@@ -2457,7 +2457,7 @@ window.QUIZ_DATA = [
       "Analytical, historical, non-volatile integrated store"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Referential integrity. On lai: FOREIGN KEY, referential.",
+    "explanation": "Đáp án: Referential integrity. Ôn lại: FOREIGN KEY, referential.",
     "answerText": "Referential integrity",
     "keywords": [
       "FOREIGN KEY",
@@ -2475,7 +2475,7 @@ window.QUIZ_DATA = [
       "Durability"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Durability. On lai: Durability.",
+    "explanation": "Đáp án: Durability. Ôn lại: Durability.",
     "answerText": "Durability",
     "keywords": [
       "Durability"
@@ -2492,7 +2492,7 @@ window.QUIZ_DATA = [
       "Moderator-led formal review"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Choose rows by condition. On lai: selection, chon hang.",
+    "explanation": "Đáp án: Choose rows by condition. Ôn lại: selection, chon hang.",
     "answerText": "Choose rows by condition",
     "keywords": [
       "selection",
@@ -2510,7 +2510,7 @@ window.QUIZ_DATA = [
       "Common key cryptography is safe for communication with multiple parties, even when the same encryption key is used."
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Choose columns. On lai: projection, chon cot.",
+    "explanation": "Đáp án: Choose columns. Ôn lại: projection, chon cot.",
     "answerText": "Choose columns",
     "keywords": [
       "projection",
@@ -2528,7 +2528,7 @@ window.QUIZ_DATA = [
       "Combine tables"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Combine tables. On lai: join.",
+    "explanation": "Đáp án: Combine tables. Ôn lại: join.",
     "answerText": "Combine tables",
     "keywords": [
       "join"
@@ -2545,7 +2545,7 @@ window.QUIZ_DATA = [
       "Privilege control DCL"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Analytical, historical, non-volatile integrated store. On lai: Data Warehouse, OLAP.",
+    "explanation": "Đáp án: Analytical, historical, non-volatile integrated store. Ôn lại: Data Warehouse, OLAP.",
     "answerText": "Analytical, historical, non-volatile integrated store",
     "keywords": [
       "Data Warehouse",
@@ -2563,7 +2563,7 @@ window.QUIZ_DATA = [
       "Distributed transaction atomic commit"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Distributed transaction atomic commit. On lai: 2PC, 2-phase commit.",
+    "explanation": "Đáp án: Distributed transaction atomic commit. Ôn lại: 2PC, 2-phase commit.",
     "answerText": "Distributed transaction atomic commit",
     "keywords": [
       "2PC",
@@ -2581,7 +2581,7 @@ window.QUIZ_DATA = [
       "No transitive dependency"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Network layer (3). On lai: Network, routing.",
+    "explanation": "Đáp án: Network layer (3). Ôn lại: Network, routing.",
     "answerText": "Network layer (3)",
     "keywords": [
       "Network",
@@ -2599,7 +2599,7 @@ window.QUIZ_DATA = [
       "Omnidirectional / full market"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Transport (4). On lai: Transport, end-to-end.",
+    "explanation": "Đáp án: Transport (4). Ôn lại: Transport, end-to-end.",
     "answerText": "Transport (4)",
     "keywords": [
       "Transport",
@@ -2617,7 +2617,7 @@ window.QUIZ_DATA = [
       "Data link (2)"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Data link (2). On lai: Data link, MAC.",
+    "explanation": "Đáp án: Data link (2). Ôn lại: Data link, MAC.",
     "answerText": "Data link (2)",
     "keywords": [
       "Data link",
@@ -2635,7 +2635,7 @@ window.QUIZ_DATA = [
       "Name <-> IP"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Name <-> IP. On lai: DNS.",
+    "explanation": "Đáp án: Name <-> IP. Ôn lại: DNS.",
     "answerText": "Name <-> IP",
     "keywords": [
       "DNS"
@@ -2652,7 +2652,7 @@ window.QUIZ_DATA = [
       "Striping, no redundancy"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Dynamic IP assignment. On lai: DHCP.",
+    "explanation": "Đáp án: Dynamic IP assignment. Ôn lại: DHCP.",
     "answerText": "Dynamic IP assignment",
     "keywords": [
       "DHCP"
@@ -2669,7 +2669,7 @@ window.QUIZ_DATA = [
       "Entire source before execution"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Reliable connection-oriented vs lightweight connectionless. On lai: TCP, UDP.",
+    "explanation": "Đáp án: Reliable connection-oriented vs lightweight connectionless. Ôn lại: TCP, UDP.",
     "answerText": "Reliable connection-oriented vs lightweight connectionless",
     "keywords": [
       "TCP",
@@ -2687,7 +2687,7 @@ window.QUIZ_DATA = [
       "80 (HTTPS 443)"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 80 (HTTPS 443). On lai: HTTP.",
+    "explanation": "Đáp án: 80 (HTTPS 443). Ôn lại: HTTP.",
     "answerText": "80 (HTTPS 443)",
     "keywords": [
       "HTTP"
@@ -2704,7 +2704,7 @@ window.QUIZ_DATA = [
       "Speed up search"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Multiplex by time slots. On lai: TDM, time slots.",
+    "explanation": "Đáp án: Multiplex by time slots. Ôn lại: TDM, time slots.",
     "answerText": "Multiplex by time slots",
     "keywords": [
       "TDM",
@@ -2722,7 +2722,7 @@ window.QUIZ_DATA = [
       "Bit (Bit là đơn vị lưu trữ thông tin nhỏ nhất trong máy tính, chỉ có thể nhận giá trị 0 hoặc 1)."
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Split frequency bands. On lai: FDM, tan so.",
+    "explanation": "Đáp án: Split frequency bands. Ôn lại: FDM, tan so.",
     "answerText": "Split frequency bands",
     "keywords": [
       "FDM",
@@ -2740,7 +2740,7 @@ window.QUIZ_DATA = [
       "Linker"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Optical wavelengths. On lai: WDM, buoc song.",
+    "explanation": "Đáp án: Optical wavelengths. Ôn lại: WDM, buoc song.",
     "answerText": "Optical wavelengths",
     "keywords": [
       "WDM",
@@ -2758,7 +2758,7 @@ window.QUIZ_DATA = [
       "HTTPS/TLS"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Assign codes to users. On lai: CDM, ma.",
+    "explanation": "Đáp án: Assign codes to users. Ôn lại: CDM, ma.",
     "answerText": "Assign codes to users",
     "keywords": [
       "CDM",
@@ -2776,7 +2776,7 @@ window.QUIZ_DATA = [
       "Classic Ethernet"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Classic Ethernet. On lai: CSMA/CD.",
+    "explanation": "Đáp án: Classic Ethernet. Ôn lại: CSMA/CD.",
     "answerText": "Classic Ethernet",
     "keywords": [
       "CSMA/CD"
@@ -2793,7 +2793,7 @@ window.QUIZ_DATA = [
       "Wi-Fi"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Wi-Fi. On lai: CSMA/CA.",
+    "explanation": "Đáp án: Wi-Fi. Ôn lại: CSMA/CA.",
     "answerText": "Wi-Fi",
     "keywords": [
       "CSMA/CA"
@@ -2810,7 +2810,7 @@ window.QUIZ_DATA = [
       "~157 seconds"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: ~157 seconds. On lai: 157, 51200.",
+    "explanation": "Đáp án: ~157 seconds. Ôn lại: 157, 51200.",
     "answerText": "~157 seconds",
     "keywords": [
       "157",
@@ -2828,7 +2828,7 @@ window.QUIZ_DATA = [
       "bits / (bandwidth * utilization)"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: bits / (bandwidth * utilization). On lai: utilization, bit.",
+    "explanation": "Đáp án: bits / (bandwidth * utilization). Ôn lại: utilization, bit.",
     "answerText": "bits / (bandwidth * utilization)",
     "keywords": [
       "utilization",
@@ -2846,7 +2846,7 @@ window.QUIZ_DATA = [
       "Assemble/disassemble data, error control for transmission"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Assemble/disassemble data, error control for transmission. On lai: CCU, error control.",
+    "explanation": "Đáp án: Assemble/disassemble data, error control for transmission. Ôn lại: CCU, error control.",
     "answerText": "Assemble/disassemble data, error control for transmission",
     "keywords": [
       "CCU",
@@ -2864,7 +2864,7 @@ window.QUIZ_DATA = [
       "No partial dependency on key"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Digital <-> analog conversion. On lai: Modem, analog.",
+    "explanation": "Đáp án: Digital <-> analog conversion. Ôn lại: Modem, analog.",
     "answerText": "Digital <-> analog conversion",
     "keywords": [
       "Modem",
@@ -2882,7 +2882,7 @@ window.QUIZ_DATA = [
       "Circular wait (or Hold and wait)"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Switch reduces collision domain per port. On lai: switch, collision.",
+    "explanation": "Đáp án: Switch reduces collision domain per port. Ôn lại: switch, collision.",
     "answerText": "Switch reduces collision domain per port",
     "keywords": [
       "switch",
@@ -2900,7 +2900,7 @@ window.QUIZ_DATA = [
       "Prioritize vital few (80/20)"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Network layer, interconnects networks. On lai: router, Network.",
+    "explanation": "Đáp án: Network layer, interconnects networks. Ôn lại: router, Network.",
     "answerText": "Network layer, interconnects networks",
     "keywords": [
       "router",
@@ -2918,7 +2918,7 @@ window.QUIZ_DATA = [
       "Moderator-led formal review"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: 32. On lai: IPv4, 32.",
+    "explanation": "Đáp án: 32. Ôn lại: IPv4, 32.",
     "answerText": "32",
     "keywords": [
       "IPv4",
@@ -2936,7 +2936,7 @@ window.QUIZ_DATA = [
       "Distributed transaction atomic commit"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: 128. On lai: IPv6, 128.",
+    "explanation": "Đáp án: 128. Ôn lại: IPv6, 128.",
     "answerText": "128",
     "keywords": [
       "IPv6",
@@ -2954,7 +2954,7 @@ window.QUIZ_DATA = [
       "Map private/internal to external addresses"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Map private/internal to external addresses. On lai: NAT.",
+    "explanation": "Đáp án: Map private/internal to external addresses. Ôn lại: NAT.",
     "answerText": "Map private/internal to external addresses",
     "keywords": [
       "NAT"
@@ -2971,7 +2971,7 @@ window.QUIZ_DATA = [
       "Slower"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Accessible when required. On lai: Availability, truy cap.",
+    "explanation": "Đáp án: Accessible when required. Ôn lại: Availability, truy cap.",
     "answerText": "Accessible when required",
     "keywords": [
       "Availability",
@@ -2989,7 +2989,7 @@ window.QUIZ_DATA = [
       "Fix defects"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Not disclosed to unauthorized. On lai: Confidentiality.",
+    "explanation": "Đáp án: Not disclosed to unauthorized. Ôn lại: Confidentiality.",
     "answerText": "Not disclosed to unauthorized",
     "keywords": [
       "Confidentiality"
@@ -3006,7 +3006,7 @@ window.QUIZ_DATA = [
       "Internet layer"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Accurate and complete. On lai: Integrity, chinh xac.",
+    "explanation": "Đáp án: Accurate and complete. Ôn lại: Integrity, chinh xac.",
     "answerText": "Accurate and complete",
     "keywords": [
       "Integrity",
@@ -3024,7 +3024,7 @@ window.QUIZ_DATA = [
       "Pointer updates, no full shift"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Risk assessment of assets. On lai: Plan, Risk assessment.",
+    "explanation": "Đáp án: Risk assessment of assets. Ôn lại: Plan, Risk assessment.",
     "answerText": "Risk assessment of assets",
     "keywords": [
       "Plan",
@@ -3042,7 +3042,7 @@ window.QUIZ_DATA = [
       "Can be public, not privately required"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Improvement measures. On lai: Act, cai tien.",
+    "explanation": "Đáp án: Improvement measures. Ôn lại: Act, cai tien.",
     "answerText": "Improvement measures",
     "keywords": [
       "Act",
@@ -3060,7 +3060,7 @@ window.QUIZ_DATA = [
       "Risk assessment of information assets"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Estimate loss & frequency, rank risks. On lai: tan suat, xep hang.",
+    "explanation": "Đáp án: Estimate loss & frequency, rank risks. Ôn lại: tan suat, xep hang.",
     "answerText": "Estimate loss & frequency, rank risks",
     "keywords": [
       "tan suat",
@@ -3078,7 +3078,7 @@ window.QUIZ_DATA = [
       "-2^(n-1) .. 2^(n-1)-1"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: State org behavior/judgment criteria for security. On lai: security policy, tieu chi.",
+    "explanation": "Đáp án: State org behavior/judgment criteria for security. Ôn lại: security policy, tieu chi.",
     "answerText": "State org behavior/judgment criteria for security",
     "keywords": [
       "security policy",
@@ -3096,7 +3096,7 @@ window.QUIZ_DATA = [
       "Encrypt session common key with public key, then symmetric encrypt data"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Encrypt session common key with public key, then symmetric encrypt data. On lai: Hybrid, common key, public key.",
+    "explanation": "Đáp án: Encrypt session common key with public key, then symmetric encrypt data. Ôn lại: Hybrid, common key, public key.",
     "answerText": "Encrypt session common key with public key, then symmetric encrypt data",
     "keywords": [
       "Hybrid",
@@ -3115,7 +3115,7 @@ window.QUIZ_DATA = [
       "Left-Right-Node"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Slower. On lai: CHAM hon, symmetric.",
+    "explanation": "Đáp án: Slower. Ôn lại: CHAM hon, symmetric.",
     "answerText": "Slower",
     "keywords": [
       "CHAM hon",
@@ -3133,7 +3133,7 @@ window.QUIZ_DATA = [
       "EV/AC"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Can be public, not privately required. On lai: public key, cong khai.",
+    "explanation": "Đáp án: Can be public, not privately required. Ôn lại: public key, cong khai.",
     "answerText": "Can be public, not privately required",
     "keywords": [
       "public key",
@@ -3151,7 +3151,7 @@ window.QUIZ_DATA = [
       "Waiting / Blocked"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Detect illegal modification / integrity. On lai: Digital signature, sua trai phep.",
+    "explanation": "Đáp án: Detect illegal modification / integrity. Ôn lại: Digital signature, sua trai phep.",
     "answerText": "Detect illegal modification / integrity",
     "keywords": [
       "Digital signature",
@@ -3169,7 +3169,7 @@ window.QUIZ_DATA = [
       "Plan Do Check Act"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Prevent content leakage. On lai: Email encryption, NOI DUNG.",
+    "explanation": "Đáp án: Prevent content leakage. Ôn lại: Email encryption, NOI DUNG.",
     "answerText": "Prevent content leakage",
     "keywords": [
       "Email encryption",
@@ -3187,7 +3187,7 @@ window.QUIZ_DATA = [
       "Biometric from eye"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Biometric from eye. On lai: Iris, mat.",
+    "explanation": "Đáp án: Biometric from eye. Ôn lại: Iris, mat.",
     "answerText": "Biometric from eye",
     "keywords": [
       "Iris",
@@ -3205,7 +3205,7 @@ window.QUIZ_DATA = [
       "1024 bytes"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Wireless LAN encryption/security method. On lai: WPA, Wireless.",
+    "explanation": "Đáp án: Wireless LAN encryption/security method. Ôn lại: WPA, Wireless.",
     "answerText": "Wireless LAN encryption/security method",
     "keywords": [
       "WPA",
@@ -3223,7 +3223,7 @@ window.QUIZ_DATA = [
       "Protects web apps from attacks"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Protects web apps from attacks. On lai: WAF, Web.",
+    "explanation": "Đáp án: Protects web apps from attacks. Ôn lại: WAF, Web.",
     "answerText": "Protects web apps from attacks",
     "keywords": [
       "WAF",
@@ -3241,7 +3241,7 @@ window.QUIZ_DATA = [
       "Assembly -> machine language"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Receives client requests on behalf of server. On lai: Reverse proxy, thay server.",
+    "explanation": "Đáp án: Receives client requests on behalf of server. Ôn lại: Reverse proxy, thay server.",
     "answerText": "Receives client requests on behalf of server",
     "keywords": [
       "Reverse proxy",
@@ -3259,7 +3259,7 @@ window.QUIZ_DATA = [
       "Detect vs detect+block"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Sends requests on behalf of client. On lai: Forward proxy, thay client.",
+    "explanation": "Đáp án: Sends requests on behalf of client. Ôn lại: Forward proxy, thay client.",
     "answerText": "Sends requests on behalf of client",
     "keywords": [
       "Forward proxy",
@@ -3277,7 +3277,7 @@ window.QUIZ_DATA = [
       "Sequential file"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Block outbound SMTP port 25 from internal hosts. On lai: OP25B, port 25.",
+    "explanation": "Đáp án: Block outbound SMTP port 25 from internal hosts. Ôn lại: OP25B, port 25.",
     "answerText": "Block outbound SMTP port 25 from internal hosts",
     "keywords": [
       "OP25B",
@@ -3295,7 +3295,7 @@ window.QUIZ_DATA = [
       "Expression of work / software code as work"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Coordinating body for Information Security Early Warning Partnership. On lai: JPCERT, Early Warning.",
+    "explanation": "Đáp án: Coordinating body for Information Security Early Warning Partnership. Ôn lại: JPCERT, Early Warning.",
     "answerText": "Coordinating body for Information Security Early Warning Partnership",
     "keywords": [
       "JPCERT",
@@ -3313,7 +3313,7 @@ window.QUIZ_DATA = [
       "Impersonate authorized person asking password by phone"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Impersonate authorized person asking password by phone. On lai: Social engineering, dien.",
+    "explanation": "Đáp án: Impersonate authorized person asking password by phone. Ôn lại: Social engineering, dien.",
     "answerText": "Impersonate authorized person asking password by phone",
     "keywords": [
       "Social engineering",
@@ -3331,7 +3331,7 @@ window.QUIZ_DATA = [
       "Full, differential, incremental"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Auth + encryption for communications. On lai: SSL, ma hoa.",
+    "explanation": "Đáp án: Auth + encryption for communications. Ôn lại: SSL, ma hoa.",
     "answerText": "Auth + encryption for communications",
     "keywords": [
       "SSL",
@@ -3349,7 +3349,7 @@ window.QUIZ_DATA = [
       "Utility software"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Known viruses with names. On lai: Signature, virus BIET.",
+    "explanation": "Đáp án: Known viruses with names. Ôn lại: Signature, virus BIET.",
     "answerText": "Known viruses with names",
     "keywords": [
       "Signature",
@@ -3367,7 +3367,7 @@ window.QUIZ_DATA = [
       "bits / (bandwidth * utilization)"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Reset password; user sets new one. On lai: RESET, mat khau moi.",
+    "explanation": "Đáp án: Reset password; user sets new one. Ôn lại: RESET, mat khau moi.",
     "answerText": "Reset password; user sets new one",
     "keywords": [
       "RESET",
@@ -3385,7 +3385,7 @@ window.QUIZ_DATA = [
       "Common key cryptography"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Common key cryptography. On lai: Common key, symmetric.",
+    "explanation": "Đáp án: Common key cryptography. Ôn lại: Common key, symmetric.",
     "answerText": "Common key cryptography",
     "keywords": [
       "Common key",
@@ -3403,7 +3403,7 @@ window.QUIZ_DATA = [
       "Optical wavelengths"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: One-way fingerprint; integrity check. On lai: Hash, 1 chieu.",
+    "explanation": "Đáp án: One-way fingerprint; integrity check. Ôn lại: Hash, 1 chieu.",
     "answerText": "One-way fingerprint; integrity check",
     "keywords": [
       "Hash",
@@ -3421,7 +3421,7 @@ window.QUIZ_DATA = [
       "Block outbound SMTP port 25 from internal hosts"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Cannot deny performed action. On lai: Non-repudiation, choi bo.",
+    "explanation": "Đáp án: Cannot deny performed action. Ôn lại: Non-repudiation, choi bo.",
     "answerText": "Cannot deny performed action",
     "keywords": [
       "Non-repudiation",
@@ -3439,7 +3439,7 @@ window.QUIZ_DATA = [
       "Only rights needed for role"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Only rights needed for role. On lai: least privilege.",
+    "explanation": "Đáp án: Only rights needed for role. Ôn lại: least privilege.",
     "answerText": "Only rights needed for role",
     "keywords": [
       "least privilege"
@@ -3456,7 +3456,7 @@ window.QUIZ_DATA = [
       "Human/organizational"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Social engineering / fraud. On lai: Social engineering.",
+    "explanation": "Đáp án: Social engineering / fraud. Ôn lại: Social engineering.",
     "answerText": "Social engineering / fraud",
     "keywords": [
       "Social engineering"
@@ -3473,7 +3473,7 @@ window.QUIZ_DATA = [
       "Queue"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Queue. On lai: Queue, FIFO.",
+    "explanation": "Đáp án: Queue. Ôn lại: Queue, FIFO.",
     "answerText": "Queue",
     "keywords": [
       "Queue",
@@ -3491,7 +3491,7 @@ window.QUIZ_DATA = [
       "Merge Sort"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Stack. On lai: Stack, LIFO.",
+    "explanation": "Đáp án: Stack. Ôn lại: Stack, LIFO.",
     "answerText": "Stack",
     "keywords": [
       "Stack",
@@ -3509,7 +3509,7 @@ window.QUIZ_DATA = [
       "O(log N)"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Stack. On lai: Stack, de quy.",
+    "explanation": "Đáp án: Stack. Ôn lại: Stack, de quy.",
     "answerText": "Stack",
     "keywords": [
       "Stack",
@@ -3527,7 +3527,7 @@ window.QUIZ_DATA = [
       "5"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 5. On lai: dinh con lai = 5, PUSH.",
+    "explanation": "Đáp án: 5. Ôn lại: dinh con lai = 5, PUSH.",
     "answerText": "5",
     "keywords": [
       "dinh con lai = 5",
@@ -3545,7 +3545,7 @@ window.QUIZ_DATA = [
       "C"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: C. On lai: dau hang = C, ENQ.",
+    "explanation": "Đáp án: C. Ôn lại: dau hang = C, ENQ.",
     "answerText": "C",
     "keywords": [
       "dau hang = C",
@@ -3563,7 +3563,7 @@ window.QUIZ_DATA = [
       "Corporate Social Responsibility"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Head. On lai: Head, duyet.",
+    "explanation": "Đáp án: Head. Ôn lại: Head, duyet.",
     "answerText": "Head",
     "keywords": [
       "Head",
@@ -3581,7 +3581,7 @@ window.QUIZ_DATA = [
       "High availability hardware"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: B.next=X; X.next=C. On lai: B.next = X, X.next = C.",
+    "explanation": "Đáp án: B.next=X; X.next=C. Ôn lại: B.next = X, X.next = C.",
     "answerText": "B.next=X; X.next=C",
     "keywords": [
       "B.next = X",
@@ -3599,7 +3599,7 @@ window.QUIZ_DATA = [
       "256"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: ABC*+. On lai: ABC*+, postfix.",
+    "explanation": "Đáp án: ABC*+. Ôn lại: ABC*+, postfix.",
     "answerText": "ABC*+",
     "keywords": [
       "ABC*+",
@@ -3617,7 +3617,7 @@ window.QUIZ_DATA = [
       "ROM"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: AB+CDE/-*. On lai: AB+CDE/-*.",
+    "explanation": "Đáp án: AB+CDE/-*. Ôn lại: AB+CDE/-*.",
     "answerText": "AB+CDE/-*",
     "keywords": [
       "AB+CDE/-*"
@@ -3634,7 +3634,7 @@ window.QUIZ_DATA = [
       "SPOC for users"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: 20 30 40 50 60 70 80. On lai: inorder, TANG DAN.",
+    "explanation": "Đáp án: 20 30 40 50 60 70 80. Ôn lại: inorder, TANG DAN.",
     "answerText": "20 30 40 50 60 70 80",
     "keywords": [
       "inorder",
@@ -3652,7 +3652,7 @@ window.QUIZ_DATA = [
       "Address of next instruction"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Less than node. On lai: trai <, BST.",
+    "explanation": "Đáp án: Less than node. Ôn lại: trai <, BST.",
     "answerText": "Less than node",
     "keywords": [
       "trai <",
@@ -3670,7 +3670,7 @@ window.QUIZ_DATA = [
       "Quick Sort / Merge Sort"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Quick Sort / Merge Sort. On lai: Divide and Conquer, Quick.",
+    "explanation": "Đáp án: Quick Sort / Merge Sort. Ôn lại: Divide and Conquer, Quick.",
     "answerText": "Quick Sort / Merge Sort",
     "keywords": [
       "Divide and Conquer",
@@ -3688,7 +3688,7 @@ window.QUIZ_DATA = [
       "Network layer (3)"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Largest bubbles to end each pass. On lai: Bubble, cuoi.",
+    "explanation": "Đáp án: Largest bubbles to end each pass. Ôn lại: Bubble, cuoi.",
     "answerText": "Largest bubbles to end each pass",
     "keywords": [
       "Bubble",
@@ -3706,7 +3706,7 @@ window.QUIZ_DATA = [
       "16 73 28 84 51"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 16 73 28 84 51. On lai: 16 73 28 84 51.",
+    "explanation": "Đáp án: 16 73 28 84 51. Ôn lại: 16 73 28 84 51.",
     "answerText": "16 73 28 84 51",
     "keywords": [
       "16 73 28 84 51"
@@ -3723,7 +3723,7 @@ window.QUIZ_DATA = [
       "0.99 / 99%"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: No. On lai: Linear search, khong can.",
+    "explanation": "Đáp án: No. Ôn lại: Linear search, khong can.",
     "answerText": "No",
     "keywords": [
       "Linear search",
@@ -3741,7 +3741,7 @@ window.QUIZ_DATA = [
       "4th generation"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Yes. On lai: Binary search, CAN mang da sort.",
+    "explanation": "Đáp án: Yes. Ôn lại: Binary search, CAN mang da sort.",
     "answerText": "Yes",
     "keywords": [
       "Binary search",
@@ -3759,7 +3759,7 @@ window.QUIZ_DATA = [
       "1"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 1. On lai: best case, 1.",
+    "explanation": "Đáp án: 1. Ôn lại: best case, 1.",
     "answerText": "1",
     "keywords": [
       "best case",
@@ -3777,7 +3777,7 @@ window.QUIZ_DATA = [
       "Heap"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: O(N). On lai: O(N.",
+    "explanation": "Đáp án: O(N). Ôn lại: O(N.",
     "answerText": "O(N)",
     "keywords": [
       "O(N"
@@ -3794,7 +3794,7 @@ window.QUIZ_DATA = [
       "O(log N)"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: O(log N). On lai: O(log n.",
+    "explanation": "Đáp án: O(log N). Ôn lại: O(log n.",
     "answerText": "O(log N)",
     "keywords": [
       "O(log n"
@@ -3811,7 +3811,7 @@ window.QUIZ_DATA = [
       "Slower"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: O(1) by index. On lai: O(1.",
+    "explanation": "Đáp án: O(1) by index. Ôn lại: O(1.",
     "answerText": "O(1) by index",
     "keywords": [
       "O(1"
@@ -3828,7 +3828,7 @@ window.QUIZ_DATA = [
       "Segregation of duties"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Pointer updates, no full shift. On lai: pointer, chen.",
+    "explanation": "Đáp án: Pointer updates, no full shift. Ôn lại: pointer, chen.",
     "answerText": "Pointer updates, no full shift",
     "keywords": [
       "pointer",
@@ -3846,7 +3846,7 @@ window.QUIZ_DATA = [
       "Starvation / unfair long wait (improves fairness)"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: 4. On lai: 31, height, 4.",
+    "explanation": "Đáp án: 4. Ôn lại: 31, height, 4.",
     "answerText": "4",
     "keywords": [
       "31",
@@ -3865,7 +3865,7 @@ window.QUIZ_DATA = [
       "Coordinating body for Information Security Early Warning Partnership"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Node-Left-Right. On lai: Preorder, nut-trai-phai.",
+    "explanation": "Đáp án: Node-Left-Right. Ôn lại: Preorder, nut-trai-phai.",
     "answerText": "Node-Left-Right",
     "keywords": [
       "Preorder",
@@ -3883,7 +3883,7 @@ window.QUIZ_DATA = [
       "Dynamic IP assignment"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Left-Right-Node. On lai: Postorder, trai-phai-nut.",
+    "explanation": "Đáp án: Left-Right-Node. Ôn lại: Postorder, trai-phai-nut.",
     "answerText": "Left-Right-Node",
     "keywords": [
       "Postorder",
@@ -3901,7 +3901,7 @@ window.QUIZ_DATA = [
       "Name <-> IP"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: O(1). On lai: Hash, O(1.",
+    "explanation": "Đáp án: O(1). Ôn lại: Hash, O(1.",
     "answerText": "O(1)",
     "keywords": [
       "Hash",
@@ -3919,7 +3919,7 @@ window.QUIZ_DATA = [
       "O(n log n)"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: O(n log n). On lai: Mergesort, O(n log n.",
+    "explanation": "Đáp án: O(n log n). Ôn lại: Mergesort, O(n log n.",
     "answerText": "O(n log n)",
     "keywords": [
       "Mergesort",
@@ -3937,7 +3937,7 @@ window.QUIZ_DATA = [
       "Waiting / Blocked"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: O(n^2). On lai: Quicksort, O(n^2.",
+    "explanation": "Đáp án: O(n^2). Ôn lại: Quicksort, O(n^2.",
     "answerText": "O(n^2)",
     "keywords": [
       "Quicksort",
@@ -3955,7 +3955,7 @@ window.QUIZ_DATA = [
       "Name <-> IP"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Corporate Social Responsibility. On lai: CSR.",
+    "explanation": "Đáp án: Corporate Social Responsibility. Ôn lại: CSR.",
     "answerText": "Corporate Social Responsibility",
     "keywords": [
       "CSR"
@@ -3972,7 +3972,7 @@ window.QUIZ_DATA = [
       "Protects web apps from attacks"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Business Continuity Plan. On lai: BCP.",
+    "explanation": "Đáp án: Business Continuity Plan. Ôn lại: BCP.",
     "answerText": "Business Continuity Plan",
     "keywords": [
       "BCP"
@@ -3989,7 +3989,7 @@ window.QUIZ_DATA = [
       "Plan Do Check Act"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Plan Do Check Act. On lai: PDCA.",
+    "explanation": "Đáp án: Plan Do Check Act. Ôn lại: PDCA.",
     "answerText": "Plan Do Check Act",
     "keywords": [
       "PDCA"
@@ -4006,7 +4006,7 @@ window.QUIZ_DATA = [
       "Block outbound SMTP port 25 from internal hosts"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Liabilities + Equity. On lai: Assets, Liabilities, Equity.",
+    "explanation": "Đáp án: Liabilities + Equity. Ôn lại: Assets, Liabilities, Equity.",
     "answerText": "Liabilities + Equity",
     "keywords": [
       "Assets",
@@ -4025,7 +4025,7 @@ window.QUIZ_DATA = [
       "Direct file (hash/relative)"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Fixed cost / (price - variable unit cost). On lai: BEP, hoa von.",
+    "explanation": "Đáp án: Fixed cost / (price - variable unit cost). Ôn lại: BEP, hoa von.",
     "answerText": "Fixed cost / (price - variable unit cost)",
     "keywords": [
       "BEP",
@@ -4043,7 +4043,7 @@ window.QUIZ_DATA = [
       "Prioritize vital few (80/20)"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Prioritize vital few (80/20). On lai: Pareto, 80/20.",
+    "explanation": "Đáp án: Prioritize vital few (80/20). Ôn lại: Pareto, 80/20.",
     "answerText": "Prioritize vital few (80/20)",
     "keywords": [
       "Pareto",
@@ -4061,7 +4061,7 @@ window.QUIZ_DATA = [
       "Split frequency bands"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Cause-effect / fishbone. On lai: Ishikawa, nhan qua.",
+    "explanation": "Đáp án: Cause-effect / fishbone. Ôn lại: Ishikawa, nhan qua.",
     "answerText": "Cause-effect / fishbone",
     "keywords": [
       "Ishikawa",
@@ -4079,7 +4079,7 @@ window.QUIZ_DATA = [
       "Fetch -> Decode -> Execute"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: 0. On lai: critical path, float.",
+    "explanation": "Đáp án: 0. Ôn lại: critical path, float.",
     "answerText": "0",
     "keywords": [
       "critical path",
@@ -4097,7 +4097,7 @@ window.QUIZ_DATA = [
       "Assume company continues indefinitely"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Omnidirectional / full market. On lai: Leader.",
+    "explanation": "Đáp án: Omnidirectional / full market. Ôn lại: Leader.",
     "answerText": "Omnidirectional / full market",
     "keywords": [
       "Leader"
@@ -4114,7 +4114,7 @@ window.QUIZ_DATA = [
       "It sends an access request, in place of a client, to a server."
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Specialization / niche. On lai: Nicher, chuyen biet.",
+    "explanation": "Đáp án: Specialization / niche. Ôn lại: Nicher, chuyen biet.",
     "answerText": "Specialization / niche",
     "keywords": [
       "Nicher",
@@ -4132,7 +4132,7 @@ window.QUIZ_DATA = [
       "Restore ASAP vs find root cause"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Product Price Place Promotion. On lai: 4P.",
+    "explanation": "Đáp án: Product Price Place Promotion. Ôn lại: 4P.",
     "answerText": "Product Price Place Promotion",
     "keywords": [
       "4P"
@@ -4149,7 +4149,7 @@ window.QUIZ_DATA = [
       "Assemble/disassemble data, error control for transmission"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Intro Growth Maturity Decline. On lai: Product life cycle.",
+    "explanation": "Đáp án: Intro Growth Maturity Decline. Ôn lại: Product life cycle.",
     "answerText": "Intro Growth Maturity Decline",
     "keywords": [
       "Product life cycle"
@@ -4166,7 +4166,7 @@ window.QUIZ_DATA = [
       "Faster access"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Information systems strategy. On lai: CIO, IS strategy.",
+    "explanation": "Đáp án: Information systems strategy. Ôn lại: CIO, IS strategy.",
     "answerText": "Information systems strategy",
     "keywords": [
       "CIO",
@@ -4184,7 +4184,7 @@ window.QUIZ_DATA = [
       "Linker"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: IT service management. On lai: ITIL, ITSM.",
+    "explanation": "Đáp án: IT service management. Ôn lại: ITIL, ITSM.",
     "answerText": "IT service management",
     "keywords": [
       "ITIL",
@@ -4202,7 +4202,7 @@ window.QUIZ_DATA = [
       "Creator + peers find errors early"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Service Level Agreement with customer. On lai: SLA.",
+    "explanation": "Đáp án: Service Level Agreement with customer. Ôn lại: SLA.",
     "answerText": "Service Level Agreement with customer",
     "keywords": [
       "SLA"
@@ -4219,7 +4219,7 @@ window.QUIZ_DATA = [
       "Rectangle"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Restore ASAP vs find root cause. On lai: Incident, Problem.",
+    "explanation": "Đáp án: Restore ASAP vs find root cause. Ôn lại: Incident, Problem.",
     "answerText": "Restore ASAP vs find root cause",
     "keywords": [
       "Incident",
@@ -4237,7 +4237,7 @@ window.QUIZ_DATA = [
       "SPOC for users"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: SPOC for users. On lai: Service desk, SPOC.",
+    "explanation": "Đáp án: SPOC for users. Ôn lại: Service desk, SPOC.",
     "answerText": "SPOC for users",
     "keywords": [
       "Service desk",
@@ -4255,7 +4255,7 @@ window.QUIZ_DATA = [
       "Waiting / Blocked"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: IT service management system. On lai: ISO/IEC 20000, SMS.",
+    "explanation": "Đáp án: IT service management system. Ôn lại: ISO/IEC 20000, SMS.",
     "answerText": "IT service management system",
     "keywords": [
       "ISO/IEC 20000",
@@ -4273,7 +4273,7 @@ window.QUIZ_DATA = [
       "Sequential phases"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Sequential phases. On lai: Waterfall.",
+    "explanation": "Đáp án: Sequential phases. Ôn lại: Waterfall.",
     "answerText": "Sequential phases",
     "keywords": [
       "Waterfall"
@@ -4290,7 +4290,7 @@ window.QUIZ_DATA = [
       "Octal"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Each design stage to a test level. On lai: V-model.",
+    "explanation": "Đáp án: Each design stage to a test level. Ôn lại: V-model.",
     "answerText": "Each design stage to a test level",
     "keywords": [
       "V-model"
@@ -4307,7 +4307,7 @@ window.QUIZ_DATA = [
       "Smallest module/unit"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Smallest module/unit. On lai: unit.",
+    "explanation": "Đáp án: Smallest module/unit. Ôn lại: unit.",
     "answerText": "Smallest module/unit",
     "keywords": [
       "unit"
@@ -4324,7 +4324,7 @@ window.QUIZ_DATA = [
       "Business to Consumer"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Based on spec, not code. On lai: Black-box.",
+    "explanation": "Đáp án: Based on spec, not code. Ôn lại: Black-box.",
     "answerText": "Based on spec, not code",
     "keywords": [
       "Black-box"
@@ -4341,7 +4341,7 @@ window.QUIZ_DATA = [
       "It is a method for one-to-one conversion of an internal address to an external address."
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Based on code structure. On lai: White-box.",
+    "explanation": "Đáp án: Based on code structure. Ôn lại: White-box.",
     "answerText": "Based on code structure",
     "keywords": [
       "White-box"
@@ -4358,7 +4358,7 @@ window.QUIZ_DATA = [
       "Needed page not in RAM"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Yes. On lai: cohesion cao.",
+    "explanation": "Đáp án: Yes. Ôn lại: cohesion cao.",
     "answerText": "Yes",
     "keywords": [
       "cohesion cao"
@@ -4375,7 +4375,7 @@ window.QUIZ_DATA = [
       "Distributed transaction atomic commit"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Yes. On lai: coupling thap.",
+    "explanation": "Đáp án: Yes. Ôn lại: coupling thap.",
     "answerText": "Yes",
     "keywords": [
       "coupling thap"
@@ -4392,7 +4392,7 @@ window.QUIZ_DATA = [
       "Approved reference version of CIs"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Approved reference version of CIs. On lai: baseline, Configuration.",
+    "explanation": "Đáp án: Approved reference version of CIs. Ôn lại: baseline, Configuration.",
     "answerText": "Approved reference version of CIs",
     "keywords": [
       "baseline",
@@ -4410,7 +4410,7 @@ window.QUIZ_DATA = [
       "Error detection"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Work Breakdown Structure hierarchy of work. On lai: WBS.",
+    "explanation": "Đáp án: Work Breakdown Structure hierarchy of work. Ôn lại: WBS.",
     "answerText": "Work Breakdown Structure hierarchy of work",
     "keywords": [
       "WBS"
@@ -4427,7 +4427,7 @@ window.QUIZ_DATA = [
       "Time from request to response"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Quality Cost Delivery. On lai: Quality, Cost, Delivery.",
+    "explanation": "Đáp án: Quality Cost Delivery. Ôn lại: Quality, Cost, Delivery.",
     "answerText": "Quality Cost Delivery",
     "keywords": [
       "Quality",
@@ -4446,7 +4446,7 @@ window.QUIZ_DATA = [
       "Ensuring that a user of an information system is the correctly authorized user"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: EV/PV. On lai: SPI, EV/PV.",
+    "explanation": "Đáp án: EV/PV. Ôn lại: SPI, EV/PV.",
     "answerText": "EV/PV",
     "keywords": [
       "SPI",
@@ -4464,7 +4464,7 @@ window.QUIZ_DATA = [
       "LAN Ethernet cabling"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: EV/AC. On lai: CPI, EV/AC.",
+    "explanation": "Đáp án: EV/AC. Ôn lại: CPI, EV/AC.",
     "answerText": "EV/AC",
     "keywords": [
       "CPI",
@@ -4482,7 +4482,7 @@ window.QUIZ_DATA = [
       "Heap file"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Behind schedule. On lai: SPI, cham.",
+    "explanation": "Đáp án: Behind schedule. Ôn lại: SPI, cham.",
     "answerText": "Behind schedule",
     "keywords": [
       "SPI",
@@ -4500,7 +4500,7 @@ window.QUIZ_DATA = [
       "All are correct"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Avoid mitigate transfer accept. On lai: avoid, mitigate, transfer, accept.",
+    "explanation": "Đáp án: Avoid mitigate transfer accept. Ôn lại: avoid, mitigate, transfer, accept.",
     "answerText": "Avoid mitigate transfer accept",
     "keywords": [
       "avoid",
@@ -4520,7 +4520,7 @@ window.QUIZ_DATA = [
       "Infrastructure as a Service"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Segregation of duties. On lai: Segregation of duties, SoD.",
+    "explanation": "Đáp án: Segregation of duties. Ôn lại: Segregation of duties, SoD.",
     "answerText": "Segregation of duties",
     "keywords": [
       "Segregation of duties",
@@ -4538,7 +4538,7 @@ window.QUIZ_DATA = [
       "Fix defects"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Independent evaluation of IS controls. On lai: System audit.",
+    "explanation": "Đáp án: Independent evaluation of IS controls. Ôn lại: System audit.",
     "answerText": "Independent evaluation of IS controls",
     "keywords": [
       "System audit"
@@ -4555,7 +4555,7 @@ window.QUIZ_DATA = [
       "Align IT with business, manage IT risk/value"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Align IT with business, manage IT risk/value. On lai: IT governance.",
+    "explanation": "Đáp án: Align IT with business, manage IT risk/value. Ôn lại: IT governance.",
     "answerText": "Align IT with business, manage IT risk/value",
     "keywords": [
       "IT governance"
@@ -4572,7 +4572,7 @@ window.QUIZ_DATA = [
       "Assign codes to users"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: IT governance best practices framework. On lai: COBIT.",
+    "explanation": "Đáp án: IT governance best practices framework. Ôn lại: COBIT.",
     "answerText": "IT governance best practices framework",
     "keywords": [
       "COBIT"
@@ -4589,7 +4589,7 @@ window.QUIZ_DATA = [
       "Process management / scheduling"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Software as a Service. On lai: SaaS.",
+    "explanation": "Đáp án: Software as a Service. Ôn lại: SaaS.",
     "answerText": "Software as a Service",
     "keywords": [
       "SaaS"
@@ -4606,7 +4606,7 @@ window.QUIZ_DATA = [
       "Platform as a Service"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Platform as a Service. On lai: PaaS.",
+    "explanation": "Đáp án: Platform as a Service. Ôn lại: PaaS.",
     "answerText": "Platform as a Service",
     "keywords": [
       "PaaS"
@@ -4623,7 +4623,7 @@ window.QUIZ_DATA = [
       "The amount of electricity consumed"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Infrastructure as a Service. On lai: IaaS.",
+    "explanation": "Đáp án: Infrastructure as a Service. Ôn lại: IaaS.",
     "answerText": "Infrastructure as a Service",
     "keywords": [
       "IaaS"
@@ -4640,7 +4640,7 @@ window.QUIZ_DATA = [
       "Interactive processing system"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Business to Consumer. On lai: B2C.",
+    "explanation": "Đáp án: Business to Consumer. Ôn lại: B2C.",
     "answerText": "Business to Consumer",
     "keywords": [
       "B2C"
@@ -4657,7 +4657,7 @@ window.QUIZ_DATA = [
       "Segment public services from internal LAN"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Compare with best practice/competitors. On lai: Benchmarking.",
+    "explanation": "Đáp án: Compare with best practice/competitors. Ôn lại: Benchmarking.",
     "answerText": "Compare with best practice/competitors",
     "keywords": [
       "Benchmarking"
@@ -4674,7 +4674,7 @@ window.QUIZ_DATA = [
       "Harder remote control, cheaper labor"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Harder remote control, cheaper labor. On lai: offshore.",
+    "explanation": "Đáp án: Harder remote control, cheaper labor. Ôn lại: offshore.",
     "answerText": "Harder remote control, cheaper labor",
     "keywords": [
       "offshore"
@@ -4691,7 +4691,7 @@ window.QUIZ_DATA = [
       "Client requests, server responds"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Expression of work / software code as work. On lai: Copyright, ban quyen.",
+    "explanation": "Đáp án: Expression of work / software code as work. Ôn lại: Copyright, ban quyen.",
     "answerText": "Expression of work / software code as work",
     "keywords": [
       "Copyright",
@@ -4709,7 +4709,7 @@ window.QUIZ_DATA = [
       "Invention"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Invention. On lai: patent, sang che.",
+    "explanation": "Đáp án: Invention. Ôn lại: patent, sang che.",
     "answerText": "Invention",
     "keywords": [
       "patent",
@@ -4727,7 +4727,7 @@ window.QUIZ_DATA = [
       "Online transaction processing"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Assume company continues indefinitely. On lai: going concern.",
+    "explanation": "Đáp án: Assume company continues indefinitely. Ôn lại: going concern.",
     "answerText": "Assume company continues indefinitely",
     "keywords": [
       "going concern"
@@ -4744,7 +4744,7 @@ window.QUIZ_DATA = [
       "No partial dependency on key"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Publish business/financial info for stakeholders. On lai: Disclosure, IR.",
+    "explanation": "Đáp án: Publish business/financial info for stakeholders. Ôn lại: Disclosure, IR.",
     "answerText": "Publish business/financial info for stakeholders",
     "keywords": [
       "Disclosure",
@@ -4762,7 +4762,7 @@ window.QUIZ_DATA = [
       "4th generation"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Energy-efficient IT / reduce environmental impact. On lai: Green IT.",
+    "explanation": "Đáp án: Energy-efficient IT / reduce environmental impact. Ôn lại: Green IT.",
     "answerText": "Energy-efficient IT / reduce environmental impact",
     "keywords": [
       "Green IT"
@@ -4779,7 +4779,7 @@ window.QUIZ_DATA = [
       "Human/organizational"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Management by Objectives. On lai: MBO.",
+    "explanation": "Đáp án: Management by Objectives. Ôn lại: MBO.",
     "answerText": "Management by Objectives",
     "keywords": [
       "MBO"
@@ -4796,7 +4796,7 @@ window.QUIZ_DATA = [
       "Integrated enterprise resource management"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Integrated enterprise resource management. On lai: ERP.",
+    "explanation": "Đáp án: Integrated enterprise resource management. Ôn lại: ERP.",
     "answerText": "Integrated enterprise resource management",
     "keywords": [
       "ERP"
@@ -4813,7 +4813,7 @@ window.QUIZ_DATA = [
       "Harder remote control, cheaper labor"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Customer relationship management. On lai: CRM.",
+    "explanation": "Đáp án: Customer relationship management. Ôn lại: CRM.",
     "answerText": "Customer relationship management",
     "keywords": [
       "CRM"
@@ -4830,7 +4830,7 @@ window.QUIZ_DATA = [
       "Non-volatile"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Supply chain management. On lai: SCM.",
+    "explanation": "Đáp án: Supply chain management. Ôn lại: SCM.",
     "answerText": "Supply chain management",
     "keywords": [
       "SCM"
@@ -4847,7 +4847,7 @@ window.QUIZ_DATA = [
       "What system does vs quality attributes"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: What system does vs quality attributes. On lai: functional, non-functional.",
+    "explanation": "Đáp án: What system does vs quality attributes. Ôn lại: functional, non-functional.",
     "answerText": "What system does vs quality attributes",
     "keywords": [
       "functional",
@@ -4865,7 +4865,7 @@ window.QUIZ_DATA = [
       "Queue"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Creator + peers find errors early. On lai: walk-through.",
+    "explanation": "Đáp án: Creator + peers find errors early. Ôn lại: walk-through.",
     "answerText": "Creator + peers find errors early",
     "keywords": [
       "walk-through"
@@ -4882,7 +4882,7 @@ window.QUIZ_DATA = [
       "Combine tables"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Moderator-led formal review. On lai: inspection, moderator.",
+    "explanation": "Đáp án: Moderator-led formal review. Ôn lại: inspection, moderator.",
     "answerText": "Moderator-led formal review",
     "keywords": [
       "inspection",
@@ -4900,7 +4900,7 @@ window.QUIZ_DATA = [
       "-22"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Fix defects. On lai: Corrective.",
+    "explanation": "Đáp án: Fix defects. Ôn lại: Corrective.",
     "answerText": "Fix defects",
     "keywords": [
       "Corrective"
@@ -4917,7 +4917,7 @@ window.QUIZ_DATA = [
       "Adapt to environment changes"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Adapt to environment changes. On lai: Adaptive.",
+    "explanation": "Đáp án: Adapt to environment changes. Ôn lại: Adaptive.",
     "answerText": "Adapt to environment changes",
     "keywords": [
       "Adaptive"
@@ -4934,7 +4934,7 @@ window.QUIZ_DATA = [
       "Choose columns"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Improve features/performance. On lai: Perfective.",
+    "explanation": "Đáp án: Improve features/performance. Ôn lại: Perfective.",
     "answerText": "Improve features/performance",
     "keywords": [
       "Perfective"
@@ -4951,7 +4951,7 @@ window.QUIZ_DATA = [
       "The sending log of the mail server can be protected from falsification."
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Meet spec vs meet real needs. On lai: Verification, Validation.",
+    "explanation": "Đáp án: Meet spec vs meet real needs. Ôn lại: Verification, Validation.",
     "answerText": "Meet spec vs meet real needs",
     "keywords": [
       "Verification",
@@ -4969,7 +4969,7 @@ window.QUIZ_DATA = [
       "Fetch -> Decode -> Execute"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Defined start and end. On lai: temporary, Temporariness.",
+    "explanation": "Đáp án: Defined start and end. Ôn lại: temporary, Temporariness.",
     "answerText": "Defined start and end",
     "keywords": [
       "temporary",
@@ -4987,7 +4987,7 @@ window.QUIZ_DATA = [
       "Merge Sort"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Anyone interested/affected by project. On lai: Stakeholder.",
+    "explanation": "Đáp án: Anyone interested/affected by project. Ôn lại: Stakeholder.",
     "answerText": "Anyone interested/affected by project",
     "keywords": [
       "Stakeholder"
@@ -5004,7 +5004,7 @@ window.QUIZ_DATA = [
       "Social engineering / fraud"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Support/control multiple projects. On lai: PMO.",
+    "explanation": "Đáp án: Support/control multiple projects. Ôn lại: PMO.",
     "answerText": "Support/control multiple projects",
     "keywords": [
       "PMO"
@@ -5021,7 +5021,7 @@ window.QUIZ_DATA = [
       "Airbag / life-critical control"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Members from multiple departments. On lai: Matrix.",
+    "explanation": "Đáp án: Members from multiple departments. Ôn lại: Matrix.",
     "answerText": "Members from multiple departments",
     "keywords": [
       "Matrix"
@@ -5038,7 +5038,7 @@ window.QUIZ_DATA = [
       "Control unit + ALU"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Zero float/slack. On lai: critical path, 0.",
+    "explanation": "Đáp án: Zero float/slack. Ôn lại: critical path, 0.",
     "answerText": "Zero float/slack",
     "keywords": [
       "critical path",
@@ -5056,7 +5056,7 @@ window.QUIZ_DATA = [
       "EV/PV"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Add resources to shorten duration (cost↑). On lai: crashing.",
+    "explanation": "Đáp án: Add resources to shorten duration (cost↑). Ôn lại: crashing.",
     "answerText": "Add resources to shorten duration (cost↑)",
     "keywords": [
       "crashing"
@@ -5073,7 +5073,7 @@ window.QUIZ_DATA = [
       "Throughput via pipelined frames"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Overlap phases/activities. On lai: fast-tracking.",
+    "explanation": "Đáp án: Overlap phases/activities. Ôn lại: fast-tracking.",
     "answerText": "Overlap phases/activities",
     "keywords": [
       "fast-tracking"
@@ -5090,7 +5090,7 @@ window.QUIZ_DATA = [
       "Linked List"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Problem with documented root cause/workaround. On lai: known error.",
+    "explanation": "Đáp án: Problem with documented root cause/workaround. Ôn lại: known error.",
     "answerText": "Problem with documented root cause/workaround",
     "keywords": [
       "known error"
@@ -5107,7 +5107,7 @@ window.QUIZ_DATA = [
       "Configuration management database"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Configuration management database. On lai: CMDB, Configuration.",
+    "explanation": "Đáp án: Configuration management database. Ôn lại: CMDB, Configuration.",
     "answerText": "Configuration management database",
     "keywords": [
       "CMDB",
@@ -5125,7 +5125,7 @@ window.QUIZ_DATA = [
       "Meet agreed availability in SLA"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Meet agreed availability in SLA. On lai: availability, SLA.",
+    "explanation": "Đáp án: Meet agreed availability in SLA. Ôn lại: availability, SLA.",
     "answerText": "Meet agreed availability in SLA",
     "keywords": [
       "availability",
@@ -5143,7 +5143,7 @@ window.QUIZ_DATA = [
       "4th generation"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: BCP for IT services. On lai: continuity, BCP.",
+    "explanation": "Đáp án: BCP for IT services. Ôn lại: continuity, BCP.",
     "answerText": "BCP for IT services",
     "keywords": [
       "continuity",
@@ -5161,7 +5161,7 @@ window.QUIZ_DATA = [
       "Authorization before action"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Authorization before action. On lai: preventive.",
+    "explanation": "Đáp án: Authorization before action. Ôn lại: preventive.",
     "answerText": "Authorization before action",
     "keywords": [
       "preventive"
@@ -5178,7 +5178,7 @@ window.QUIZ_DATA = [
       "SJF / priority without aging"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Logs, audits, alerts. On lai: detective.",
+    "explanation": "Đáp án: Logs, audits, alerts. Ôn lại: detective.",
     "answerText": "Logs, audits, alerts",
     "keywords": [
       "detective"
@@ -5195,7 +5195,7 @@ window.QUIZ_DATA = [
       "Performing an attack that exploits the security hole in an OS"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Outside independent party vs inside org. On lai: External, Internal.",
+    "explanation": "Đáp án: Outside independent party vs inside org. Ôn lại: External, Internal.",
     "answerText": "Outside independent party vs inside org",
     "keywords": [
       "External",
@@ -5213,7 +5213,7 @@ window.QUIZ_DATA = [
       "Ping / error reporting"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Environment-wide vs app-specific. On lai: General controls, application controls.",
+    "explanation": "Đáp án: Environment-wide vs app-specific. Ôn lại: General controls, application controls.",
     "answerText": "Environment-wide vs app-specific",
     "keywords": [
       "General controls",
@@ -5231,7 +5231,7 @@ window.QUIZ_DATA = [
       "FIFO"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: 0.81. On lai: Series, R1 * R2.",
+    "explanation": "Đáp án: 0.81. Ôn lại: Series, R1 * R2.",
     "answerText": "0.81",
     "keywords": [
       "Series",
@@ -5249,7 +5249,7 @@ window.QUIZ_DATA = [
       "0.9801"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 0.9801. On lai: Series.",
+    "explanation": "Đáp án: 0.9801. Ôn lại: Series.",
     "answerText": "0.9801",
     "keywords": [
       "Series"
@@ -5266,7 +5266,7 @@ window.QUIZ_DATA = [
       "Durability"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: 0.99. On lai: Parallel, 1 -.",
+    "explanation": "Đáp án: 0.99. Ôn lại: Parallel, 1 -.",
     "answerText": "0.99",
     "keywords": [
       "Parallel",
@@ -5284,7 +5284,7 @@ window.QUIZ_DATA = [
       "Risk assessment of assets"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: 0.99 / 99%. On lai: Availability, MTBF.",
+    "explanation": "Đáp án: 0.99 / 99%. Ôn lại: Availability, MTBF.",
     "answerText": "0.99 / 99%",
     "keywords": [
       "Availability",
@@ -5302,7 +5302,7 @@ window.QUIZ_DATA = [
       "Open-source software (if license allows)"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: 1024. On lai: 1024, 2^10.",
+    "explanation": "Đáp án: 1024. Ôn lại: 1024, 2^10.",
     "answerText": "1024",
     "keywords": [
       "1024",
@@ -5320,7 +5320,7 @@ window.QUIZ_DATA = [
       "256"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 256. On lai: 256, 2^8.",
+    "explanation": "Đáp án: 256. Ôn lại: 256, 2^8.",
     "answerText": "256",
     "keywords": [
       "256",
@@ -5338,7 +5338,7 @@ window.QUIZ_DATA = [
       "Configuration management database"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: 65536. On lai: 2^16, 65536.",
+    "explanation": "Đáp án: 65536. Ôn lại: 2^16, 65536.",
     "answerText": "65536",
     "keywords": [
       "2^16",
@@ -5356,7 +5356,7 @@ window.QUIZ_DATA = [
       "Hard disk / SSD / ROM / flash"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: 15. On lai: F=15, Hex.",
+    "explanation": "Đáp án: 15. Ôn lại: F=15, Hex.",
     "answerText": "15",
     "keywords": [
       "F=15",
@@ -5374,7 +5374,7 @@ window.QUIZ_DATA = [
       "1-(1-R1)(1-R2)..."
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: 16. On lai: Hex.",
+    "explanation": "Đáp án: 16. Ôn lại: Hex.",
     "answerText": "16",
     "keywords": [
       "Hex"
@@ -5391,7 +5391,7 @@ window.QUIZ_DATA = [
       "10"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: 10. On lai: Binary, thap phan.",
+    "explanation": "Đáp án: 10. Ôn lại: Binary, thap phan.",
     "answerText": "10",
     "keywords": [
       "Binary",
@@ -5409,7 +5409,7 @@ window.QUIZ_DATA = [
       "Control unit + ALU"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: AB*C+. On lai: postfix, stack.",
+    "explanation": "Đáp án: AB*C+. Ôn lại: postfix, stack.",
     "answerText": "AB*C+",
     "keywords": [
       "postfix",
@@ -5427,7 +5427,7 @@ window.QUIZ_DATA = [
       "Entity integrity / unique row id"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: 1. On lai: Stack, POP.",
+    "explanation": "Đáp án: 1. Ôn lại: Stack, POP.",
     "answerText": "1",
     "keywords": [
       "Stack",
@@ -5445,7 +5445,7 @@ window.QUIZ_DATA = [
       "Batch processing"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: 2. On lai: Queue, DEQ.",
+    "explanation": "Đáp án: 2. Ôn lại: Queue, DEQ.",
     "answerText": "2",
     "keywords": [
       "Queue",
@@ -5463,7 +5463,7 @@ window.QUIZ_DATA = [
       "ABC*+"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Round Robin. On lai: Round Robin.",
+    "explanation": "Đáp án: Round Robin. Ôn lại: Round Robin.",
     "answerText": "Round Robin",
     "keywords": [
       "Round Robin"
@@ -5480,7 +5480,7 @@ window.QUIZ_DATA = [
       "Fix defects"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: SJF. On lai: SJF, starvation.",
+    "explanation": "Đáp án: SJF. Ôn lại: SJF, starvation.",
     "answerText": "SJF",
     "keywords": [
       "SJF",
@@ -5498,7 +5498,7 @@ window.QUIZ_DATA = [
       "Backup system already running"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Waiting/Blocked. On lai: Waiting.",
+    "explanation": "Đáp án: Waiting/Blocked. Ôn lại: Waiting.",
     "answerText": "Waiting/Blocked",
     "keywords": [
       "Waiting"
@@ -5515,7 +5515,7 @@ window.QUIZ_DATA = [
       "Auth + encryption for communications"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Application. On lai: Application, HTTP.",
+    "explanation": "Đáp án: Application. Ôn lại: Application, HTTP.",
     "answerText": "Application",
     "keywords": [
       "Application",
@@ -5533,7 +5533,7 @@ window.QUIZ_DATA = [
       "Undo uncommitted transaction"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Internet layer. On lai: Internet, IP.",
+    "explanation": "Đáp án: Internet layer. Ôn lại: Internet, IP.",
     "answerText": "Internet layer",
     "keywords": [
       "Internet",
@@ -5551,7 +5551,7 @@ window.QUIZ_DATA = [
       "HTTPS/TLS"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: HTTPS/TLS. On lai: HTTPS, TLS.",
+    "explanation": "Đáp án: HTTPS/TLS. Ôn lại: HTTPS, TLS.",
     "answerText": "HTTPS/TLS",
     "keywords": [
       "HTTPS",
@@ -5569,7 +5569,7 @@ window.QUIZ_DATA = [
       "SMTP"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: SMTP. On lai: SMTP.",
+    "explanation": "Đáp án: SMTP. Ôn lại: SMTP.",
     "answerText": "SMTP",
     "keywords": [
       "SMTP"
@@ -5586,7 +5586,7 @@ window.QUIZ_DATA = [
       "Loader"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: POP/IMAP. On lai: POP, IMAP.",
+    "explanation": "Đáp án: POP/IMAP. Ôn lại: POP, IMAP.",
     "answerText": "POP/IMAP",
     "keywords": [
       "POP",
@@ -5604,7 +5604,7 @@ window.QUIZ_DATA = [
       "Batch processing"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: RAID 5. On lai: RAID 5, parity.",
+    "explanation": "Đáp án: RAID 5. Ôn lại: RAID 5, parity.",
     "answerText": "RAID 5",
     "keywords": [
       "RAID 5",
@@ -5622,7 +5622,7 @@ window.QUIZ_DATA = [
       "Ping / error reporting"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: High availability hardware. On lai: availability.",
+    "explanation": "Đáp án: High availability hardware. Ôn lại: availability.",
     "answerText": "High availability hardware",
     "keywords": [
       "availability"
@@ -5639,7 +5639,7 @@ window.QUIZ_DATA = [
       "Time from request to response"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Availability (power). On lai: UPS, Availability.",
+    "explanation": "Đáp án: Availability (power). Ôn lại: UPS, Availability.",
     "answerText": "Availability (power)",
     "keywords": [
       "UPS",
@@ -5657,7 +5657,7 @@ window.QUIZ_DATA = [
       "LAN Ethernet cabling"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Human/organizational. On lai: Human, clean desk.",
+    "explanation": "Đáp án: Human/organizational. Ôn lại: Human, clean desk.",
     "answerText": "Human/organizational",
     "keywords": [
       "Human",
@@ -5675,7 +5675,7 @@ window.QUIZ_DATA = [
       "Physical security"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Physical security. On lai: Physical.",
+    "explanation": "Đáp án: Physical security. Ôn lại: Physical.",
     "answerText": "Physical security",
     "keywords": [
       "Physical"
@@ -5692,7 +5692,7 @@ window.QUIZ_DATA = [
       "bits / (bandwidth * utilization)"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Technical security measure. On lai: patch, Technical.",
+    "explanation": "Đáp án: Technical security measure. Ôn lại: patch, Technical.",
     "answerText": "Technical security measure",
     "keywords": [
       "patch",
@@ -5710,7 +5710,7 @@ window.QUIZ_DATA = [
       "Classic Ethernet"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Parameterized queries / validate input. On lai: SQL injection, parameterized.",
+    "explanation": "Đáp án: Parameterized queries / validate input. Ôn lại: SQL injection, parameterized.",
     "answerText": "Parameterized queries / validate input",
     "keywords": [
       "SQL injection",
@@ -5728,7 +5728,7 @@ window.QUIZ_DATA = [
       "Web security / input output encoding"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Web security / input output encoding. On lai: XSS.",
+    "explanation": "Đáp án: Web security / input output encoding. Ôn lại: XSS.",
     "answerText": "Web security / input output encoding",
     "keywords": [
       "XSS"
@@ -5745,7 +5745,7 @@ window.QUIZ_DATA = [
       "234"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: CA (Certificate Authority). On lai: CA, certificate.",
+    "explanation": "Đáp án: CA (Certificate Authority). Ôn lại: CA, certificate.",
     "answerText": "CA (Certificate Authority)",
     "keywords": [
       "CA",
@@ -5763,7 +5763,7 @@ window.QUIZ_DATA = [
       "Selection Sort"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: AES. On lai: AES.",
+    "explanation": "Đáp án: AES. Ôn lại: AES.",
     "answerText": "AES",
     "keywords": [
       "AES"
@@ -5780,7 +5780,7 @@ window.QUIZ_DATA = [
       "Non-volatile"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: RSA. On lai: RSA.",
+    "explanation": "Đáp án: RSA. Ôn lại: RSA.",
     "answerText": "RSA",
     "keywords": [
       "RSA"
@@ -5797,7 +5797,7 @@ window.QUIZ_DATA = [
       "Performing an attack that exploits the security hole in an OS"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: SHA. On lai: SHA.",
+    "explanation": "Đáp án: SHA. Ôn lại: SHA.",
     "answerText": "SHA",
     "keywords": [
       "SHA"
@@ -5814,7 +5814,7 @@ window.QUIZ_DATA = [
       "Assembly"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Multi-factor authentication. On lai: MFA.",
+    "explanation": "Đáp án: Multi-factor authentication. Ôn lại: MFA.",
     "answerText": "Multi-factor authentication",
     "keywords": [
       "MFA"
@@ -5831,7 +5831,7 @@ window.QUIZ_DATA = [
       "Auth + encryption for communications"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Role-Based Access Control. On lai: RBAC.",
+    "explanation": "Đáp án: Role-Based Access Control. Ôn lại: RBAC.",
     "answerText": "Role-Based Access Control",
     "keywords": [
       "RBAC"
@@ -5848,7 +5848,7 @@ window.QUIZ_DATA = [
       "Segment public services from internal LAN"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Segment public services from internal LAN. On lai: DMZ.",
+    "explanation": "Đáp án: Segment public services from internal LAN. Ôn lại: DMZ.",
     "answerText": "Segment public services from internal LAN",
     "keywords": [
       "DMZ"
@@ -5865,7 +5865,7 @@ window.QUIZ_DATA = [
       "Detect vs detect+block"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Detect vs detect+block. On lai: IDS, IPS.",
+    "explanation": "Đáp án: Detect vs detect+block. Ôn lại: IDS, IPS.",
     "answerText": "Detect vs detect+block",
     "keywords": [
       "IDS",
@@ -5883,7 +5883,7 @@ window.QUIZ_DATA = [
       "Secure remote communication tunnel"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Secure remote communication tunnel. On lai: VPN.",
+    "explanation": "Đáp án: Secure remote communication tunnel. Ôn lại: VPN.",
     "answerText": "Secure remote communication tunnel",
     "keywords": [
       "VPN"
@@ -5900,7 +5900,7 @@ window.QUIZ_DATA = [
       "DROP TABLE"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: More jobs/transactions per time. On lai: Throughput.",
+    "explanation": "Đáp án: More jobs/transactions per time. Ôn lại: Throughput.",
     "answerText": "More jobs/transactions per time",
     "keywords": [
       "Throughput"
@@ -5917,7 +5917,7 @@ window.QUIZ_DATA = [
       "Fixed cost / (price - variable unit cost)"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Batch job completion latency. On lai: Turnaround.",
+    "explanation": "Đáp án: Batch job completion latency. Ôn lại: Turnaround.",
     "answerText": "Batch job completion latency",
     "keywords": [
       "Turnaround"
@@ -5934,7 +5934,7 @@ window.QUIZ_DATA = [
       "Linker"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Degraded quality, not necessarily fatal. On lai: Soft real-time.",
+    "explanation": "Đáp án: Degraded quality, not necessarily fatal. Ôn lại: Soft real-time.",
     "answerText": "Degraded quality, not necessarily fatal",
     "keywords": [
       "Soft real-time"
@@ -5951,7 +5951,7 @@ window.QUIZ_DATA = [
       "Client requests, server responds"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Client requests, server responds. On lai: Client-server.",
+    "explanation": "Đáp án: Client requests, server responds. Ôn lại: Client-server.",
     "answerText": "Client requests, server responds",
     "keywords": [
       "Client-server"
@@ -5968,7 +5968,7 @@ window.QUIZ_DATA = [
       "No"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Presentation, application, data. On lai: 3-tier, presentation.",
+    "explanation": "Đáp án: Presentation, application, data. Ôn lại: 3-tier, presentation.",
     "answerText": "Presentation, application, data",
     "keywords": [
       "3-tier",
@@ -5986,7 +5986,7 @@ window.QUIZ_DATA = [
       "Segregation of duties"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Reduce redundancy and anomalies. On lai: Chuan hoa, redundancy.",
+    "explanation": "Đáp án: Reduce redundancy and anomalies. Ôn lại: Chuan hoa, redundancy.",
     "answerText": "Reduce redundancy and anomalies",
     "keywords": [
       "Chuan hoa",
@@ -6004,7 +6004,7 @@ window.QUIZ_DATA = [
       "Rectangle"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Rectangle. On lai: Entity, chu nhat.",
+    "explanation": "Đáp án: Rectangle. Ôn lại: Entity, chu nhat.",
     "answerText": "Rectangle",
     "keywords": [
       "Entity",
@@ -6022,7 +6022,7 @@ window.QUIZ_DATA = [
       "More jobs/transactions per time"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Many-to-many. On lai: M:N.",
+    "explanation": "Đáp án: Many-to-many. Ôn lại: M:N.",
     "answerText": "Many-to-many",
     "keywords": [
       "M:N"
@@ -6039,7 +6039,7 @@ window.QUIZ_DATA = [
       "Make transaction durable"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Make transaction durable. On lai: COMMIT.",
+    "explanation": "Đáp án: Make transaction durable. Ôn lại: COMMIT.",
     "answerText": "Make transaction durable",
     "keywords": [
       "COMMIT"
@@ -6056,7 +6056,7 @@ window.QUIZ_DATA = [
       "Undo uncommitted transaction"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Undo uncommitted transaction. On lai: ROLLBACK.",
+    "explanation": "Đáp án: Undo uncommitted transaction. Ôn lại: ROLLBACK.",
     "answerText": "Undo uncommitted transaction",
     "keywords": [
       "ROLLBACK"
@@ -6073,7 +6073,7 @@ window.QUIZ_DATA = [
       "1-(1-R1)(1-R2)..."
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Speed up search. On lai: Index, tang toc.",
+    "explanation": "Đáp án: Speed up search. Ôn lại: Index, tang toc.",
     "answerText": "Speed up search",
     "keywords": [
       "Index",
@@ -6091,7 +6091,7 @@ window.QUIZ_DATA = [
       "8 (Theo quy ước chuẩn, 1 byte bao gồm 8 bits)."
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Virtual table from query. On lai: View.",
+    "explanation": "Đáp án: Virtual table from query. Ôn lại: View.",
     "answerText": "Virtual table from query",
     "keywords": [
       "View"
@@ -6108,7 +6108,7 @@ window.QUIZ_DATA = [
       "Privilege control DCL"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Privilege control DCL. On lai: GRANT, REVOKE.",
+    "explanation": "Đáp án: Privilege control DCL. Ôn lại: GRANT, REVOKE.",
     "answerText": "Privilege control DCL",
     "keywords": [
       "GRANT",
@@ -6126,7 +6126,7 @@ window.QUIZ_DATA = [
       "Product Price Place Promotion"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Online transaction processing. On lai: OLTP.",
+    "explanation": "Đáp án: Online transaction processing. Ôn lại: OLTP.",
     "answerText": "Online transaction processing",
     "keywords": [
       "OLTP"
@@ -6143,7 +6143,7 @@ window.QUIZ_DATA = [
       "Business to Consumer"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Extract Transform Load. On lai: ETL.",
+    "explanation": "Đáp án: Extract Transform Load. Ôn lại: ETL.",
     "answerText": "Extract Transform Load",
     "keywords": [
       "ETL"
@@ -6160,7 +6160,7 @@ window.QUIZ_DATA = [
       "APOP"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Shared medium / collision / cable fault impact. On lai: bus.",
+    "explanation": "Đáp án: Shared medium / collision / cable fault impact. Ôn lại: bus.",
     "answerText": "Shared medium / collision / cable fault impact",
     "keywords": [
       "bus"
@@ -6177,7 +6177,7 @@ window.QUIZ_DATA = [
       "2^n types"
     ],
     "correctIndex": 0,
-    "explanation": "Dap an: Switch/hub. On lai: star, switch.",
+    "explanation": "Đáp án: Switch/hub. Ôn lại: star, switch.",
     "answerText": "Switch/hub",
     "keywords": [
       "star",
@@ -6195,7 +6195,7 @@ window.QUIZ_DATA = [
       "High bandwidth, low noise, long distance"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: High bandwidth, low noise, long distance. On lai: optical fiber.",
+    "explanation": "Đáp án: High bandwidth, low noise, long distance. Ôn lại: optical fiber.",
     "answerText": "High bandwidth, low noise, long distance",
     "keywords": [
       "optical fiber"
@@ -6212,7 +6212,7 @@ window.QUIZ_DATA = [
       "Business Continuity Plan"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: LAN Ethernet cabling. On lai: twisted pair.",
+    "explanation": "Đáp án: LAN Ethernet cabling. Ôn lại: twisted pair.",
     "answerText": "LAN Ethernet cabling",
     "keywords": [
       "twisted pair"
@@ -6229,7 +6229,7 @@ window.QUIZ_DATA = [
       "Minimal vs many services in kernel"
     ],
     "correctIndex": 1,
-    "explanation": "Dap an: Error detection. On lai: CRC.",
+    "explanation": "Đáp án: Error detection. Ôn lại: CRC.",
     "answerText": "Error detection",
     "keywords": [
       "CRC"
@@ -6246,7 +6246,7 @@ window.QUIZ_DATA = [
       "Adapt to environment changes"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Simple error detection. On lai: Parity.",
+    "explanation": "Đáp án: Simple error detection. Ôn lại: Parity.",
     "answerText": "Simple error detection",
     "keywords": [
       "Parity"
@@ -6263,7 +6263,7 @@ window.QUIZ_DATA = [
       "Protects web apps from attacks"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: Throughput via pipelined frames. On lai: sliding window.",
+    "explanation": "Đáp án: Throughput via pipelined frames. Ôn lại: sliding window.",
     "answerText": "Throughput via pipelined frames",
     "keywords": [
       "sliding window"
@@ -6280,7 +6280,7 @@ window.QUIZ_DATA = [
       "IP to MAC"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: IP to MAC. On lai: ARP.",
+    "explanation": "Đáp án: IP to MAC. Ôn lại: ARP.",
     "answerText": "IP to MAC",
     "keywords": [
       "ARP"
@@ -6297,7 +6297,7 @@ window.QUIZ_DATA = [
       "Ping / error reporting"
     ],
     "correctIndex": 3,
-    "explanation": "Dap an: Ping / error reporting. On lai: ICMP.",
+    "explanation": "Đáp án: Ping / error reporting. Ôn lại: ICMP.",
     "answerText": "Ping / error reporting",
     "keywords": [
       "ICMP"
@@ -6314,7 +6314,7 @@ window.QUIZ_DATA = [
       "Selection Sort"
     ],
     "correctIndex": 2,
-    "explanation": "Dap an: 192.168.x.x or 10.x.x.x. On lai: private, 192.168.",
+    "explanation": "Đáp án: 192.168.x.x or 10.x.x.x. Ôn lại: private, 192.168.",
     "answerText": "192.168.x.x or 10.x.x.x",
     "keywords": [
       "private",
