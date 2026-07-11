@@ -2,7 +2,7 @@
 window.STUDY_DATA = [
   {
     "id": "sec-1",
-    "title": "Gioi thieu",
+    "title": "Giới thiệu",
     "level": 0,
     "paragraphs": [
       "Vol.1 IT Fundamentals + Vol.2 IT Strategy & Management"
@@ -61,7 +61,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-5",
-    "title": "2-2 Radix (co so) va chủyen doi",
+    "title": "2-2 Radix (cơ số) và chuyển đổi",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -76,7 +76,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-6",
-    "title": "2-3 Dang biểu diễn so va ky tu",
+    "title": "2-3 Dạng biểu diễn số và ký tự",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -114,7 +114,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-9",
-    "title": "3-3 Lenh va dia chi hoa (Instruction & Addressing)",
+    "title": "3-3 Lệnh và địa chỉ hóa (Instruction & Addressing)",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -125,7 +125,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-10",
-    "title": "3-4 Mach ALU",
+    "title": "3-4 Mạch ALU",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -137,7 +137,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-11",
-    "title": "3-5 Cong nghe tang toc",
+    "title": "3-5 Công nghệ tăng tốc",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -162,7 +162,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-13",
-    "title": "4-2 Optical Disc / 4-3 Semiconductor / 4-4 Khac",
+    "title": "4-2 Optical Disc / 4-3 Semiconductor / 4-4 Khác",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -222,7 +222,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-18",
-    "title": "2-1 ~ 2-3 He thong do tin cay cao",
+    "title": "2-1 ~ 2-3 Hệ thống độ tin cậy cao",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -234,7 +234,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-19",
-    "title": "3-1 Danh gia kha nang xử lý",
+    "title": "3-1 Đánh giá khả năng xử lý",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -247,7 +247,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-20",
-    "title": "3-2 Danh gia do tin cay",
+    "title": "3-2 Đánh giá độ tin cậy",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -260,7 +260,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-21",
-    "title": "3-3 Hiệu quả chi phi",
+    "title": "3-3 Hiệu quả chi phí",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -296,7 +296,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-24",
-    "title": "1-1 Phan loai he thong",
+    "title": "1-1 Phân loại hệ thống",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -321,7 +321,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-26",
-    "title": "2-1 ~ 2-2 Chuc nang OS",
+    "title": "2-1 ~ 2-2 Chức năng OS",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -336,7 +336,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-27",
-    "title": "3-1 ~ 3-3 Ngon ngu va bo xử lý ngon ngu",
+    "title": "3-1 ~ 3-3 Ngôn ngữ và bộ xử lý ngôn ngữ",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -428,7 +428,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-34",
-    "title": "3-1 ~ 3-3 CSDL phân tán, DW, ky thuat khac",
+    "title": "3-1 ~ 3-3 CSDL phân tán, DW, kỹ thuật khác",
     "level": 2,
     "paragraphs": [
       "CHAPTER 5 - NETWORK",
@@ -469,7 +469,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-37",
-    "title": "2-2 OSI 7 lop (HỌC THUỘC)",
+    "title": "2-2 OSI 7 lớp (HỌC THUỘC)",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -485,7 +485,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-38",
-    "title": "2-3 TCP/IP va protocol ung dung",
+    "title": "2-3 TCP/IP và protocol ứng dụng",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -498,7 +498,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-39",
-    "title": "3 LAN / 4 Internet / 5 Quan tri",
+    "title": "3 LAN / 4 Internet / 5 Quản trị",
     "level": 2,
     "paragraphs": [
       "CHAPTER 6 - SECURITY",
@@ -593,7 +593,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-46",
-    "title": "1-3 Stack va Queue",
+    "title": "1-3 Stack và Queue",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -604,7 +604,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-47",
-    "title": "1-4 Cay (Tree)",
+    "title": "1-4 Cây (Tree)",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -799,7 +799,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-63",
-    "title": "1-3 ~ 1-4 Mục tiêu, đánh giá, he thong quan tri",
+    "title": "1-3 ~ 1-4 Mục tiêu, đánh giá, hệ thống quản trị",
     "level": 2,
     "paragraphs": [],
     "bullets": [
@@ -1041,7 +1041,7 @@ window.STUDY_DATA = [
   },
   {
     "id": "sec-82",
-    "title": "1-1 ~ 1-2 Audit va System Audit",
+    "title": "1-1 ~ 1-2 Audit và System Audit",
     "level": 2,
     "paragraphs": [],
     "bullets": [
